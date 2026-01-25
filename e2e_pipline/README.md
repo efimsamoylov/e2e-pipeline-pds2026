@@ -1,25 +1,19 @@
 # E2E Pipeline
 
-Единый пайплайн, объединяющий:
-- Rule-Based (лексикон)
+Unified pipeline combining:
+- Rule-Based (lexicon matching)
 - Hybrid Lexicon (Rules + SetFit)
 
-## Запуск
+## Structure
+- `src/common` — shared utilities (text normalization, IO, metrics, current job selection)
+- `src/algorithms` — algorithm implementations
+- `config` — parameters and paths
+- `pipelines` — entry points for running inference/validation
+- `artifacts` — produced prediction CSVs
+- `models` — saved checkpoints for SetFit
 
-
-## Структура
-- `src/common` — общий функционал
-- `src/algorithms` — реализации подходов
-- `config` — параметры
-- `pipelines` — точки запуска
-
-## 🤖 Model Weights / Веса модели
-
-The model weights are stored on Google Drive due to their size.  
-
-👉 **[Download Model Checkpoint (Google Drive)](https://drive.google.com/drive/folders/1hxRcc6ispLhaqtyVhdRws1gtHEBO2DHO?usp=share_link)**
-
-### Installation / Установка
-1. Download the archive from the link above.
-2. Extract it to `e2e_pipline/models/`.
-3. Run the pipeline.
+## Interactive single-title run
+- Rule-Based: `python pipelines/interactive.py "<job title>" --algo rule_based`
+- Hybrid (Lexicon + SetFit): `python pipelines/interactive.py "<job title>" --algo hybrid_lexicon`
+- Both: `python pipelines/interactive.py "<job title>" --algo all`
+- Loop mode: add `--loop` to keep entering titles until blank input.
