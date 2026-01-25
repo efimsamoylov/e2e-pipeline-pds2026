@@ -69,8 +69,11 @@ def predict_seniority_rule(
                 scores[label] += 1
                 matched[label].append(term)
 
-    for label in SENIORITY_HIERARCHY:
-        if scores[label] > 0:
-            return label, {"matched_terms": matched[label], "all_scores": scores}
+    if any(scores.values()):
+        best_label = max(
+            scores.items(),
+            key=lambda kv: (kv[1], SENIORITY_HIERARCHY.index(kv[0])),
+        )[0]
+        return best_label, {"matched_terms": matched[best_label], "all_scores": scores}
 
     return default_label, {"matched_terms": [], "all_scores": scores}
