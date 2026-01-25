@@ -53,12 +53,21 @@ def predict_seniority_rule(
 ) -> Tuple[str, float]:
     t = normalize_text(text)
 
+    scores = {label: 0 for label in SENIORITY_HIERARCHY}
+
     for label in SENIORITY_HIERARCHY:
         terms = lexicon.get(label, [])
         for term in terms:
             pattern = rf"\b{re.escape(term.lower())}\b"
             if re.search(pattern, t):
-                return label, 10.0
+                scores[label] += 1
+
+    if any(scores.values()):
+        best_label = max(
+            scores.items(),
+            key=lambda kv: (kv[1], SENIORITY_HIERARCHY.index(kv[0])),
+        )[0]
+        return best_label, 10.0
 
     for label, terms in lexicon.items():
         if label in SENIORITY_HIERARCHY:
