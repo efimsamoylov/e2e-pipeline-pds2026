@@ -1,0 +1,609 @@
+profile_id,text,position_raw,department_true,department_pred,department_conf,seniority_true,seniority_pred,seniority_conf
+0,prokurist,Prokurist,Other,Other,1.0,Management,Lead,0.6527005546138718
+1,solutions architect,Solutions Architect,Information Technology,Information Technology,1.0,Senior,Senior,0.3302738771596004
+2,medizintechnik beratung,Medizintechnik Beratung,Consulting,Other,0.31134044901417024,Senior,Senior,0.4490623706140772
+3,director expansion de negocio,Director expansión de negocio.,Business Development,Business Development,1.0,Director,Director,1.0
+4,apl ansvarig samordning,"APL-ansvarig, samordning",Administrative,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+5,kaufmannischer leiter,Kaufmännischer Leiter,Sales,Other,0.28346358610212447,Lead,Lead,0.9456223560990642
+6,lab supervisor,Lab-Supervisor,Other,Other,0.3275301395119918,Lead,Senior,0.39184448230192986
+7,human resources generalist,Human Resources Generalist,Human Resources,Human Resources,0.9938932328716737,Senior,Senior,0.39700162786988125
+8,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+9,meister,Meister,Other,Other,1.0,Lead,Senior,0.4346824524318555
+10,applikation analyst senior,Applikation Analyst Senior,Information Technology,Information Technology,1.0,Senior,Senior,1.0
+11,set lighting,Set Lighting,Other,Other,1.0,Senior,Senior,0.41185242159105717
+12,projektmanager,Projektmanager,Project Management,Project Management,0.9888288429224816,Senior,Lead,1.0
+13,leistungssachbearbeiter sgb ii,Leistungssachbearbeiter SGB II,Other,Other,0.2715658520154976,Senior,Senior,0.367890507663976
+14,energy and sustainability consultant bei,energy and sustainability consultant bei,Consulting,Consulting,0.6991954488000087,Senior,Senior,0.6781889003420585
+15,purchasing manager,Purchasing Manager,Purchasing,Purchasing,0.9558614077077306,Senior,Lead,1.0
+16,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+17,abfallberaterin,Abfallberaterin,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+18,senior project manager,Senior Project Manager,Project Management,Project Management,1.0,Senior,Lead,1.0
+19,inspektør,inspektør,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+20,dr phil,Dr. phil.,Other,Other,1.0,Senior,Senior,0.3867428998805432
+21,geschaftsfuhrer cmo,"Geschäftsführer, CMO",Marketing,Other,1.0,Management,Management,0.9983219325621602
+22,bereichsleiter maschinen,Bereichsleiter Maschinen,Other,Other,0.2885157626480236,Lead,Lead,0.7788008202989543
+23,principal rf design engineer,Principal RF Design Engineer,Information Technology,Information Technology,1.0,Senior,Lead,1.0
+24,physician assistant,Physician Assistant,Other,Other,1.0,Senior,Senior,0.9679395529202044
+25,unternehmensinhaber,Unternehmensinhaber,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+26,consultor de vendas,Consultor de vendas,Sales,Sales,1.0,Senior,Senior,0.50598790053933
+27,ceo founder,CEO/Founder,Other,Other,1.0,Management,Management,1.0
+28,sandblast and prep,Sandblast and prep,Other,Other,0.3818281145119591,Senior,Senior,0.27956352891982383
+29,professor,Professor,Other,Other,1.0,Senior,Senior,0.4175199924506954
+30,qualifizierter kreditsachbearbeiter im risikorelevanten kreditgeschaft,Qualifizierter Kreditsachbearbeiter im risikorelevanten Kreditgeschäft,Other,Other,1.0,Senior,Senior,0.3452953788880376
+31,director,Director,Other,Other,1.0,Director,Director,1.0
+32,it systems and network engineer,IT Systems and Network Engineer,Information Technology,Information Technology,1.0,Senior,Senior,0.5745775177491846
+33,it teamleiter,IT-Teamleiter,Information Technology,Information Technology,1.0,Lead,Lead,0.8648989688545776
+34,senior project manager,Senior Project Manager,Project Management,Project Management,1.0,Senior,Lead,1.0
+35,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+36,head of hr chro,Head of HR/CHRO,Human Resources,Human Resources,0.9980625468737083,Lead,Director,1.0
+37,chief scientific officer,Chief Scientific Officer,Other,Other,0.28144071879749005,Management,Management,1.0
+38,office associate,Office Associate,Administrative,Other,0.22378276478660183,Junior,Junior,1.0
+39,human resources consultant,Human Resources Consultant,Consulting,Human Resources,0.9098390179764764,Senior,Senior,0.7305495408525194
+40,manager,Manager,Other,Other,0.28144101457522197,Senior,Lead,1.0
+41,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+42,alleinvorstand roto frank holding ag,Alleinvorstand Roto Frank Holding AG,Other,Other,1.0,Management,Senior,0.39170266007161514
+43,duales studium diplom finanzwirt,Duales Studium Diplom Finanzwirt,Other,Other,0.2726600002912511,Junior,Senior,0.4175199924506954
+44,product manager,Product Manager,Project Management,Other,0.25764817479885194,Senior,Lead,1.0
+45,reporter,Reporter,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+46,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+47,member of the advisory board,Member of the Advisory Board,Other,Other,0.3098779457228115,Management,Senior,0.3095421342720626
+48,cfo,CFO,Other,Other,1.0,Management,Management,1.0
+49,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+50,director sales,Director Sales,Sales,Other,1.0,Director,Director,1.0
+51,sub stream lead simplify turnaround programs,Sub-Stream Lead Simplify | Turnaround Programs,Project Management,Other,0.23293613876502245,Lead,Lead,1.0
+52,chief revenue officer cro,Chief Revenue Officer (CRO),Sales,Other,0.2543340611685199,Management,Management,1.0
+53,vice president,Vice President,Other,Other,0.31180424336474327,Management,Director,1.0
+54,business development manager,Business Development Manager,Business Development,Sales,1.0,Senior,Lead,1.0
+55,projektleiterin bildung,Projektleiterin Bildung,Other,Other,0.4025413627331064,Lead,Lead,0.7379620739246463
+56,co owner,Co Owner,Other,Other,1.0,Management,Management,1.0
+57,practice leader data valorization strategy,"Practice Leader, Data Valorization Strategy",Consulting,Other,0.26895140605633355,Lead,Senior,0.3526667632351134
+58,is guvenligi,iş güvenliği,Other,Other,0.2762816329384803,Senior,Senior,0.3879512060450066
+59,geschaftsfuhrer bei giganet services gmbh,Geschäftsführer bei Giganet Services GmbH,Other,Other,1.0,Management,Management,0.9027788408328671
+60,strategic design director,Strategic Design Director,Marketing,Marketing,1.0,Director,Director,1.0
+61,museumspadagoge,Museumspädagoge,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+62,technical team lead,Technical Team Lead,Information Technology,Information Technology,1.0,Lead,Senior,0.5232522971125583
+63,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+64,gesellschafter,Gesellschafter,Other,Other,0.2683674120370323,Management,Management,0.6048757311260987
+65,maschinenbautechniker,Maschinenbautechniker,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+66,technical customer service manager flexible packaging,Technical Customer Service Manager - Flexible Packaging,Customer Support,Information Technology,1.0,Lead,Lead,1.0
+67,java software engineer,Java Software Engineer,Information Technology,Information Technology,1.0,Senior,Senior,0.5912530950131767
+68,new business manager,New Business Manager,Business Development,Business Development,1.0,Lead,Lead,1.0
+69,strategic engagement manager,Strategic Engagement Manager,Business Development,Other,0.2258906128545036,Lead,Lead,1.0
+70,projektmanager,Projektmanager,Project Management,Project Management,0.9888288429224816,Senior,Lead,1.0
+71,innovationsberater,Innovationsberater,Consulting,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+72,head of aws preseed and seedfinancing innovative solutions,Head of aws Preseed and Seedfinancing - Innovative Solutions,Other,Other,0.2780027630039394,Lead,Director,1.0
+73,director of product management,Director of Product Management,Project Management,Other,1.0,Director,Director,1.0
+74,executive director of therapies and developmental services,Executive Director of Therapies and Developmental Services,Other,Other,1.0,Director,Director,1.0
+75,technical product developer data scientist,Technical Product Developer & Data Scientist,Information Technology,Information Technology,1.0,Senior,Senior,0.5566088698466757
+76,projektmanager,Projektmanager,Project Management,Project Management,0.9888288429224816,Senior,Lead,1.0
+77,project engineer process technology future farming,Project Engineer Process Technology - Future Farming,Information Technology,Information Technology,1.0,Senior,Senior,0.6614338268602784
+78,kurucu ortak,Kurucu Ortak,Other,Other,0.2726600002912511,Management,Senior,0.39438883405411085
+79,digital marketing manager,Digital Marketing Manager,Marketing,Marketing,1.0,Senior,Lead,1.0
+80,trainer docent,Trainer/docent,Human Resources,Other,0.25387102004168205,Senior,Senior,0.3719683957259615
+81,procurement manager strategische inkoop,Procurement Manager Strategische Inkoop,Purchasing,Other,0.21764484095676434,Senior,Lead,1.0
+82,conversion rate optimization manager,Conversion Rate Optimization Manager,Marketing,Other,0.2826163294869129,Senior,Lead,1.0
+83,partner,Partner,Business Development,Other,0.20879110231908835,Management,Senior,0.37284978676797503
+84,lead naval architect,Lead Naval Architect,Other,Information Technology,1.0,Lead,Senior,0.3351249648378668
+85,inside sales,Inside Sales,Sales,Sales,1.0,Senior,Senior,0.39476211464872873
+86,key account manager,Key-Account-Manager,Sales,Sales,1.0,Senior,Lead,1.0
+87,dr,Dr.,Other,Other,0.26874857315742495,Senior,Senior,0.3867428998805432
+88,ingenieur,Ingenieur,Information Technology,Information Technology,1.0,Senior,Senior,0.4064847411924436
+89,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+90,berufskraftfahrer,Berufskraftfahrer,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+91,head of glass technology,Head of Glass Technology,Other,Information Technology,1.0,Lead,Director,1.0
+92,kaltetechniker,Kältetechniker,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+93,key account manager,Key-Account-Manager,Sales,Sales,1.0,Senior,Lead,1.0
+94,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+95,accounting manager,Accounting Manager,Other,Other,0.28144101457522197,Lead,Lead,1.0
+96,interims technical manager,Interims Technical Manager,Information Technology,Information Technology,1.0,Lead,Lead,1.0
+97,project manager,Project Manager,Project Management,Project Management,1.0,Senior,Lead,1.0
+98,management consultant information security and privacy,Management Consultant Information Security and Privacy,Consulting,Information Technology,1.0,Senior,Senior,0.9170670107459004
+99,buroleiter pressesprecher,Büroleiter | Pressesprecher,Administrative,Other,0.2816150696620965,Lead,Senior,0.4697796108510163
+100,titolare,titolare,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+101,departementssekretar finanz,Departementssekretär Finanz,Other,Other,0.301142821148815,Senior,Senior,0.3555873805288719
+102,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+103,officer,officer,Administrative,Other,0.27470944743917475,Senior,Management,0.9464836534016238
+104,senior berater,Senior Berater,Consulting,Consulting,0.9834944229288237,Senior,Senior,1.0
+105,lehrbeauftragter,Lehrbeauftragter,Consulting,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+106,manager mergers acquisitions,Manager | Mergers & Acquisitions,Other,Other,0.28572007632897933,Senior,Lead,1.0
+107,technical transfer leader,Technical Transfer Leader,Consulting,Information Technology,1.0,Lead,Senior,0.35513086548200534
+108,account manager sælger helly hansen workwear sjælland bornholm,Account manager / Sælger Helly Hansen Workwear Sjælland & Bornholm,Sales,Sales,1.0,Senior,Lead,1.0
+109,geschaftsfuhrender gesellschafter,Geschäftsführender Gesellschafter,Other,Other,0.2683674120370323,Management,Management,0.8462650862039014
+110,director,Director,Other,Other,1.0,Director,Director,1.0
+111,lab mgr,Lab Mgr,Other,Other,0.29373551801041425,Lead,Senior,0.4010121905323098
+112,unternehmensinhaber,Unternehmensinhaber,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+113,board member cfo asset management,"Board Member, CFO / Asset Management",Other,Other,1.0,Management,Management,1.0
+114,ceo,CEO,Other,Other,1.0,Management,Management,1.0
+115,finance aws global private pricing,Finance - AWS Global Private Pricing,Other,Other,0.2537590764879237,Senior,Senior,0.3268611609480824
+116,software developer,Software Developer,Information Technology,Information Technology,1.0,Senior,Senior,0.37680753650959253
+117,vice president global head order processing prokurist,Vice President Global Head Order Processing / Prokurist,Other,Other,1.0,Management,Director,1.0
+118,nailartist,NAILARTIST,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+119,ceo morgenpost tag 24 vertriebsleiter sachsische zeitung lesermark ceo mvd okoflitzer,CEO Morgenpost & TAG 24 | Vertriebsleiter Sächsische Zeitung / Lesermark | CEO MVD Ökoflitzer,Other,Other,1.0,Lead,Management,1.0
+120,styreleder partner,Styreleder / Partner,Other,Other,0.20879110231908835,Management,Senior,0.37284978676797503
+121,vertriebsleiter,Vertriebsleiter,Sales,Sales,1.0,Lead,Lead,0.9912006684686034
+122,director of sales,Director of Sales,Sales,Other,1.0,Director,Director,1.0
+123,industriekauffrau,Industriekauffrau,Administrative,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+124,projektleiter qualitat hv batterie,Projektleiter Qualität HV-Batterie,Project Management,Project Management,0.6786381018476735,Lead,Lead,0.7365306324001498
+125,global director head of portfolio and business development global service,Global Director Head of Portfolio and Business Development Global Service,Business Development,Business Development,1.0,Director,Director,1.0
+126,betreuer,Betreuer,Customer Support,Other,0.27218189797168835,Senior,Senior,0.4175199924506954
+127,summer camp counselor,Summer Camp Counselor,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+128,project lead for swap re engineering project,Project Lead for Swap Re-engineering Project,Project Management,Information Technology,1.0,Lead,Lead,1.0
+129,kanzler cfo,Kanzler / CFO,Other,Other,1.0,Management,Management,1.0
+130,manager purchasing,Manager Purchasing,Purchasing,Purchasing,0.9704657818297587,Senior,Lead,1.0
+131,personalleiter,Personalleiter,Human Resources,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+132,assistant director of prospect management and data analytics,Assistant Director of Prospect Management and Data Analytics,Other,Other,1.0,Director,Director,1.0
+133,klavierlehrer korrepetitor,"Klavierlehrer, Korrepetitor",Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+134,managing partner group managing board,Managing Partner / Group Managing Board,Other,Other,0.24559542286918704,Management,Lead,1.0
+135,manager,Manager,Other,Other,0.28144101457522197,Senior,Lead,1.0
+136,founder and senior partner,Founder and Senior Partner,Consulting,Other,1.0,Management,Management,1.0
+137,vorsitzender des vorstandes,Vorsitzender des Vorstandes,Other,Other,1.0,Management,Management,0.6453269816787869
+138,head of engineering,Head of Engineering,Information Technology,Information Technology,1.0,Lead,Director,1.0
+139,oberarzt uc,Oberarzt UC,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+140,district sales manager,District Sales manager,Sales,Sales,1.0,Lead,Lead,1.0
+141,assistant treasurer real estate,Assistant Treasurer Real Estate,Other,Other,1.0,Junior,Senior,0.6047578935584055
+142,managing dircector,Managing Dircector,Other,Other,1.0,Management,Management,1.0
+143,director of business analysts and special projects,Director of Business Analysts and Special Projects,Information Technology,Other,1.0,Director,Director,1.0
+144,robotertechniker,Robotertechniker,Information Technology,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+145,oo koordinator fur das team der bereiche beschlagwortung zustellproblem,OÖ Koordinator für das Team der Bereiche Beschlagwortung / Zustellproblem,Purchasing,Other,0.23401062018782545,Lead,Senior,0.4263324503337815
+146,head of content workflows,Head of Content & Workflows,Marketing,Marketing,1.0,Lead,Director,1.0
+147,scierie collignon,Scierie collignon,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+148,godsejer,Godsejer,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+149,senior microsoft 365 engineer,Senior Microsoft 365 Engineer,Information Technology,Information Technology,1.0,Senior,Senior,1.0
+150,product manager online catalog shop,Product Manager Online Catalog & Shop,Other,Other,0.32001185060775417,Senior,Lead,1.0
+151,diplom bauingenieur,Diplom Bauingenieur,Other,Information Technology,1.0,Senior,Senior,0.4175199924506954
+152,executive director marketing strategy director,"Executive Director, Marketing Strategy Director",Marketing,Marketing,1.0,Management,Director,1.0
+153,leiter controlling und rechnungswesen,Leiter Controlling und Rechnungswesen,Other,Other,0.35968274565448227,Lead,Lead,0.9264593721838016
+154,president,President,Other,Other,0.3044383157644176,Management,Management,0.9523339492835112
+155,architektin fachgebietsleitung technisches und strategisches gebaudemanagement,"Architektin, Fachgebietsleitung Technisches und Strategisches Gebäudemanagement",Project Management,Other,0.35622488718551415,Lead,Lead,0.5897687699670582
+156,shop manager,Shop Manager,Administrative,Other,0.28144101457522197,Lead,Lead,1.0
+157,co ceo,Co-CEO,Other,Other,1.0,Management,Management,1.0
+158,grafiker,Grafiker,Marketing,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+159,it hosting,IT HOSTING,Information Technology,Information Technology,1.0,Senior,Senior,0.46551099842099347
+160,vice president,Vice President,Other,Other,0.31180424336474327,Management,Director,1.0
+161,krankenhausgeschaftsfuhrer,Krankenhausgeschäftsführer,Other,Other,1.0,Management,Senior,0.4175199924506954
+162,co head of bid management ce,Co-Head of Bid Management CE,Sales,Other,0.2536059172941499,Lead,Director,1.0
+163,leiter it service und betriebsmanagement,Leiter IT-Service- und Betriebsmanagement,Information Technology,Information Technology,1.0,Lead,Lead,0.9050435616268311
+164,senior human resources consultant,Senior Human Resources Consultant,Consulting,Human Resources,0.7792189035519131,Senior,Senior,1.0
+165,senior legal advisor,Senior Legal Advisor,Other,Other,1.0,Senior,Senior,1.0
+166,physiotherapeutin,Physiotherapeutin,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+167,research associate,Research Associate,Consulting,Other,0.227565183412111,Junior,Junior,1.0
+168,geschaftsfuhrender gesellschafter,Geschäftsführender Gesellschafter,Other,Other,0.2683674120370323,Management,Management,0.8462650862039014
+169,finance director central europe,Finance Director Central Europe 🇩🇪🇨🇭🇵🇱,Other,Other,1.0,Director,Director,1.0
+170,senior program analyst immigration,Senior Program Analyst (Immigration),Other,Other,0.17939070174781946,Senior,Senior,1.0
+171,betriebsleiter,Betriebsleiter,Other,Other,0.2726600002912511,Lead,Senior,0.5342940870827615
+172,chief executive officer,Chief Executive Officer,Other,Other,0.27345836040690913,Management,Management,1.0
+173,chief strategy officer cso,Chief Strategy Officer (CSO),Other,Other,0.2406714532509202,Management,Management,1.0
+174,lead consultant,Lead Consultant,Consulting,Consulting,0.9989549700678733,Lead,Senior,0.9629524643917092
+175,cto,CTO,Information Technology,Other,1.0,Management,Management,1.0
+176,software developer,Software Developer,Information Technology,Information Technology,1.0,Senior,Senior,0.37680753650959253
+177,cto,CTO,Information Technology,Other,1.0,Management,Management,1.0
+178,vertrieb außendienst,Vertrieb Außendienst,Sales,Sales,1.0,Senior,Lead,0.744240848770748
+179,projektkoordinator,Projektkoordinator,Project Management,Project Management,0.707195947165623,Lead,Senior,0.43991379897268856
+180,hoofd bouwbureau,Hoofd Bouwbureau,Other,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+181,head of package installation design igc,Head of Package & Installation Design IGC,Project Management,Marketing,1.0,Lead,Director,1.0
+182,director general sector and global programmes,Director General Sector and Global Programmes,Other,Other,1.0,Director,Director,1.0
+183,station manager at ground2air in palma de mallorca,Station Manager at Ground2Air in Palma de Mallorca,Other,Other,0.2976390204180376,Lead,Lead,1.0
+184,bereichs pdl,Bereichs PDL,Other,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+185,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+186,geschaftsinhaber,Geschäftsinhaber,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+187,geschaftsfuhrer cfo,Geschäftsführer CFO,Other,Other,1.0,Management,Management,1.0
+188,responsable des ressources humaines,Responsable des ressources humaines,Human Resources,Other,0.2986462562773416,Lead,Senior,0.6429019834523301
+189,senior project leader,Senior Project Leader,Project Management,Project Management,1.0,Lead,Senior,1.0
+190,editor publisher,"Editor, Publisher",Other,Other,0.2792556883339168,Senior,Senior,0.37895929549512647
+191,selbststandig,Selbstständig,Other,Other,0.26718657012506236,Senior,Senior,0.4175199924506954
+192,verwaltungsratsvorsitzender,Verwaltungsratsvorsitzender,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+193,dozent ausbilder,Dozent/ Ausbilder,Other,Other,0.26582510214774274,Senior,Senior,0.39635910530105306
+194,teamleder arkitektur drift og sikkerhet it seksjonen vid,"Teamleder arkitektur, drift og sikkerhet IT-seksjonen VID",Information Technology,Information Technology,1.0,Lead,Senior,0.4526147061510172
+195,mechanical engineer,Mechanical Engineer,Other,Information Technology,1.0,Senior,Senior,0.8748054536138997
+196,dualer student,Dualer Student,Other,Other,0.2441311318128735,Junior,Senior,0.44445371601430494
+197,responsable technique,Responsable technique,Information Technology,Other,0.45472562081882734,Lead,Senior,0.765102495621781
+198,partner,Partner,Business Development,Other,0.20879110231908835,Management,Senior,0.37284978676797503
+199,geschaftsfuhrer und podcast host,Geschäftsführer und Podcast-Host,Other,Other,1.0,Management,Management,0.9536385339777694
+200,business consultant,Business Consultant,Consulting,Business Development,0.907579657902933,Senior,Senior,0.9149483303110301
+201,president of the board of directors,President Of The Board Of Directors,Other,Other,1.0,Management,Director,1.0
+202,landwirt,Landwirt,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+203,head of group capital markets,Head of Group Capital Markets,Other,Other,0.2639299603147325,Lead,Director,1.0
+204,executive advisor,Executive Advisor,Consulting,Other,0.21972059924500964,Management,Senior,0.7559791457546832
+205,chairman of board of appeal and member of enlarged board of appeal,Chairman of Board of Appeal and Member of Enlarged Board of Appeal,Other,Other,0.2676878389177916,Management,Senior,0.42862123142292996
+206,citrix systems engineer,Citrix Systems Engineer,Information Technology,Information Technology,1.0,Senior,Senior,0.6775761848769316
+207,anesthesiemedewerker,Anesthesiemedewerker,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+208,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+209,teamleiter logistik,Teamleiter Logistik,Other,Other,0.3630088710541266,Lead,Lead,0.8872589266317166
+210,vertriebsdirektor,Vertriebsdirektor,Sales,Sales,1.0,Director,Senior,0.3067593327546826
+211,projektleder,Projektleder,Project Management,Other,0.31807965823362916,Lead,Senior,0.4175199924506954
+212,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+213,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+214,ceo,CEO,Other,Other,1.0,Management,Management,1.0
+215,gerente de comunicacao e marketing,Gerente de Comunicação e Marketing,Marketing,Marketing,1.0,Senior,Senior,0.4173912235019598
+216,operadora de empilhadeira,Operadora de empilhadeira,Other,Marketing,0.49011682040449456,Senior,Senior,0.50598790053933
+217,beamter,Beamter,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+218,geschaftsfuhrer finanzen,Geschäftsführer Finanzen,Other,Other,1.0,Management,Management,0.9451520686761019
+219,ceo,CEO,Other,Other,1.0,Management,Management,1.0
+220,masterblaster,masterblaster,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+221,algemeen directeur,Algemeen directeur,Other,Other,0.31088989882886503,Management,Senior,0.35671145588649006
+222,executive director,Executive Director,Other,Other,1.0,Management,Director,1.0
+223,student records manager,Student Records Manager,Administrative,Other,0.2573614307960971,Lead,Lead,1.0
+224,supply chain lead master planning,Supply Chain Lead & Master Planning,Other,Other,0.26849095463668504,Lead,Lead,1.0
+225,chief executive officer,Chief Executive Officer,Other,Other,0.27345836040690913,Management,Management,1.0
+226,information technology business analyst,Information Technology Business Analyst,Information Technology,Information Technology,1.0,Senior,Junior,1.0
+227,global vp and head of sustainability innovation,Global VP and Head of Sustainability Innovation,Other,Other,0.25632070204852647,Management,Director,1.0
+228,sr application software engineer,Sr. Application Software Engineer,Information Technology,Information Technology,1.0,Senior,Senior,1.0
+229,vorstandsvorsitzender,Vorstandsvorsitzender,Other,Other,1.0,Management,Senior,0.4175199924506954
+230,private equity investments,Private Equity Investments,Other,Other,0.29079162000434616,Senior,Senior,0.43722199158418823
+231,devops orchestration manager,DevOps Orchestration Manager,Information Technology,Information Technology,1.0,Senior,Lead,1.0
+232,leiter expansion und projektentwicklung,Leiter Expansion und Projektentwicklung,Project Management,Business Development,1.0,Lead,Lead,0.968678368179753
+233,legal services,Legal Services,Other,Other,1.0,Senior,Senior,0.4992489073074039
+234,head of marketing promoting label free cell analysis technology,Head of Marketing: Promoting label-free cell analysis technology,Marketing,Information Technology,1.0,Lead,Director,1.0
+235,kfz mechatroniker,Kfz-Mechatroniker,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+236,grafik designer,Grafik Designer,Marketing,Marketing,1.0,Senior,Senior,0.3751396271940623
+237,chief technology officer,Chief Technology Officer,Information Technology,Information Technology,1.0,Management,Management,1.0
+238,manager regional key accounts americas,Manager Regional Key Accounts Americas,Sales,Sales,1.0,Senior,Lead,1.0
+239,digital project managerin marketing,Digital Project Managerin Marketing,Marketing,Marketing,1.0,Senior,Lead,1.0
+240,mediaberater dps fachzeitschrift f schadlingsbekampfung salesmanager dps pest control magazine,Mediaberater DpS - Fachzeitschrift f. Schädlingsbekämpfung/SalesManager DpS - Pest Control Magazine,Sales,Sales,1.0,Senior,Lead,1.0
+242,head of logistics,Head of Logistics,Other,Other,0.23772631692697066,Lead,Director,1.0
+243,data analyst,Data Analyst,Information Technology,Information Technology,1.0,Senior,Junior,1.0
+244,manager program management engineering,"Manager Program Management, Engineering",Project Management,Information Technology,1.0,Senior,Lead,1.0
+245,kfm prokurist,kfm. Prokurist,Other,Other,1.0,Management,Lead,0.5753175909288674
+246,founding partner,Founding Partner,Other,Other,0.20879110231908835,Management,Senior,0.29307679324282615
+247,directeur de la construction,Directeur de la construction,Other,Other,0.4081530738569076,Director,Senior,0.3797918508237029
+248,chief executive officer,Chief Executive Officer,Other,Other,0.27345836040690913,Management,Management,1.0
+249,director of business development,Director of Business Development,Business Development,Business Development,1.0,Director,Director,1.0
+250,neutraubling,Neutraubling,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+251,abteilungsdirektor vertrieb,Abteilungsdirektor Vertrieb,Sales,Sales,1.0,Director,Senior,0.3939036083801521
+252,data analyst sustainable fund finance,Data Analyst (Sustainable & Fund Finance),Other,Information Technology,1.0,Senior,Junior,1.0
+253,kundansvarig,Kundansvarig,Sales,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+254,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+255,referatsleiter,Referatsleiter,Other,Other,0.31714439430152386,Lead,Senior,0.44482454464709814
+256,global it solution architect supply chain transportation,Global IT | Solution Architect Supply Chain Transportation,Information Technology,Information Technology,1.0,Senior,Senior,0.36763801019894926
+257,bilgisayar muhendisi,Bilgisayar mühendisi,Information Technology,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+258,leiterin e commerce,Leiterin E-Commerce,Marketing,Other,0.27467766669422145,Lead,Lead,0.7931627756731894
+259,buroleiter,Büroleiter,Administrative,Other,0.29468963655454095,Lead,Senior,0.4697796108510163
+260,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+261,ppa head of treasury insurance,ppa. Head of Treasury & Insurance,Other,Other,0.2866822812536505,Lead,Director,1.0
+262,sourcing specialist,Sourcing Specialist,Purchasing,Marketing,0.4712832266349358,Senior,Lead,1.0
+263,marketing vertriebsmanager,Marketing Vertriebsmanager,Marketing,Sales,1.0,Lead,Lead,1.0
+264,secretary,Secretary,Administrative,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+265,tanzer entertainer dj,Tänzer Entertainer DJ,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+266,founder owner,"Founder, Owner",Other,Other,1.0,Management,Management,1.0
+267,marketplace manager online shop manager,Marketplace Manager / Online Shop Manager,Sales,Other,0.33866494494052035,Senior,Lead,1.0
+268,vorsitzender des vorstandes ceo,Vorsitzender des Vorstandes (CEO),Other,Other,1.0,Management,Management,1.0
+269,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+270,teamleiter disposition fahrzeuge und stv ressourcenplaner,Teamleiter Disposition Fahrzeuge und Stv. Ressourcenplaner,Other,Other,0.39151856844467914,Lead,Lead,0.9534875313776102
+271,media communication intern,Media Communication Intern,Marketing,Marketing,1.0,Junior,Junior,1.0
+272,account manager,Account Manager,Sales,Sales,1.0,Senior,Lead,1.0
+273,head of marketing communications emea oxford instruments group,Head of Marketing Communications EMEA - Oxford Instruments Group,Marketing,Marketing,1.0,Lead,Director,1.0
+274,unternehmensinhaber,Unternehmensinhaber,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+275,marktondersteuning,Marktondersteuning,Sales,Other,0.2726600002912511,Junior,Senior,0.4175199924506954
+276,director code nomads amsterdam,Director Code Nomads Amsterdam,Information Technology,Other,1.0,Director,Director,1.0
+277,senior customer care representative,Senior Customer Care Representative,Customer Support,Other,0.23911642706580308,Senior,Senior,1.0
+278,koch,Koch,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+279,cto,CTO,Information Technology,Other,1.0,Management,Management,1.0
+280,group design strategy targets,Group Design Strategy & -targets,Other,Marketing,1.0,Senior,Senior,0.30335902169519163
+281,ceo,CEO,Other,Other,1.0,Management,Management,1.0
+282,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+283,assistant manager,Assistant Manager,Other,Other,0.28557754915233025,Lead,Lead,1.0
+284,operations director,Operations Director,Other,Other,1.0,Director,Director,1.0
+285,technische assistenz,Technische Assistenz,Administrative,Administrative,0.8588984801340109,Junior,Lead,0.5792085970958752
+286,lead consultant,Lead consultant,Consulting,Consulting,0.9989549700678733,Lead,Senior,0.9629524643917092
+287,geschaftsfuhrender gesellschafter,Geschäftsführender Gesellschafter,Other,Other,0.2683674120370323,Management,Management,0.8462650862039014
+288,head of it services operations management,Head of IT Services & Operations Management,Information Technology,Information Technology,1.0,Lead,Director,1.0
+289,teamleader it operations management,Teamleader IT Operations Management,Information Technology,Information Technology,1.0,Lead,Senior,0.6225010937346445
+290,vertrieb,Vertrieb,Sales,Sales,1.0,Senior,Lead,0.896360171544382
+291,technischer experte fur stellwerkstechnik,Technischer Experte für Stellwerkstechnik,Information Technology,Other,0.270830473154941,Senior,Senior,0.37954546527349725
+292,hr manager,HR-Manager,Human Resources,Human Resources,0.9867848159166509,Senior,Lead,1.0
+293,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+294,operation supervisor,Operation Supervisor,Other,Other,0.32284677013072777,Lead,Senior,0.41560056872246676
+295,leiter rechnungswesen und finanzen,Leiter Rechnungswesen und Finanzen,Other,Other,0.291372731371387,Lead,Lead,0.926920417180917
+296,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+297,konstrukteur,Konstrukteur,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+298,projektleiter in der engineering it,Projektleiter in der Engineering IT,Information Technology,Information Technology,1.0,Lead,Lead,0.7346512619882963
+299,retail marketing management,Retail Marketing Management,Marketing,Marketing,1.0,Senior,Senior,0.9015761036897618
+300,außendienstspezialist,Außendienstspezialist,Sales,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+301,ruby fullstack developer,Ruby Fullstack Developer,Information Technology,Information Technology,1.0,Senior,Senior,0.3954327690722833
+302,ceo,CEO,Other,Other,1.0,Management,Management,1.0
+303,chef de projet senior,Chef de projet senior,Project Management,Project Management,1.0,Senior,Lead,1.0
+304,kaufmannischer leiter,Kaufmännischer Leiter,Administrative,Other,0.28346358610212447,Lead,Lead,0.9456223560990642
+305,country manager czech republic and slovakia,Country Manager Czech Republic and Slovakia,Other,Other,0.2702266004813607,Lead,Management,1.0
+306,unternehmensinhaber,Unternehmensinhaber,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+307,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+308,group ceo,Group CEO,Other,Other,1.0,Management,Management,1.0
+309,associate consultant,Associate Consultant,Consulting,Consulting,0.9383253042782549,Junior,Junior,1.0
+310,director finance and information technology,"Director, Finance and Information Technology",Other,Information Technology,1.0,Director,Director,1.0
+311,bergungsleiter,Bergungsleiter,Other,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+312,versuchstragerverantwortlicher,Versuchsträgerverantwortlicher,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+313,co ceo,Co-CEO,Other,Other,1.0,Management,Management,1.0
+314,aircraft physical security expert,Aircraft Physical Security Expert,Other,Information Technology,1.0,Senior,Senior,0.36472180496855494
+315,director maintenance service management national and international,Director Maintenance Service Management national and international,Other,Other,1.0,Director,Director,1.0
+316,general manager,General Manager,Other,Other,0.3469655847759539,Management,Management,1.0
+317,zahntechniker,Zahntechniker,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+318,head of regulatory projects,Head of Regulatory Projects,Consulting,Other,0.3976933811415597,Lead,Director,1.0
+319,owner,Owner,Other,Other,1.0,Management,Management,1.0
+320,financial analyst,Financial Analyst,Other,Other,0.2543695835439118,Senior,Junior,1.0
+321,mentor,Mentor,Other,Other,0.26315278415358023,Senior,Senior,0.4013787409431919
+322,vertriebsingenieur,Vertriebsingenieur,Sales,Information Technology,1.0,Senior,Senior,0.4093052446175011
+323,professor im ruhestand,Professor im Ruhestand,Other,Other,1.0,Senior,Senior,0.3452953788880376
+324,rechtsanwalt,Rechtsanwalt,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+325,vedouci pobocky popuvky,Vedoucí pobočky Popůvky,Administrative,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+326,lead engineer groepscoordinator,Lead engineer/ groepscoordinator,Information Technology,Information Technology,1.0,Lead,Management,1.0
+327,geschaftsfuherer,Geschäftsfüherer,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+328,dezernat fur wirtschaft stadtentwicklung liegenschaften und ordnungswesen buroleitung referent,"Dezernat für Wirtschaft, Stadtentwicklung, Liegenschaften und Ordnungswesen - Büroleitung/Referent",Other,Other,0.38083056536396637,Lead,Junior,0.759217006452243
+329,senior enterprise it systems specialist,Senior Enterprise IT Systems Specialist,Information Technology,Information Technology,1.0,Senior,Lead,1.0
+330,vikar,Vikar,Other,Other,0.2726600002912511,Junior,Senior,0.4175199924506954
+331,general manager,General Manager,Other,Other,0.3469655847759539,Management,Management,1.0
+332,chief sales officer cso,Chief Sales Officer (CSO),Sales,Sales,1.0,Management,Management,1.0
+333,key account manager,Key Account Manager,Sales,Sales,1.0,Senior,Lead,1.0
+334,selbststandig,Selbstständig,Other,Other,0.26718657012506236,Senior,Senior,0.4175199924506954
+335,project manager,Project Manager,Project Management,Project Management,1.0,Senior,Lead,1.0
+336,enseignant,Enseignant,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+337,metallbearbeiter,Metallbearbeiter,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+338,senior account manager public sector,Senior Account Manager Public Sector,Sales,Other,1.0,Senior,Management,1.0
+339,senior consultant procurement excellence,Senior Consultant Procurement Excellence,Consulting,Consulting,0.9888889215173612,Senior,Senior,1.0
+340,rechtsanwalt,Rechtsanwalt,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+341,commercial service manager,Commercial Service Manager,Customer Support,Sales,1.0,Senior,Lead,1.0
+342,head of capex delivery management and planning site leverkusen,Head of CapEx Delivery Management and Planning Site Leverkusen,Project Management,Other,0.24031423906840402,Lead,Director,1.0
+343,quality manager,Quality Manager,Other,Other,0.3036655189500023,Senior,Lead,1.0
+344,senior it lizenzspezialist,Senior IT-Lizenzspezialist,Information Technology,Information Technology,1.0,Senior,Senior,1.0
+345,strategy director,Strategy Director,Business Development,Other,1.0,Director,Director,1.0
+346,unternehmensinhaber,Unternehmensinhaber,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+347,unternehmensinhaber,Unternehmensinhaber,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+348,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+349,director commercial operations,Director Commercial Operations,Marketing,Other,1.0,Director,Director,1.0
+350,betriebsleiter api produktion,Betriebsleiter API-Produktion,Information Technology,Other,0.271779654691044,Lead,Senior,0.49529568555532455
+351,human resources specialist,Human Resources Specialist,Human Resources,Human Resources,0.9901492461904396,Senior,Lead,1.0
+352,49504,49504,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+353,family nurse practitioner,Family Nurse Practitioner,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+354,global chief engineer manager power electronics obc dcdc,Global Chief Engineer / Manager - Power Electronics (OBC/DCDC),Information Technology,Information Technology,1.0,Lead,Management,1.0
+355,inhaber rido gmbh,Inhaber rido gmbh,Other,Other,0.3276005107913527,Management,Management,0.5927311890147275
+356,sap solutions consultant,SAP Solutions Consultant,Consulting,Consulting,0.8940152802468491,Senior,Senior,0.7982152646698157
+357,senior treasury manager,Senior Treasury Manager,Other,Other,0.22234046440423239,Senior,Lead,1.0
+358,senior consultant,Senior Consultant,Consulting,Consulting,0.9998274894074586,Senior,Senior,1.0
+359,freelance marketing consulting client service interim marketing branding,Freelance Marketing Consulting / Client Service / Interim Marketing & Branding,Consulting,Marketing,1.0,Senior,Senior,0.39753903160636384
+360,vp product management,VP Product Management,Project Management,Other,0.2267789207533486,Management,Director,1.0
+361,head of mechanical engiuneering,Head of Mechanical Engiuneering,Other,Other,0.260777862465863,Lead,Director,1.0
+362,progettista finanza agevolata research funding administration,Progettista Finanza Agevolata - Research Funding & Administration,Other,Information Technology,0.4891717357369999,Senior,Senior,0.4203912817446866
+363,leiter supply chain management,Leiter Supply-Chain-Management,Other,Other,0.22476819338999113,Lead,Senior,0.5965503631817732
+364,software engineer iv,Software Engineer IV,Information Technology,Information Technology,1.0,Senior,Senior,0.6383142245413563
+365,communications coordinator,Communications Coordinator,Marketing,Marketing,1.0,Lead,Management,1.0
+366,head of ict,Head of ICT,Information Technology,Other,0.24462460615349774,Lead,Director,1.0
+367,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+368,responsable,Responsable,Other,Other,0.45472562081882734,Lead,Senior,0.9849862677292084
+369,head of sales dach,Head of Sales DACH,Sales,Sales,1.0,Lead,Director,1.0
+370,senior partner,Senior Partner,Business Development,Other,0.2339660565130869,Senior,Senior,1.0
+371,application consultant,Application Consultant,Consulting,Consulting,0.9606296668120891,Senior,Senior,0.894501468649561
+372,partner,Partner,Business Development,Other,0.20879110231908835,Management,Senior,0.37284978676797503
+373,postdoctoral researcher and lecturer,Postdoctoral Researcher and Lecturer,Other,Other,1.0,Senior,Management,1.0
+374,purchasing manager,Purchasing Manager,Purchasing,Purchasing,0.9558614077077306,Senior,Lead,1.0
+375,postdoctoral research fellow,Postdoctoral Research Fellow,Other,Other,1.0,Senior,Management,1.0
+376,industriemechaniker,Industriemechaniker,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+377,strategic purchasing manager group purchasing,Strategic Purchasing Manager • Group Purchasing,Purchasing,Purchasing,0.9223927500195135,Senior,Lead,1.0
+378,konsult hr,Konsult HR,Human Resources,Human Resources,0.9999236329864527,Senior,Senior,0.30647023092053105
+379,leiter vergutung versorgung,Leiter Vergütung & Versorgung,Human Resources,Other,0.34451203063857044,Lead,Lead,0.9997690962406777
+380,produktmanager optomechanik,Produktmanager Optomechanik,Project Management,Other,0.2645322563177421,Senior,Lead,1.0
+381,senior vice president,Senior Vice President,Other,Other,0.26123177573591194,Management,Director,1.0
+382,researcher,Researcher,Other,Other,1.0,Senior,Senior,0.39239252600985663
+383,arbeitslos,Arbeitslos,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+384,senior lecturer education focused,"Senior Lecturer, Education-Focused",Other,Other,0.19281560584568422,Senior,Senior,1.0
+385,delegierter verwalter,Delegierter Verwalter,Other,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+386,director of sales marketing,Director of Sales & Marketing,Sales,Marketing,1.0,Director,Director,1.0
+387,master data demand manager supply chain management,Master Data & Demand Manager Supply Chain Management,Other,Other,0.1911101701795569,Senior,Lead,1.0
+388,software entwickler,Software-Entwickler,Information Technology,Information Technology,1.0,Senior,Senior,0.44732183707907663
+389,verkaufsleitung,Verkaufsleitung,Sales,Sales,1.0,Lead,Lead,0.725264165917543
+390,platform support direct drive,Platform Support Direct Drive,Customer Support,Customer Support,0.8457394910376025,Senior,Senior,0.46686494043916066
+391,vedouci ucetni,vedoucí účetní,Other,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+392,recruitment manager,Recruitment Manager,Human Resources,Other,0.32300352204757166,Senior,Lead,1.0
+393,vice president national sales manager,"Vice President, National Sales Manager",Sales,Sales,1.0,Management,Director,1.0
+394,geschaftsfuhrer spie gft gmbh,Geschäftsführer SPIE GfT GmbH,Other,Other,1.0,Management,Management,0.9909017567765067
+395,professor,Professor,Other,Other,1.0,Senior,Senior,0.4175199924506954
+396,head of marketing technology teamlead,Head of Marketing Technology (Teamlead),Marketing,Information Technology,1.0,Lead,Director,1.0
+397,automaticien electricien,AUTOMATICIEN ELECTRICIEN,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+398,strategic planning,Strategic Planning,Consulting,Other,0.255514743380527,Senior,Senior,0.3783990583192349
+399,pasticcere,Pasticcere,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+400,general manager,General Manager,Other,Other,0.3469655847759539,Management,Management,1.0
+401,grafikdesigner freelance,Grafikdesigner (Freelance),Marketing,Marketing,1.0,Senior,Senior,0.41633091432200775
+402,account manager talent acquisition lead,Account Manager & Talent Acquisition Lead,Human Resources,Sales,1.0,Lead,Lead,1.0
+403,geschaftsfuhrender gesellschafter,Geschäftsführender Gesellschafter,Other,Other,0.2683674120370323,Management,Management,0.8462650862039014
+404,maintenance engineering manager,Maintenance & Engineering Manager,Information Technology,Information Technology,1.0,Senior,Lead,1.0
+405,business analyst,Business Analyst,Other,Business Development,0.9986379570711564,Senior,Junior,1.0
+406,bereichsleiter central service center,Bereichsleiter Central Service Center,Customer Support,Other,0.36995959111963594,Lead,Lead,0.7587926952098057
+407,researcher,Researcher,Other,Other,1.0,Senior,Senior,0.39239252600985663
+408,schornsteinfeger meisterbetrieb,Schornsteinfeger Meisterbetrieb,Other,Other,1.0,Lead,Senior,0.4175199924506954
+409,projektleitung zur entwicklung und implementierung einer neuen gießtechnologie,Projektleitung zur Entwicklung und Implementierung einer neuen Gießtechnologie,Project Management,Project Management,0.6994046460840312,Lead,Lead,0.8034195464094377
+410,head of process and erp governance,Head of Process and ERP Governance,Information Technology,Other,0.2700059289798598,Lead,Director,1.0
+411,senior ux designer,Senior UX Designer,Information Technology,Marketing,1.0,Senior,Senior,1.0
+412,cloud advisory analyst,Cloud Advisory Analyst,Consulting,Information Technology,1.0,Senior,Junior,1.0
+413,leiter managed it cloud services,Leiter Managed IT | Cloud Services,Information Technology,Information Technology,1.0,Lead,Lead,0.7186993557355325
+414,客户经理,客户经理,Sales,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+415,senior manager b2b contract implementation management,Senior Manager B2B Contract & Implementation Management,Project Management,Other,0.21112539626859972,Senior,Management,1.0
+416,research development group manager,Research Development Group Manager,Information Technology,Other,0.2554680869606223,Senior,Management,1.0
+417,head of accounting and tax department,Head of accounting and tax department,Other,Other,0.24855782790258968,Lead,Director,1.0
+418,teamleiter bestandesentwicklung,Teamleiter Bestandesentwicklung,Other,Other,0.41366876707356676,Lead,Lead,0.9758555677890417
+419,operador de maquinas,Operador de máquinas,Other,Marketing,0.49011682040449456,Senior,Senior,0.50598790053933
+420,juristin,Juristin,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+421,projektleiter,Projektleiter,Project Management,Project Management,0.9940798980914411,Lead,Lead,0.9480497748731664
+422,head of procurement,Head of Procurement,Purchasing,Other,0.24285026513978003,Lead,Director,1.0
+423,founder and owner,Founder and owner,Other,Other,1.0,Management,Management,1.0
+424,machine operator,machine operator,Other,Other,0.26701802515868833,Senior,Senior,0.39206490328469706
+425,hgf,HGF,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+426,managing director cto,Managing Director (CTO),Information Technology,Other,1.0,Management,Director,1.0
+427,professor,Professor,Other,Other,1.0,Senior,Senior,0.4175199924506954
+428,senior manager,Senior Manager,Other,Other,0.2040678026576395,Senior,Management,1.0
+429,hr specialist,HR Specialist,Human Resources,Human Resources,0.9990577487646672,Senior,Lead,1.0
+430,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+431,cyber security analyst senior,Cyber Security Analyst - Senior,Information Technology,Information Technology,1.0,Senior,Senior,1.0
+432,metal fabricator,Metal Fabricator,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+433,purchasing senior manager,Purchasing Senior Manager,Purchasing,Purchasing,0.7990434862006921,Senior,Management,1.0
+434,partner,Partner,Business Development,Other,0.20879110231908835,Management,Senior,0.37284978676797503
+435,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+436,vorstandsassistent cmo,"Vorstandsassistent, CMO",Marketing,Other,1.0,Management,Management,0.8537461807133107
+437,co founder and ceo,Co-Founder and CEO,Other,Other,1.0,Management,Management,1.0
+438,sub manager coordination planning,Sub-Manager Coordination & Planning,Project Management,Other,1.0,Lead,Management,1.0
+439,geschaftsfuhrer ceo,Geschäftsführer (CEO),Other,Other,1.0,Management,Management,1.0
+440,vakbekwaam hovenier,Vakbekwaam Hovenier,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+441,verkaufsmanager,Verkaufsmanager,Sales,Sales,1.0,Senior,Lead,1.0
+442,professor,Professor,Other,Other,1.0,Senior,Senior,0.4175199924506954
+443,professor of french and francophone studies,Professor of French and Francophone Studies,Other,Other,1.0,Senior,Lead,0.6894616007347187
+444,hr specialist personnel development,HR Specialist Personnel Development,Human Resources,Human Resources,0.9960314572610697,Senior,Lead,1.0
+445,directeur,Directeur,Other,Other,0.31088989882886503,Director,Senior,0.35671145588649006
+446,senior executive in l d department,Senior Executive in L&D Department,Human Resources,Other,0.20696391708196077,Senior,Senior,1.0
+447,finance and hr,Finance and HR,Other,Human Resources,0.8717697476593618,Senior,Senior,0.3251780402456029
+448,geschaftsfuhrer berater designer,Geschäftsführer + Berater + Designer,Other,Marketing,1.0,Management,Management,0.8755395168811537
+449,phd student,PHD Student,Other,Other,0.2441311318128735,Junior,Senior,0.4196471258456846
+450,dozent,Dozent,Other,Other,0.26582510214774274,Senior,Senior,0.4175199924506954
+451,avp dental quality clinical oversight,"AVP, Dental Quality & Clinical Oversight",Other,Other,0.26581208780476256,Senior,Director,1.0
+452,vorstandsvorsitzender der kick media ag,Vorstandsvorsitzender der Kick-Media AG,Other,Marketing,1.0,Management,Senior,0.4922570739214422
+453,assistant,Assistant,Administrative,Other,0.2651320076368681,Junior,Senior,0.9679395529202044
+454,gesamtleiterin personal mitglied der geschaftsleitung,"Gesamtleiterin Personal, Mitglied der Geschäftsleitung",Human Resources,Other,0.365929696340597,Lead,Lead,0.8737065600318856
+455,it cad administrator ofice organisation,IT CAD Administrator / Ofice Organisation,Information Technology,Information Technology,1.0,Senior,Senior,0.4887345244212922
+456,partner,Partner,Business Development,Other,0.20879110231908835,Management,Senior,0.37284978676797503
+457,responsable de salle,Responsable de salle,Administrative,Marketing,0.48424280313361656,Lead,Senior,0.8620316932090275
+458,inhaber,Inhaber,Other,Other,0.2685731788784643,Management,Management,0.5655378306960318
+459,special education advocate education consultant,Special Education Advocate/Education Consultant,Consulting,Consulting,0.6840551293772464,Senior,Senior,0.6168216148300246
+460,elctrician,"elctrician ,",Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+461,ceo co founder,CEO & Co-Founder,Other,Other,1.0,Management,Management,1.0
+462,bauprojektleiter,Bauprojektleiter,Project Management,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+463,head of strategic purchasing,Head of Strategic Purchasing,Purchasing,Other,0.425557031011937,Lead,Director,1.0
+464,inspecteur general de l education du sport et de la recherche,"inspecteur général de l'éducation, du sport et de la recherche",Other,Other,0.43502325529468466,Senior,Senior,0.4519216790942776
+465,owner,Owner,Other,Other,1.0,Management,Management,1.0
+466,systemischer berater fur organisationsentwicklung und coach,Systemischer Berater für Organisationsentwicklung und Coach,Consulting,Information Technology,1.0,Senior,Senior,0.39166847993847365
+467,general manager vice president of planning,General Manager/Vice President of Planning,Other,Other,0.333067767844853,Management,Director,1.0
+468,senior diversity inclusion partner,Senior Diversity & Inclusion Partner,Human Resources,Other,0.453000043055175,Senior,Senior,1.0
+469,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+470,key account project manager,Key Account / Project Manager,Other,Sales,1.0,Lead,Lead,1.0
+471,offentlicher angestellter,Öffentlicher Angestellter,Administrative,Other,0.29467385247266553,Senior,Senior,0.4175199924506954
+472,owner,Owner,Other,Other,1.0,Management,Management,1.0
+473,senior commercial manager,Senior Commercial Manager,Sales,Sales,1.0,Senior,Lead,1.0
+474,im un ruhestand,im (Un-)Ruhestand,Other,Other,0.33981889656612246,Senior,Senior,0.37662583407804545
+475,executive vice president connected software systems services,Executive Vice President Connected Software Systems & Services,Information Technology,Information Technology,1.0,Management,Director,1.0
+476,abteilungsleiter vertrieb dipl bankbetriebswirt management adg,"Abteilungsleiter Vertrieb, Dipl. Bankbetriebswirt Management (ADG)",Sales,Sales,1.0,Lead,Senior,0.4710857616047079
+477,hr it consultant,HR IT Consultant,Consulting,Information Technology,1.0,Senior,Senior,0.8354161864107083
+478,ceo,CEO,Other,Other,1.0,Management,Management,1.0
+479,bestuursassistent,Bestuursassistent,Administrative,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+480,owner,Owner,Other,Other,1.0,Management,Management,1.0
+481,senior data analyst,Senior Data Analyst,Information Technology,Information Technology,1.0,Senior,Senior,1.0
+482,scheduler,Scheduler,Administrative,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+483,tekniklektor,Tekniklektor,Information Technology,Other,0.2726600002912511,Lead,Senior,0.4175199924506954
+484,trainee solicitor,Trainee Solicitor,Other,Other,0.27063751283596155,Junior,Junior,1.0
+485,unternehmensinhaber,Unternehmensinhaber,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+486,managing director,Managing Director,Other,Other,1.0,Management,Director,1.0
+487,electronic banking spezialist,Electronic Banking Spezialist,Other,Other,0.25174194429395236,Senior,Senior,0.4211642986788412
+488,edi berater,EDI-Berater,Consulting,Consulting,0.8443273654631744,Senior,Senior,0.3637421220978429
+489,chief operating officer,Chief Operating Officer,Other,Other,0.28144071879749005,Management,Management,1.0
+490,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+491,senior technology architect,Senior Technology Architect,Information Technology,Information Technology,1.0,Senior,Senior,1.0
+492,chief executive officer,Chief Executive Officer,Other,Other,0.27345836040690913,Management,Management,1.0
+493,director of food and beverage,Director Of Food And Beverage,Other,Other,1.0,Director,Director,1.0
+494,managing sr underwriting director,Managing Sr. Underwriting Director,Other,Other,1.0,Senior,Director,1.0
+495,head of business unit finance executive vice president,Head of Business Unit Finance | Executive Vice President,Other,Information Technology,1.0,Lead,Director,1.0
+496,facility coordinator cbre gws gmbh,Facility Coordinator CBRE GWS GmbH,Administrative,Other,1.0,Lead,Management,1.0
+497,director,Director,Other,Other,1.0,Director,Director,1.0
+498,associate,Associate,Other,Other,0.2634091573685091,Junior,Junior,1.0
+499,buyer,Buyer,Purchasing,Other,0.2336665182752941,Senior,Senior,0.4175199924506954
+500,radiologe,Radiologe,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+501,warranty service specialist,Warranty Service Specialist,Customer Support,Other,0.2906410761169462,Senior,Lead,1.0
+502,hr talent manager,HR - Talent Manager,Human Resources,Human Resources,0.9815633489423483,Senior,Lead,1.0
+503,senior director of sales sdr germany,Senior Director of Sales & SDR Germany,Sales,Other,1.0,Director,Director,1.0
+504,investment associate,Investment Associate,Other,Other,0.2532441946451326,Junior,Junior,1.0
+505,addetto alla logistica,Addetto alla logistica,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+506,ceo,CEO,Other,Other,1.0,Management,Management,1.0
+507,senior director,Senior director,Other,Other,1.0,Director,Director,1.0
+508,assistant clinical research associate,Assistant Clinical Research Associate,Other,Other,0.2308318905648599,Junior,Junior,1.0
+509,office administrator,Office Administrator,Administrative,Other,0.4039394794878437,Senior,Senior,0.47905860612413725
+510,regionaler vertriebsleiter,Regionaler Vertriebsleiter,Sales,Sales,1.0,Lead,Lead,0.8338416862140778
+511,portfolio manager,Portfolio Manager,Other,Other,0.2774008847082921,Senior,Lead,1.0
+512,inhaber,Inhaber,Other,Other,0.2685731788784643,Management,Management,0.5655378306960318
+513,technical development manager interconnect,Technical Development Manager - Interconnect,Information Technology,Information Technology,1.0,Senior,Lead,1.0
+514,partner und vrp,Partner und VRP,Business Development,Other,0.29566318854951135,Management,Senior,0.3517527480205997
+515,vice president,Vice President,Other,Other,0.31180424336474327,Management,Director,1.0
+516,cfo,CFO,Other,Other,1.0,Management,Management,1.0
+517,chief executive officer,Chief Executive Officer,Other,Other,0.27345836040690913,Management,Management,1.0
+518,programmierer,Programmierer,Information Technology,Other,0.26743850777783496,Senior,Senior,0.4175199924506954
+519,global mobility consultant,Global Mobility Consultant,Consulting,Consulting,0.8727804534876612,Senior,Senior,0.7510799800247452
+520,facharzt fur orthopadie und unfallchirurgie chirurgie chirotherapie naturheilverfahren,"Facharzt für Orthopädie und Unfallchirurgie,Chirurgie Chirotherapie, , Naturheilverfahren",Other,Other,0.4550385495729921,Senior,Senior,0.4776227355201408
+521,qualitatsmanager,Qualitätsmanager,Project Management,Other,0.2726600002912511,Lead,Lead,1.0
+522,ceo,CEO,Other,Other,1.0,Management,Management,1.0
+523,senior manager,Senior Manager,Other,Other,0.2040678026576395,Senior,Management,1.0
+524,daytrader,DayTrader,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+525,vp purchasing supplier quality webasto china,VP Purchasing & Supplier Quality Webasto China,Purchasing,Purchasing,0.7333425581255663,Management,Director,1.0
+526,sap berater,SAP Berater,Consulting,Information Technology,0.6050124678386264,Senior,Senior,0.3722296431801043
+527,deloitte digital,Deloitte Digital,Consulting,Information Technology,0.6476281621741455,Senior,Senior,0.3684470983475978
+528,equipment project manager,Equipment Project Manager,Project Management,Project Management,1.0,Senior,Lead,1.0
+529,lian da information technology co ltd,"lian da information technology co., LTD",Other,Information Technology,1.0,Senior,Senior,0.42048778824683564
+530,business owner,Business Owner,Other,Other,1.0,Management,Management,1.0
+531,geschaftsfuhrer ceo,Geschäftsführer - CEO,Other,Other,1.0,Management,Management,1.0
+532,evp strategic partnerships,EVP Strategic Partnerships,Business Development,Business Development,1.0,Senior,Director,1.0
+533,senior hvac technician,Senior HVAC Technician,Other,Other,0.19193750421572406,Senior,Senior,1.0
+534,non executive director member of the supervisory board,Non Executive Director - Member of the Supervisory Board,Other,Other,1.0,Management,Director,1.0
+535,bauverwaltung,Bauverwaltung,Administrative,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+536,rechtsanwalt mit schwerpunkt gen biotechnik und arzneimittelrecht,Rechtsanwalt mit Schwerpunkt Gen-/Biotechnik und Arzneimittelrecht,Other,Information Technology,1.0,Senior,Senior,0.4539453735152494
+537,sports columnist,Sports Columnist,Other,Other,0.2750728370605586,Senior,Senior,0.41183635154803755
+538,managing consultant business transformation,Managing Consultant - Business Transformation,Consulting,Business Development,0.5063223686343664,Senior,Lead,1.0
+539,fahrer,Fahrer,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+540,leiter personal und recht,Leiter Personal und Recht,Human Resources,Other,0.33512592907572986,Lead,Lead,0.9376513760546824
+541,ceo,CEO,Other,Other,1.0,Management,Management,1.0
+542,vorsitzender der aufsichtsrate mecklenburgische versicherungen,Vorsitzender der Aufsichtsräte Mecklenburgische Versicherungen,Other,Administrative,0.8604510344159816,Management,Senior,0.47612012444337176
+543,junior referent landesforderinstitute,Junior Referent Landesförderinstitute,Other,Other,0.28342718767011865,Junior,Junior,1.0
+544,retraite,Retraité,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+545,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+546,founder,Founder,Other,Other,1.0,Management,Management,1.0
+547,head of sales partnerships,Head of Sales & Partnerships,Sales,Sales,1.0,Lead,Director,1.0
+548,public health consultant,Public Health Consultant,Consulting,Consulting,0.9509083593453026,Senior,Senior,0.817745851360076
+549,vertriebsleiter,Vertriebsleiter,Sales,Sales,1.0,Lead,Lead,0.9912006684686034
+550,devsecops coe lead,DevSecOps CoE Lead,Information Technology,Other,0.23446225062185713,Lead,Senior,0.3894569424618884
+551,executive vice president digital customer solutions,Executive Vice President Digital Customer Solutions,Marketing,Other,0.40703087569344587,Management,Director,1.0
+552,senior financial crimes investigator,Senior Financial Crimes Investigator,Other,Other,0.18598981247809332,Senior,Senior,1.0
+553,projektmanager therapieberufe,Projektmanager Therapieberufe,Project Management,Project Management,0.9888288429224816,Senior,Lead,1.0
+554,leiter zerstorungsfreie prufungen mqp,Leiter Zerstörungsfreie Prüfungen MQP,Other,Other,0.34451203063857044,Lead,Lead,0.9997690962406777
+555,referent digitale schiene,Referent Digitale Schiene,Marketing,Information Technology,0.5255436885883205,Senior,Junior,0.9245686448094033
+556,director projects,Director Projects,Project Management,Other,1.0,Director,Director,1.0
+557,geschaftsfuhrer general manager,Geschäftsführer / General Manager,Other,Other,1.0,Management,Management,1.0
+558,managing partner,Managing Partner,Business Development,Other,0.25605717212291784,Management,Lead,1.0
+559,retired,retired,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+560,vertriebsspezialist,Vertriebsspezialist,Sales,Sales,1.0,Senior,Senior,0.4175199924506954
+561,diatary aide,Diatary Aide,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+562,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+563,consultant,Consultant,Consulting,Consulting,0.9999960156660944,Senior,Senior,0.9930118622889688
+564,research analyst,Research Analyst,Other,Other,0.2359332583404971,Senior,Junior,1.0
+565,senior consultant data center,Senior Consultant Data Center,Consulting,Consulting,0.9713642439539316,Senior,Senior,1.0
+566,head of riv academy blockchain,Head Of RIV Academy - Blockchain,Information Technology,Other,0.25991969353915684,Lead,Director,1.0
+567,software architect,Software Architect,Information Technology,Information Technology,1.0,Senior,Senior,0.35675321958275424
+568,product and service manager qualitymanagement solution architect,Product and Service Manager Qualitymanagement; Solution architect,Other,Information Technology,1.0,Senior,Lead,1.0
+569,geschaftsfuhrender inhaber,Geschäftsführender Inhaber,Other,Other,0.2685731788784643,Management,Management,0.7389269814566831
+570,team bereichsleiter,Team/Bereichsleiter,Other,Other,0.28333754646261594,Lead,Lead,0.7971093455797896
+571,elektrotechniker mit erweitertem aufgabenbereich,Elektrotechniker mit erweitertem Aufgabenbereich,Other,Information Technology,1.0,Senior,Senior,0.33777095793788636
+572,gedelegeerd business owner,(gedelegeerd) Business owner,Other,Other,1.0,Management,Management,1.0
+573,regional sales manager central european region,"Regional Sales Manager, Central European Region",Sales,Sales,1.0,Senior,Lead,1.0
+574,mitglied der geschaftsleitung,Mitglied der Geschäftsleitung,Other,Other,0.39756936744518645,Management,Lead,0.8878971431329779
+575,chief transformation officer,Chief Transformation Officer,Other,Other,0.3496863465200179,Management,Management,1.0
+576,general manager in,General Manager:in,Other,Other,0.30750804018733185,Management,Management,1.0
+577,business development agent,Business Development Agent,Business Development,Sales,1.0,Senior,Senior,0.3727322016956153
+578,professeur de mathematique particulier,Professeur de Mathématique particulier,Other,Marketing,0.49011682040449456,Senior,Senior,0.50598790053933
+579,business development leader,Business Development Leader,Business Development,Sales,1.0,Lead,Senior,0.391972345253977
+580,professor,Professor,Other,Other,1.0,Senior,Senior,0.4175199924506954
+581,mitgrunderin,Mitgründerin,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+582,eigenaar,Eigenaar,Other,Other,0.2726600002912511,Management,Senior,0.4175199924506954
+583,teamleiter,Teamleiter,Other,Other,0.41366876707356676,Lead,Lead,0.9758555677890417
+584,automotive sales manager,Automotive Sales Manager,Sales,Sales,1.0,Senior,Lead,1.0
+585,personal trainer,Personal Trainer,Other,Other,0.24344117025672274,Senior,Senior,0.427199008491801
+586,geschaftsfuhrer,Geschäftsführer,Other,Other,1.0,Management,Management,0.9994884898898059
+587,principal,Principal,Other,Other,0.251722704785443,Senior,Lead,1.0
+588,abteilungsleiter controlling abrechnung und edv,"Abteilungsleiter Controlling, Abrechnung und EDV",Other,Other,0.247583790678305,Lead,Lead,0.9068159434064174
+589,cultivation,cultivation,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+590,pensionar,Pensionär,Other,Other,0.2726600002912511,Senior,Senior,0.4175199924506954
+591,supply chain manager,Supply Chain Manager,Other,Other,0.30889556978210353,Senior,Lead,1.0
+592,member board of directors,Member Board Of Directors,Other,Other,1.0,Management,Director,1.0
+593,leiter geschaftsbuchhaltung a d,Leiter Geschäftsbuchhaltung a.D.,Other,Other,0.34451203063857044,Lead,Lead,0.9997690962406777
+594,vice president human resources health security subscription services h3s north americas,"Vice President, Human Resources, Health & Security Subscription Services (H3S), North Americas",Human Resources,Information Technology,1.0,Management,Director,1.0
+595,transport manager,Transport Manager,Other,Other,0.28144101457522197,Senior,Lead,1.0
+596,president ccrg hauts de france,Président CCRG Hauts de France,Other,Other,0.39871471644023876,Management,Senior,0.5389718699920353
+597,key account director europe middle east africa,"Key Account Director Europe, Middle East & Africa",Sales,Other,1.0,Director,Director,1.0
+598,softwareentwickler,Softwareentwickler,Information Technology,Information Technology,1.0,Senior,Senior,0.4175199924506954
+599,senior design engineer,Senior Design Engineer,Information Technology,Information Technology,1.0,Senior,Senior,1.0
+600,radio engineering tdi huawei sran mobile network testing,Radio Engineering @ TDI | Huawei SRAN & Mobile Network Testing,Information Technology,Information Technology,1.0,Senior,Senior,0.40779605525853346
+601,angestellter,Angestellter,Other,Other,0.29467385247266553,Senior,Senior,0.4175199924506954
+602,advanced purchasing commercial vehicles and services,Advanced Purchasing - Commercial Vehicles and Services,Purchasing,Sales,1.0,Senior,Senior,0.3286220241592534
+603,owner cso,Owner - CSO,Sales,Other,1.0,Management,Management,1.0
+604,site manager,Site Manager,Project Management,Other,0.28144101457522197,Senior,Lead,1.0
+605,sap consultant geschaftsfuhrer gesellschafter,"SAP Consultant, Geschäftsführer, Gesellschafter",Consulting,Other,1.0,Management,Management,0.685608897344194
+606,buying porecurement allocation,"Buying, Porecurement & Allocation",Purchasing,Other,0.2726600002912511,Senior,Senior,0.40138237805284815
+607,kanzler der deutschen assoziation,Kanzler der deutschen Assoziation,Other,Administrative,0.8604510344159816,Management,Lead,0.6113895101431746
+608,auszubildender zum kaufmann fur dialogmarketing,Auszubildender zum Kaufmann für Dialogmarketing,Marketing,Marketing,1.0,Junior,Senior,0.3733519415623695

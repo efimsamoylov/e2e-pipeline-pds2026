@@ -1,0 +1,609 @@
+profile_id,text,department_true,department_pred,department_conf,seniority_true,seniority_pred,seniority_conf
+0,prokurist depot4design gmbh,Other,Sales,0.3529067968633593,Management,Lead,0.5090255699348888
+1,solutions architect computer solutions,Information Technology,Information Technology,0.2971571916020976,Professional,Lead,0.3339680122443267
+2,medizintechnik beratung udo weber,Consulting,Project Management,0.3814505240189272,Professional,Lead,0.4547454285891109
+3,director expansion de negocio grupo viajes kontiki,Business Development,Marketing,0.24197279883029715,Director,Director,0.9741066673340028
+4,apl ansvarig samordning himmelstalunds utbildningscentrum,Administrative,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+5,kaufmannischer leiter fsd fahrzeugsystemdaten gmbh,Sales,Sales,0.23653430454583044,Lead,Lead,0.8886149043153782
+6,lab supervisor macdermid enthone industrial solutions,Other,Sales,0.20005241176121744,Lead,Lead,0.35939434721568175
+7,human resources generalist boise cascade company,Human Resources,Human Resources,0.9583820618384062,Professional,Lead,0.4134549168023886
+8,managing director phobosys gmbh,Other,Sales,0.26861655077907054,Management,Director,0.9956310507503664
+9,meister,Other,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+10,applikation analyst senior postbank systems ag,Information Technology,Project Management,0.24017205581656897,Senior,Junior,0.5516160631244971
+11,set lighting twentieth century fox,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+12,projektmanager msg systems ag,Project Management,Project Management,0.7693371219345769,Professional,Lead,0.3460866445393567
+13,leistungssachbearbeiter sgb ii landeshauptstadt wiesbaden,Other,Sales,0.18854638607078095,Professional,Lead,0.363222177171345
+14,energy and sustainability consultant bei ee concept gmbh,Consulting,Consulting,0.47547953556493167,Professional,Senior,0.5773309540012188
+15,purchasing manager accoppiatura di asolo s p a,Purchasing,Purchasing,0.9497457551384028,Professional,Senior,0.8569245827705312
+16,geschaftsfuhrer team josten,Other,Sales,0.2744214521681936,Management,Management,0.9662441546058143
+17,abfallberaterin awista gmbh,Other,Sales,0.250601179373275,Professional,Lead,0.3594780295646011
+18,senior project manager swiss life asset managers deutschland,Project Management,Project Management,0.7140975061948532,Senior,Senior,0.9569424515971816
+19,inspektør tdc,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+20,dr phil selbststandig,Other,Sales,0.18854638607078095,Professional,Lead,0.3916513721835998
+21,geschaftsfuhrer cmo thurm gmbh,Marketing,Sales,0.28040442108880137,Management,Management,0.9884710938735383
+22,bereichsleiter maschinen vorruhestand,Other,Marketing,0.210244394503589,Lead,Lead,0.9365917856063809
+23,principal rf design engineer etse electronics pty ltd,Information Technology,Project Management,0.19807278264111453,Senior,Senior,0.6310229680403724
+24,physician assistant tallahassee orthopedic clinic,Other,Marketing,0.1901216187139902,Professional,Senior,0.9631205848574773
+25,unternehmensinhaber fresenius kabi,Other,Sales,0.18854638607078095,Management,Lead,0.43310793587396607
+26,consultor de vendas portobello shop,Sales,Marketing,0.33134468425736074,Professional,Lead,0.5249814006086996
+27,ceo founder esba horti solutions bv,Other,Information Technology,0.22131073718171787,Management,Management,0.9684476095686105
+28,sandblast and prep countryside body welding inccountryside body welding inc,Other,Marketing,0.2092542436973643,Professional,Lead,0.23556858087827137
+29,professor university of ulm,Other,Sales,0.22401074164860565,Professional,Lead,0.9044435273325812
+30,qualifizierter kreditsachbearbeiter im risikorelevanten kreditgeschaft vr bank lahn dill,Other,Sales,0.2897543292860915,Professional,Lead,0.37837935952830354
+31,director consultant juridique international ltd,Other,Consulting,0.8032855501433844,Director,Director,0.9934861510250275
+32,it systems and network engineer tally weijl,Information Technology,Information Technology,0.5230255205463679,Professional,Senior,0.5155691686032771
+33,it teamleiter aliud pharma gmbh,Information Technology,Information Technology,0.6549395351241769,Lead,Lead,0.753470904052408
+34,senior project manager hypergene,Project Management,Project Management,0.9451495187563995,Senior,Senior,0.9949296314583026
+35,geschaftsfuhrer hettich group,Other,Sales,0.23767065789021746,Management,Management,0.9821733399505965
+36,head of hr chro giesecke devrient,Human Resources,Human Resources,0.9822011472522597,Lead,Lead,0.9723820572360081
+37,chief scientific officer revitope,Other,Marketing,0.18834678170027913,Management,Management,0.9929972250119509
+38,office associate asdhjbv,Administrative,Project Management,0.1701702030479916,Junior,Junior,0.7533328932117621
+39,human resources consultant quest onthefrontier,Consulting,Human Resources,0.9063262039282182,Professional,Senior,0.6728072458547446
+40,manager roche,Other,Sales,0.274865246724202,Professional,Senior,0.9999987695614801
+41,managing director exelonix gmbh,Other,Sales,0.26861655077907054,Management,Director,0.9956310507503664
+42,alleinvorstand roto frank holding ag roto frank holding ag,Other,Project Management,0.2607941322009862,Management,Lead,0.3772970639008368
+43,duales studium diplom finanzwirt finanzamt munster außenstadt,Other,Sales,0.18854638607078095,Junior,Lead,0.43310793587396607
+44,product manager frank gmbh,Project Management,Sales,0.24770788170803915,Professional,Senior,0.9264749460032498
+45,reporter norra halland,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+46,geschaftsfuhrer enbet consulting,Other,Sales,0.2903593746612825,Management,Management,0.9616310494887433
+47,member of the advisory board digitalnativealliance,Other,Sales,0.21200902111579345,Management,Senior,0.31388745431225196
+48,cfo delabo group gmbh,Other,Sales,0.2167689396553846,Management,Management,0.3148950893160988
+49,geschaftsfuhrer wehner consulting gmbh,Other,Sales,0.31183332885050846,Management,Management,0.9181606136113315
+50,director sales kampffmeyer food innovation gmbh,Sales,Sales,0.8181046508748265,Director,Director,0.9807441183441499
+51,sub stream lead simplify turnaround programs lufthansa,Project Management,Information Technology,0.1849238354147231,Lead,Management,0.3264375082276813
+52,chief revenue officer cro noury ag,Sales,Project Management,0.16792875947669755,Management,Management,0.939932798712236
+53,vice president german operation of cinram,Other,Sales,0.22332379807477087,Management,Management,0.9513141283385146
+54,business development manager nordson adhesive dispensing systems,Business Development,Business Development,0.9896858129965911,Professional,Senior,0.9679983095041328
+55,projektleiterin bildung myclimate,Other,Project Management,0.7012412939528797,Lead,Lead,0.794963983650542
+56,co owner dreamcatcher alley,Other,Information Technology,0.1901735695500265,Management,Management,0.9700644759769138
+57,practice leader data valorization strategy desjardins,Consulting,Information Technology,0.21532176354416402,Lead,Lead,0.37129042582150046
+58,is guvenligi sedef shipbuilding inc,Other,Sales,0.19964312896266473,Professional,Lead,0.4040496774475856
+59,geschaftsfuhrer bei giganet services gmbh giganet services gmbh,Other,Sales,0.23859499904876566,Management,Management,0.6261432288343413
+60,strategic design director moodley,Marketing,Project Management,0.2086191866190818,Director,Director,0.9853333859765233
+61,museumspadagoge fc bayern munchen,Other,Sales,0.20679406747020437,Professional,Lead,0.480520631697189
+62,technical team lead nextwo co,Information Technology,Information Technology,0.19968738817924897,Lead,Management,0.3616548598240261
+63,managing director widmer skippers,Other,Sales,0.2407556881151983,Management,Director,0.9989187342413034
+64,gesellschafter augustin entsorgung holding gnbh,Other,Sales,0.19220838293750406,Management,Management,0.42629915354015235
+65,maschinenbautechniker vta verfahrenstechnische anlagen gmbh co kg,Other,Sales,0.2212996580283222,Professional,Lead,0.34185438909283233
+66,technical customer service manager flexible packaging henkel,Customer Support,Sales,0.1931389518768765,Lead,Senior,0.7806726711182718
+67,java software engineer selecty,Information Technology,Project Management,0.3104959874253714,Professional,Senior,0.6010280652202263
+68,new business manager fieldspace property group,Business Development,Business Development,0.8913075001108081,Lead,Senior,0.8755473078822691
+69,strategic engagement manager atlassian,Business Development,Project Management,0.2169583115358254,Lead,Senior,0.9309366777708411
+70,projektmanager edag engineering gmbh,Project Management,Project Management,0.6316737525873134,Professional,Lead,0.35301683728114025
+71,innovationsberater innovationsberatung klaus michael ganter,Consulting,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+72,head of aws preseed and seedfinancing innovative solutions austria wirtschaftsservice,Other,Information Technology,0.23478849320256295,Lead,Lead,0.9292298296217959
+73,director of product management murata vios,Project Management,Project Management,0.20176015063366975,Director,Director,0.9441635377815879
+74,executive director of therapies and developmental services children s wisconsin,Other,Sales,0.1893526441014967,Director,Director,0.9793287257165606
+75,technical product developer data scientist 7lytix,Information Technology,Project Management,0.22614697363866249,Professional,Senior,0.5004297096501975
+76,projektmanager axians neo solutions technology gmbh,Project Management,Project Management,0.5101519371115719,Professional,Lead,0.34933824473822533
+77,project engineer process technology future farming korber technologies,Information Technology,Project Management,0.6943128429886974,Professional,Senior,0.6092237149270314
+78,kurucu ortak sor egitim danısmanlık,Other,Sales,0.18854638607078095,Management,Lead,0.43310793587396607
+79,digital marketing manager cranfield university school of management,Marketing,Marketing,0.9527486620523725,Professional,Senior,0.9969306367484259
+80,trainer docent hogeschool utrecht,Human Resources,Sales,0.18429385636917753,Professional,Lead,0.38537181264422926
+81,procurement manager strategische inkoop byldis,Purchasing,Project Management,0.16452335444310168,Professional,Senior,0.8768646688632635
+82,conversion rate optimization manager audibene gmbh,Marketing,Sales,0.29134562103808126,Professional,Senior,0.8828259841645578
+83,partner rudisuhli rechtsanwalte part mbb,Business Development,Project Management,0.1712293145768787,Management,Management,0.3133758322936609
+84,lead naval architect naval sea systems command navsea supship san diego,Other,Information Technology,0.3300369175998941,Lead,Management,0.37024531421279755
+85,inside sales nidec control techniques,Sales,Sales,0.9193304087531323,Professional,Lead,0.45452369971832524
+86,key account manager detlef meyer dm108 de leh vertrieb,Sales,Sales,0.97558470301528,Professional,Senior,0.9442780479150614
+87,dr university,Other,Sales,0.18854638607078095,Professional,Lead,0.3916513721835998
+88,ingenieur telair,Information Technology,Sales,0.19233830259336837,Professional,Lead,0.43310793587396607
+89,managing director s h e d,Other,Sales,0.2407556881151983,Management,Director,0.9989187342413034
+90,berufskraftfahrer paul schockemohle logistics gmbh co kg,Other,Sales,0.18731972145703166,Professional,Lead,0.3554409495187472
+91,head of glass technology heinz glas produktion gmbh co kgaa,Other,Sales,0.23352524685092513,Lead,Lead,0.797241186301295
+92,kaltetechniker bacher klima kalte e u,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+93,key account manager nagel group,Sales,Sales,0.8013929145622054,Professional,Senior,0.9726772892899146
+94,geschaftsfuhrer selbststandig,Other,Sales,0.2862906362490686,Management,Management,0.9984099749604972
+95,accounting manager dow jones local media group,Other,Information Technology,0.21287362705497018,Lead,Senior,0.9618152669206584
+96,interims technical manager tts nmf gmbh,Information Technology,Sales,0.24532283864448612,Lead,Senior,0.955487026932924
+97,project manager madeline stuart associates inc,Project Management,Project Management,0.9717694929275587,Professional,Senior,0.9897895022255943
+98,management consultant information security and privacy cassini consulting ag,Consulting,Consulting,0.6184874607664702,Professional,Senior,0.8383000141836082
+99,buroleiter pressesprecher dr zanda martens mdb buro dusseldorf,Administrative,Sales,0.20277004899155296,Lead,Lead,0.4333486816702355
+100,titolare cariboni picollo s r l,Other,Sales,0.18854638607078095,Management,Lead,0.43310793587396607
+101,departementssekretar finanz stadt zug,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+102,managing director aximpro,Other,Sales,0.2407556881151983,Management,Director,0.9989187342413034
+103,officer morh,Administrative,Information Technology,0.1872931047742407,Professional,Management,0.9341037064766393
+104,senior berater acm consultants gmbh,Consulting,Consulting,0.8398910853241466,Senior,Senior,0.8218736630939998
+105,lehrbeauftragter berner fachhochschule bfh,Consulting,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+106,manager mergers acquisitions deloitte,Other,Sales,0.22909100166611687,Professional,Senior,0.8544268818848568
+107,technical transfer leader roche pharmaceuticals,Consulting,Sales,0.2099597118870438,Lead,Lead,0.37790106155804587
+108,account manager sælger helly hansen workwear sjælland bornholm helly hansen,Sales,Sales,0.8746064440432832,Professional,Senior,0.9965929519285559
+109,geschaftsfuhrender gesellschafter agn gruppe,Other,Sales,0.21435895815532816,Management,Management,0.7421133757526817
+110,director peter van setten transport b v,Other,Sales,0.28335753203946296,Director,Director,0.9867082626349482
+111,lab mgr luxottica,Other,Sales,0.20977101446049573,Lead,Lead,0.42097932500346685
+112,unternehmensinhaber herz transporte und spedition,Other,Marketing,0.30359353168634184,Management,Lead,0.718736757109685
+113,board member cfo asset management kzvk,Other,Project Management,0.19399337255870833,Management,Senior,0.7140989419931656
+114,ceo tirol werbung,Other,Marketing,0.17951980148445348,Management,Management,0.8871467604755661
+115,finance aws global private pricing amazon web services aws,Other,Information Technology,0.24625977250500708,Professional,Lead,0.3963738522176776
+116,software developer harmonic,Information Technology,Information Technology,0.20599340643506897,Professional,Lead,0.40413442307025715
+117,vice president global head order processing prokurist ssi schafer,Other,Sales,0.24199707240639415,Management,Management,0.8214088199225882
+118,nailartist lamano munchen,Other,Sales,0.20126530784712146,Professional,Lead,0.40521597626933337
+119,ceo morgenpost tag 24 vertriebsleiter sachsische zeitung lesermark ceo mvd okoflitzer ddv mediengruppe,Other,Sales,0.47169257641803936,Lead,Management,0.9450789434426854
+120,styreleder partner hellemyr eiendom as,Other,Project Management,0.1712293145768787,Management,Senior,0.3142264163851638
+121,vertriebsleiter lsdgmbh,Sales,Sales,0.9719506612662732,Lead,Lead,0.9882231755831602
+122,director of sales cambria hotel mall of america,Sales,Sales,0.8673917343328775,Director,Director,0.9714198679825655
+123,industriekauffrau shf gmbh,Administrative,Sales,0.250601179373275,Professional,Lead,0.3594780295646011
+124,projektleiter qualitat hv batterie mercedes benz ag,Project Management,Project Management,0.5342862491660625,Lead,Lead,0.640291272603408
+125,global director head of portfolio and business development global service giesecke devrient,Business Development,Business Development,0.6771817147100995,Director,Director,0.841294136424391
+126,betreuer verein gin,Customer Support,Sales,0.18913063257049567,Professional,Lead,0.43310793587396607
+127,summer camp counselor thayer academy,Other,Sales,0.18718123959957936,Professional,Lead,0.43310793587396607
+128,project lead for swap re engineering project davidson kempner capital management,Project Management,Project Management,0.8817058942791337,Lead,Senior,0.7813084046639719
+129,kanzler cfo frankfurt school of finance management,Other,Information Technology,0.194090224454015,Management,Senior,0.5835510519980642
+130,manager purchasing laytec,Purchasing,Purchasing,0.9503478802782993,Professional,Senior,0.9612188009740809
+131,personalleiter lebenhilfe augsburg,Human Resources,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+132,assistant director of prospect management and data analytics the johns hopkins university,Other,Project Management,0.2022282786043276,Director,Director,0.6502734237693962
+133,klavierlehrer korrepetitor jugendmusikschule wurttembergisches allgau,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+134,managing partner group managing board alexander hughes germany alexander hughes international,Other,Sales,0.21948404810080863,Management,Senior,0.5138099900293437
+135,manager queensland corrective services,Other,Information Technology,0.22272908754202744,Professional,Senior,0.9957179234218864
+136,founder and senior partner black forest business solutions,Consulting,Business Development,0.8525028539182343,Management,Senior,0.41248673161500476
+137,vorsitzender des vorstandes lohr becker aktiengesellschaft,Other,Information Technology,0.2190006082062552,Management,Management,0.864081310445656
+138,head of engineering fti engineering network gmbh,Information Technology,Sales,0.25765755611442864,Lead,Lead,0.8142224604459626
+139,oberarzt uc bethesda khs stuttgart,Other,Sales,0.18854638607078095,Management,Lead,0.43310793587396607
+140,district sales manager fedex express,Sales,Sales,0.9423254606588578,Lead,Senior,0.9749246137442886
+141,assistant treasurer real estate efg bank,Other,Marketing,0.1901216187139902,Junior,Senior,0.43430532424716306
+142,managing dircector np4 gmbh,Other,Sales,0.2379024215839302,Management,Senior,0.3059124274103188
+143,director of business analysts and special projects southeast bank,Information Technology,Business Development,0.6858092817134731,Director,Director,0.9004075276439674
+144,robotertechniker edag austria,Information Technology,Sales,0.2255153832293588,Professional,Lead,0.4781474398943983
+145,oo koordinator fur das team der bereiche beschlagwortung zustellproblem sozialversicherung der selbstandigen,Purchasing,Administrative,0.3049342904209627,Lead,Lead,0.5460783776711383
+146,head of content workflows ibm ix dach,Marketing,Information Technology,0.25638210103598646,Lead,Lead,0.883911617213059
+147,scierie collignon scierie collignon,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+148,godsejer tyrrestrup,Other,Sales,0.18854638607078095,Management,Lead,0.43310793587396607
+149,senior microsoft 365 engineer deichmann se,Information Technology,Project Management,0.24398831182254774,Senior,Senior,0.9561638478452692
+150,product manager online catalog shop zf group,Other,Marketing,0.25258548840790057,Professional,Senior,0.9016088534419237
+151,diplom bauingenieur isp stahlbauplanung,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+152,executive director marketing strategy director jpmorgan chase co,Marketing,Marketing,0.6571085049524198,Management,Director,0.9977160381736155
+153,leiter controlling und rechnungswesen vrg gmbh,Other,Sales,0.3285509650929827,Lead,Lead,0.9057681413044195
+154,president liberty civil construction llc,Other,Sales,0.20173861510790128,Management,Management,0.6260652014902767
+155,architektin fachgebietsleitung technisches und strategisches gebaudemanagement kreisverwaltung darmstadt dieburg,Project Management,Marketing,0.25941367937899296,Lead,Lead,0.5253553642920064
+156,shop manager deichmann,Administrative,Sales,0.274865246724202,Lead,Senior,0.9999987695614801
+157,co ceo virtwo,Other,Information Technology,0.19503441800781704,Management,Management,0.9796348387272478
+158,grafiker konzept eins,Marketing,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+159,it hosting elitbir,Information Technology,Information Technology,0.9972929000895325,Professional,Lead,0.5342875214877517
+160,vice president bogner construction company,Other,Sales,0.19118428464447124,Management,Management,0.9657650867590993
+161,krankenhausgeschaftsfuhrer hospital management group gmbh,Other,Project Management,0.20701505586171343,Management,Senior,0.8804217036766894
+162,co head of bid management ce atos information technology gmbh,Sales,Information Technology,0.2324901484594012,Lead,Lead,0.4254789906091286
+163,leiter it service und betriebsmanagement go express logistics,Information Technology,Information Technology,0.6626825422686772,Lead,Lead,0.891237777013915
+164,senior human resources consultant independent contractor,Consulting,Human Resources,0.8244636445052815,Senior,Senior,0.9294904894680791
+165,senior legal advisor telenor,Other,Project Management,0.3140935730579219,Senior,Senior,0.8983371278002366
+166,physiotherapeutin tz garsten,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+167,research associate fraunhofer institute of machine tools and forming technology,Consulting,Marketing,0.1651667147600506,Junior,Junior,0.5703758101862441
+168,geschaftsfuhrender gesellschafter medpirica,Other,Sales,0.19220838293750406,Management,Management,0.8260680613206886
+169,finance director central europe harvey nash,Other,Sales,0.2601116585816829,Director,Director,0.9116869542258906
+170,senior program analyst immigration u s department of labor,Other,Information Technology,0.21744348371680422,Senior,Junior,0.4331153747207927
+171,betriebsleiter benteler distribution,Other,Sales,0.19721963342027432,Lead,Lead,0.46925717163400693
+172,chief executive officer zf group,Other,Marketing,0.20044680649121513,Management,Management,0.8455203139392107
+173,chief strategy officer cso mediaschneider ag,Other,Project Management,0.17362052383720888,Management,Management,0.9425040022883917
+174,lead consultant seven principles ag,Consulting,Consulting,0.8757691444527457,Lead,Senior,0.7436174414450606
+175,cto pmcs,Information Technology,Project Management,0.28442612152163244,Management,Management,0.7552917260727938
+176,software developer avl,Information Technology,Information Technology,0.20599340643506897,Professional,Lead,0.40413442307025715
+177,cto vejle brand,Information Technology,Project Management,0.3156695314550299,Management,Management,0.5624159634893604
+178,vertrieb außendienst trierischer volksfreund,Sales,Sales,0.84680267034923,Professional,Lead,0.6784146996342918
+179,projektkoordinator ace auto club europa e v,Project Management,Project Management,0.5422171899822539,Lead,Lead,0.4988507427958036
+180,hoofd bouwbureau kroon de koning bv,Other,Marketing,0.33134468425736074,Lead,Lead,0.5249814006086996
+181,head of package installation design igc siemens energy,Project Management,Sales,0.21063140692869656,Lead,Lead,0.931705335603658
+182,director general sector and global programmes deutsche gesellschaft fur internationale zusammenarbeit gmbh,Other,Sales,0.206240649076294,Director,Director,0.7634765372156626
+183,station manager at ground2air in palma de mallorca ground2air assistance,Other,Marketing,0.2294754439264148,Lead,Senior,0.8093234605366182
+184,bereichs pdl st walburga krankenhaus meschede gmbh,Other,Sales,0.250601179373275,Lead,Lead,0.3594780295646011
+185,geschaftsfuhrer sintec,Other,Sales,0.2862906362490686,Management,Management,0.9984099749604972
+186,geschaftsinhaber touchpoint communication ag,Other,Marketing,0.4780956263965066,Management,Lead,0.31344658586587987
+187,geschaftsfuhrer cfo apogepha arzneimittel gmbh,Other,Sales,0.30508737297897215,Management,Management,0.9242324679691891
+188,responsable des ressources humaines laboratoire sion,Human Resources,Information Technology,0.23098460913144955,Lead,Senior,0.7468731168208307
+189,senior project leader alps alpine europe,Project Management,Project Management,0.7152998656524041,Lead,Senior,0.7501150264793667
+190,editor publisher ygdrasil press,Other,Sales,0.18854638607078095,Professional,Lead,0.3939184125069296
+191,selbststandig august gschwander transport gmbh,Other,Sales,0.250601179373275,Professional,Lead,0.39762787009002176
+192,verwaltungsratsvorsitzender alium technology ag,Other,Project Management,0.20585248873941556,Management,Lead,0.35802205076941757
+193,dozent ausbilder hwk erfurt,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+194,teamleder arkitektur drift og sikkerhet it seksjonen vid vid vitenskapelige høgskole,Information Technology,Information Technology,0.9972929000895325,Lead,Lead,0.5342875214877517
+195,mechanical engineer ami mechanical inc,Other,Project Management,0.3056085501220006,Professional,Senior,0.8715417362792531
+196,dualer student winkelmann group,Other,Project Management,0.21410630881494686,Junior,Lead,0.35967936846159326
+197,responsable technique ecole hoteliere de geneve ehg,Information Technology,Marketing,0.40460174885278527,Lead,Senior,0.8171689617181251
+198,partner luxcenture,Business Development,Project Management,0.1712293145768787,Management,Management,0.3133758322936609
+199,geschaftsfuhrer und podcast host mittelstars,Other,Sales,0.2767530688159382,Management,Management,0.9161130412735258
+200,business consultant f henningsen aps,Consulting,Business Development,0.8403685766731588,Professional,Senior,0.8826220701557927
+201,president of the board of directors instituto vladimir herzog,Other,Sales,0.21517643193539893,Management,Director,0.4327858700544877
+202,landwirt landwirtschaft,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+203,head of group capital markets raiffeisen bank international ag,Other,Sales,0.21857849764533635,Lead,Lead,0.6880180151219241
+204,executive advisor frencon frosch engineering consulting,Consulting,Project Management,0.20916548461385098,Management,Senior,0.608898107502082
+205,chairman of board of appeal and member of enlarged board of appeal european patent office,Other,Sales,0.2012919559269284,Management,Lead,0.4094149660079767
+206,citrix systems engineer raymond james,Information Technology,Project Management,0.28037066697531976,Professional,Senior,0.7766967482684816
+207,anesthesiemedewerker amsterdam umc,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+208,managing director mikro technik plastics ag,Other,Sales,0.22025774409961044,Management,Director,0.9110267700983731
+209,teamleiter logistik db schenker schweiz ag,Other,Sales,0.23288465968933955,Lead,Lead,0.7732551394947488
+210,vertriebsdirektor vr payment gmbh,Sales,Sales,0.28082749960247655,Director,Director,0.4749054431536712
+211,projektleder montera aps,Project Management,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+212,geschaftsfuhrer genussmomente fur digitales zusammensein,Other,Information Technology,0.2260301042603945,Management,Management,0.8585613731743333
+213,geschaftsfuhrer bbht solutions s r l,Other,Sales,0.2517735548110833,Management,Management,0.965170574339549
+214,ceo ing buro w meier gmbh,Other,Sales,0.2116122742997931,Management,Management,0.8091350030218979
+215,gerente de comunicacao e marketing casas andre luiz,Marketing,Marketing,0.9960583874442944,Professional,Lead,0.5091631203057483
+216,operadora de empilhadeira vidrados bs,Other,Marketing,0.33134468425736074,Professional,Lead,0.5249814006086996
+217,beamter bpolak,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+218,geschaftsfuhrer finanzen karwendel werke huber gmbh co kg,Other,Sales,0.26746092031960217,Management,Management,0.737438425557412
+219,ceo a rosa kreuzfahrten,Other,Information Technology,0.18011184994832774,Management,Management,0.9910130793046281
+220,masterblaster beppe spadacini,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+221,algemeen directeur de taxatheek,Other,Marketing,0.3152821055419722,Management,Lead,0.41750955208654617
+222,executive director jpmorgan chase co,Other,Sales,0.19553665303694337,Management,Director,0.9688148612507995
+223,student records manager bournemouth university,Administrative,Sales,0.20019670342559098,Lead,Senior,0.953279790657617
+224,supply chain lead master planning enough,Other,Sales,0.19045256564699445,Lead,Senior,0.41698396800575055
+225,chief executive officer switch gmbh,Other,Marketing,0.17752048700606463,Management,Management,0.8484793709351137
+226,information technology business analyst triad technologies llc,Information Technology,Business Development,0.8201696305195413,Professional,Junior,0.7068020145506463
+227,global vp and head of sustainability innovation sap,Other,Information Technology,0.7076745032099141,Management,Management,0.5161413164877425
+228,sr application software engineer apple,Information Technology,Project Management,0.2992614292802023,Senior,Senior,0.74281382279204
+229,vorstandsvorsitzender eikona ag,Other,Project Management,0.2607941322009862,Management,Lead,0.356558667887634
+230,private equity investments principal vermogensverwaltung ag,Other,Project Management,0.20463933515928118,Professional,Lead,0.3545839070676474
+231,devops orchestration manager university of central lancashire,Information Technology,Sales,0.2906635117819511,Professional,Senior,0.8535447650109542
+232,leiter expansion und projektentwicklung spar osterreich,Project Management,Project Management,0.23929529982895298,Lead,Lead,0.9203047070009761
+233,legal services st louis law partnership,Other,Sales,0.17314957784522123,Professional,Lead,0.44983161100200203
+234,head of marketing promoting label free cell analysis technology amphasys,Marketing,Marketing,0.8308587353715751,Lead,Lead,0.9049477922398251
+235,kfz mechatroniker autohaus walter mulfinger gmbh,Other,Sales,0.250601179373275,Professional,Lead,0.37469041958358157
+236,grafik designer heussinger de,Marketing,Marketing,0.24294739372080296,Professional,Lead,0.43367219015641006
+237,chief technology officer solid technology solutions,Information Technology,Information Technology,0.19711418219112953,Management,Management,0.8129959214511981
+238,manager regional key accounts americas qatar airways,Sales,Sales,0.397029876985761,Professional,Senior,0.8703739664001046
+239,digital project managerin marketing ge healthcare,Marketing,Marketing,0.39757298142890835,Professional,Senior,0.7804770021511537
+240,mediaberater dps fachzeitschrift f schadlingsbekampfung salesmanager dps pest control magazine beckmann verlag,Sales,Sales,0.30029175136550706,Professional,Lead,0.49216023669645337
+242,head of logistics european union mission in armenia,Other,Project Management,0.20029843559968255,Lead,Lead,0.8643831031033424
+243,data analyst axro gmbh,Information Technology,Information Technology,0.18844790991578125,Professional,Junior,0.8182681362870144
+244,manager program management engineering western digital,Project Management,Information Technology,0.556083621858659,Professional,Senior,0.9790506171029818
+245,kfm prokurist wevg salzgitter gmbh co kg,Other,Sales,0.29667128642339313,Management,Lead,0.415532617826981
+246,founding partner ibd integrated business design,Other,Business Development,0.7945459464879621,Management,Senior,0.29138272668168336
+247,directeur de la construction edusco construction,Other,Marketing,0.298844486708188,Director,Lead,0.3569659499409845
+248,chief executive officer curaleaf,Other,Marketing,0.19271355705410148,Management,Management,0.8571919649158127
+249,director of business development m h windows decor pvt ltd,Business Development,Business Development,0.9273970074445949,Director,Director,0.9862359404305028
+250,neutraubling scheck lagerhaus transporte gmbh,Other,Sales,0.250601179373275,Professional,Lead,0.3594780295646011
+251,abteilungsdirektor vertrieb alte oldenburger krankenversicherung ag,Sales,Sales,0.7159061714152639,Director,Director,0.36484102833107884
+252,data analyst sustainable fund finance tetrao,Other,Information Technology,0.22005717275910422,Professional,Junior,0.8151313917105408
+253,kundansvarig itsy,Sales,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+254,geschaftsfuhrer falkensteg,Other,Sales,0.2862906362490686,Management,Management,0.9984099749604972
+255,referatsleiter burgeramt bremen,Other,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+256,global it solution architect supply chain transportation evonik,Information Technology,Information Technology,0.6257971534906943,Professional,Senior,0.3221958106249183
+257,bilgisayar muhendisi google,Information Technology,Sales,0.18704577531490493,Professional,Lead,0.4259482144953547
+258,leiterin e commerce musik hug ag,Marketing,Sales,0.19596619889631955,Lead,Lead,0.8035165079817074
+259,buroleiter agentur rinn,Administrative,Sales,0.20277004899155296,Lead,Lead,0.47479165736491963
+260,managing director eagle international logistics,Other,Sales,0.23493676637688185,Management,Director,0.9847690461149682
+261,ppa head of treasury insurance tmd friction,Other,Sales,0.23001778729665825,Lead,Lead,0.8886012855143065
+262,sourcing specialist grundfos,Purchasing,Marketing,0.31986259852444227,Professional,Senior,0.3748608219077964
+263,marketing vertriebsmanager irsara gmbh,Marketing,Marketing,0.8168334362222754,Lead,Lead,0.3742593841740284
+264,secretary nvidia,Administrative,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+265,tanzer entertainer dj tanzschule criss,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+266,founder owner suregen health it consulting,Other,Information Technology,0.6009091265379406,Management,Management,0.8678217894967083
+267,marketplace manager online shop manager onskinery,Sales,Marketing,0.30244770034752577,Professional,Senior,0.9977334410312284
+268,vorsitzender des vorstandes ceo deutsche bahn,Other,Information Technology,0.21359939702928946,Management,Management,0.9833847506206639
+269,geschaftsfuhrer bodensee pharma gmbh,Other,Sales,0.27781646377249625,Management,Management,0.875712301223325
+270,teamleiter disposition fahrzeuge und stv ressourcenplaner kanton aargau,Other,Sales,0.29950396812490687,Lead,Lead,0.9433576366165488
+271,media communication intern wavemaker solutions,Marketing,Marketing,0.4338005593964375,Junior,Senior,0.34451832086038786
+272,account manager cisco,Sales,Sales,0.8746064440432832,Professional,Senior,0.9965929519285559
+273,head of marketing communications emea oxford instruments group oxford instruments plc,Marketing,Marketing,0.9406757533599562,Lead,Lead,0.8769130547336829
+274,unternehmensinhaber urbanconcept,Other,Sales,0.18854638607078095,Management,Lead,0.43310793587396607
+275,marktondersteuning holland pharma,Sales,Sales,0.19721548994055502,Junior,Lead,0.458028546140516
+276,director code nomads amsterdam code nomads,Information Technology,Sales,0.28335753203946296,Director,Director,0.9999999536441299
+277,senior customer care representative fedex,Customer Support,Sales,0.1781097327079691,Senior,Senior,0.627976540831269
+278,koch koch,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+279,cto vorwerk elektrowerke gmbh co kg,Information Technology,Project Management,0.20616572562337074,Management,Management,0.5422434097219897
+280,group design strategy targets bmw group,Other,Information Technology,0.21486708053834713,Professional,Lead,0.312506257685999
+281,ceo vsonix gmbh,Other,Sales,0.20589740816997767,Management,Management,0.9453656552120318
+282,managing director cps anwendungsberatung fur die wellpappenindustrie,Other,Sales,0.18911622872176412,Management,Director,0.9167318641857789
+283,assistant manager kpmg austria,Other,Sales,0.20303675309487176,Lead,Senior,0.9680718134555766
+284,operations director hot soles,Other,Other,0.9117106402589195,Director,Director,0.9823798225526711
+285,technische assistenz enercon logistic gmbh,Administrative,Administrative,0.33676193149180295,Junior,Lead,0.45467063946109415
+286,lead consultant scales group a s,Consulting,Consulting,0.9644806899964633,Lead,Senior,0.8683124674564308
+287,geschaftsfuhrender gesellschafter 123bag gmbh,Other,Sales,0.2292274160926789,Management,Management,0.8041651145694972
+288,head of it services operations management jacob group,Information Technology,Other,0.41554715418458704,Lead,Lead,0.4628953541260216
+289,teamleader it operations management hgears,Information Technology,Information Technology,0.4638437252790127,Lead,Senior,0.5444912429581481
+290,vertrieb n s burocenter,Sales,Sales,0.9993795360986835,Professional,Lead,0.7703020528617018
+291,technischer experte fur stellwerkstechnik siemens,Information Technology,Purchasing,0.2117022538464044,Senior,Lead,0.3697862312880593
+292,hr manager hvs consulting ag,Human Resources,Human Resources,0.8210676887767488,Professional,Senior,0.764853632395732
+293,geschaftsfuhrer zahnarztpraxis dr philipp jost,Other,Sales,0.2862906362490686,Management,Management,0.9317801100321799
+294,operation supervisor tav operation services,Other,Sales,0.20876787904204944,Lead,Lead,0.4644503935980237
+295,leiter rechnungswesen und finanzen mauell gmbh,Other,Sales,0.3134781849826088,Lead,Lead,0.9130635198749693
+296,geschaftsfuhrer morgenfund,Other,Sales,0.2862906362490686,Management,Management,0.9984099749604972
+297,konstrukteur bosch,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+298,projektleiter in der engineering it daimler buses gmbh,Information Technology,Information Technology,0.3962411783689868,Lead,Lead,0.7325126342778293
+299,retail marketing management jaguar land rover belux,Marketing,Marketing,0.6980819069824188,Professional,Senior,0.8811506004620728
+300,außendienstspezialist weber burstensysteme gmbh,Sales,Sales,0.250601179373275,Professional,Lead,0.3594780295646011
+301,ruby fullstack developer bluereport cognita ag,Information Technology,Project Management,0.2108665120256408,Professional,Lead,0.3528842925214208
+302,ceo fischer plastik gesmbh,Other,Information Technology,0.18011184994832774,Management,Management,0.9910130793046281
+303,chef de projet senior equans france,Project Management,Information Technology,0.3069097312603552,Senior,Lead,0.48245422467546184
+304,kaufmannischer leiter eckerle holding gmbh co kg,Administrative,Sales,0.22459857707155667,Lead,Lead,0.7098499026525695
+305,country manager czech republic and slovakia adform,Other,Marketing,0.1788370465547717,Lead,Senior,0.9213435153062278
+306,unternehmensinhaber selbststandig,Other,Sales,0.18854638607078095,Management,Lead,0.43310793587396607
+307,geschaftsfuhrer yatego gmbh,Other,Sales,0.30508737297897215,Management,Management,0.9745977715967917
+308,group ceo ayres composite panels,Other,Information Technology,0.21804071086711993,Management,Management,0.9574711668325652
+309,associate consultant petrichor gmbh,Consulting,Consulting,0.893872998320247,Junior,Senior,0.4968993043786079
+310,director finance and information technology thames valley children s centre,Other,Information Technology,0.22754151039918213,Director,Director,0.8162298864569669
+311,bergungsleiter abschleppdienst potsdam nord sud gmbh,Other,Sales,0.31050470875434,Lead,Lead,0.5277351832821636
+312,versuchstragerverantwortlicher porsche,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+313,co ceo yorizon cloud,Other,Project Management,0.16923055909748919,Management,Management,0.9518455229745314
+314,aircraft physical security expert airbus,Other,Information Technology,0.21165665816680343,Senior,Lead,0.35137905192393587
+315,director maintenance service management national and international nokia,Other,Sales,0.24045996570003283,Director,Director,0.8891457178553863
+316,general manager basf,Other,Sales,0.25796099310500376,Management,Senior,0.9650888700785919
+317,zahntechniker dentalteam zahntechnik gmbh,Other,Sales,0.250601179373275,Professional,Lead,0.3594780295646011
+318,head of regulatory projects fnz bank se,Consulting,Project Management,0.4487625892574241,Lead,Lead,0.9293328230042157
+319,owner gboh technology,Other,Sales,0.19164294802346774,Management,Management,0.9267512669079675
+320,financial analyst syrena real estate,Other,Business Development,0.18730267422590546,Professional,Junior,0.5242960975113612
+321,mentor tandem 50,Other,Sales,0.18166372009041462,Senior,Lead,0.43310793587396607
+322,vertriebsingenieur interstarch,Sales,Sales,0.40651867366843814,Professional,Lead,0.42096394575000834
+323,professor im ruhestand westfalisches energieinstitut,Other,Sales,0.2897543292860915,Professional,Lead,0.33976250517686635
+324,rechtsanwalt grub brugger partner rechtsanwalte,Other,Project Management,0.1712293145768787,Professional,Management,0.3133758322936609
+325,vedouci pobocky popuvky liebherr group,Administrative,Information Technology,0.2090912923228038,Lead,Senior,0.29490426524713703
+326,lead engineer groepscoordinator strukton,Information Technology,Project Management,0.2924070896945008,Lead,Senior,0.7674167354731659
+327,geschaftsfuherer raff sanitar gmbh,Other,Sales,0.250601179373275,Management,Lead,0.3594780295646011
+328,dezernat fur wirtschaft stadtentwicklung liegenschaften und ordnungswesen buroleitung referent landeshauptstadt mainz,Other,Project Management,0.280910920064806,Lead,Junior,0.968980346858538
+329,senior enterprise it systems specialist cetin serbia,Information Technology,Information Technology,0.6387147435314876,Senior,Senior,0.7585114959684478
+330,vikar botilbuddet katrinebjerg,Other,Sales,0.18854638607078095,Junior,Lead,0.43310793587396607
+331,general manager rescop,Other,Sales,0.25796099310500376,Management,Senior,0.9650888700785919
+332,chief sales officer cso grob systems inc,Sales,Sales,0.5728850985982078,Management,Management,0.9322142094437902
+333,key account manager nestle waters deutschland gmbh,Sales,Sales,0.7863927539774294,Professional,Senior,0.8665478231064571
+334,selbststandig sleeping bird,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+335,project manager d18 partners,Project Management,Project Management,0.9717694929275587,Professional,Senior,0.9897895022255943
+336,enseignant universite du maine le mans laval,Other,Sales,0.19244185314963047,Professional,Lead,0.3791205876491128
+337,metallbearbeiter metalltechnik schmidt gmbh co,Other,Sales,0.2212996580283222,Professional,Management,0.38174396266675703
+338,senior account manager public sector eviden,Sales,Sales,0.5095666448681518,Senior,Senior,0.971850784233023
+339,senior consultant procurement excellence thyssenkrupp ag,Consulting,Consulting,0.8462731977557074,Senior,Senior,0.9246465707393515
+340,rechtsanwalt anwaltskanzlei heinemann,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+341,commercial service manager wipotec,Customer Support,Information Technology,0.22019919892640505,Professional,Senior,0.9290922748283723
+342,head of capex delivery management and planning site leverkusen bayer,Project Management,Sales,0.19755287550435532,Lead,Lead,0.4878893518484063
+343,quality manager letec terem,Other,Sales,0.23331200357727733,Professional,Senior,0.9099295389520353
+344,senior it lizenzspezialist bechtle schweiz ag,Information Technology,Information Technology,0.6255221652358388,Senior,Senior,0.7206880941488097
+345,strategy director sodexo defence uk,Business Development,Information Technology,0.1710556139376335,Director,Director,0.9255348117536976
+346,unternehmensinhaber richnerstutz ag,Other,Project Management,0.2607941322009862,Management,Lead,0.356558667887634
+347,unternehmensinhaber doxx gmbh,Other,Sales,0.250601179373275,Management,Lead,0.3594780295646011
+348,managing director awex,Other,Sales,0.2407556881151983,Management,Director,0.9989187342413034
+349,director commercial operations emea business group,Marketing,Other,0.6223874077797842,Director,Director,0.8267532681329055
+350,betriebsleiter api produktion roche pharmaceuticals,Information Technology,Sales,0.18525936859805306,Lead,Lead,0.5516107640462113
+351,human resources specialist race fx limited,Human Resources,Human Resources,0.978570589732548,Professional,Senior,0.3462834576955236
+352,49504 bauking ag,Other,Project Management,0.2607941322009862,Professional,Lead,0.356558667887634
+353,family nurse practitioner patton state hospital,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+354,global chief engineer manager power electronics obc dcdc stellantis,Information Technology,Information Technology,0.22021156965120417,Lead,Senior,0.8614229383542086
+355,inhaber rido gmbh rido gmbh,Other,Sales,0.23850508088608235,Management,Management,0.42208486997571343
+356,sap solutions consultant all for one switzerland ag,Consulting,Consulting,0.6633393413227703,Professional,Senior,0.6132262581525615
+357,senior treasury manager lr global holding gmbh,Other,Information Technology,0.26515424978776053,Senior,Senior,0.9821220197932132
+358,senior consultant randstad deutschland,Consulting,Consulting,0.9833347629617698,Senior,Senior,0.9848207258070005
+359,freelance marketing consulting client service interim marketing branding alexander klaus freelance interims marketing consulting,Consulting,Marketing,0.9525527564514208,Professional,Lead,0.4585035503359073
+360,vp product management anyline,Project Management,Project Management,0.24444874414901951,Management,Management,0.7196045733165795
+361,head of mechanical engiuneering von ardenne gmbh,Other,Sales,0.2542840890528579,Lead,Lead,0.911796419109103
+362,progettista finanza agevolata research funding administration masmec s p a,Other,Information Technology,0.36676765192907557,Professional,Lead,0.4334502427061173
+363,leiter supply chain management mayer kuvert network gmbh,Other,Sales,0.2141106601495193,Lead,Senior,0.5729490694527227
+364,software engineer iv oracle,Information Technology,Project Management,0.3104959874253714,Senior,Senior,0.6052966791015368
+365,communications coordinator whitefish lake first nation 459,Marketing,Marketing,0.5022746056609321,Lead,Senior,0.38026479216081516
+366,head of ict australian museum,Information Technology,Sales,0.2191058526305527,Lead,Lead,0.9655769248532221
+367,managing director aquantus gmbh,Other,Sales,0.26861655077907054,Management,Director,0.9956310507503664
+368,responsable ocb renov,Other,Marketing,0.3228274248490743,Lead,Senior,0.9804595818465617
+369,head of sales dach preo software ag,Sales,Sales,0.8012232149391746,Lead,Lead,0.8521554854539632
+370,senior partner ibm deutschland gmbh,Business Development,Sales,0.2722657356897334,Senior,Senior,0.6741945130272144
+371,application consultant uhlmann pac systeme,Consulting,Consulting,0.8197518098291797,Professional,Senior,0.7855250534240347
+372,partner oppskvær as for team som ma lykkes,Business Development,Sales,0.18010222864277975,Management,Senior,0.353770554513426
+373,postdoctoral researcher and lecturer technische universitat kaiserslautern,Other,Marketing,0.21555324520143554,Professional,Lead,0.3847586288178248
+374,purchasing manager benchmark electrical solutions,Purchasing,Purchasing,0.9125736137225927,Professional,Senior,0.8513661723027359
+375,postdoctoral research fellow university of new brunswick,Other,Project Management,0.1892032350631275,Professional,Lead,0.601930686388352
+376,industriemechaniker sms siemag ag,Other,Project Management,0.2607941322009862,Professional,Lead,0.356558667887634
+377,strategic purchasing manager group purchasing schleuniger global,Purchasing,Purchasing,0.9317803161684779,Professional,Senior,0.6895336100373461
+378,konsult hr egen verksamhet,Human Resources,Human Resources,0.9984310799306839,Professional,Lead,0.3554555448422951
+379,leiter vergutung versorgung oldenburgische landesbank ag,Human Resources,Project Management,0.2511495022544804,Lead,Lead,0.9282569329003381
+380,produktmanager optomechanik vision lasertechnik fur forschung und industrie gmbh,Project Management,Sales,0.19995590906029925,Professional,Lead,0.4854324285397835
+381,senior vice president lpl financial,Other,Project Management,0.20037338225664478,Management,Management,0.7121037179261248
+382,researcher institute of radiology friedrich alexander university erlangen,Other,Sales,0.22401074164860565,Professional,Lead,0.6191903134633937
+383,arbeitslos keine angabe,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+384,senior lecturer education focused unsw,Other,Consulting,0.2666058620173738,Senior,Senior,0.9984454726890446
+385,delegierter verwalter holz niessen,Other,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+386,director of sales marketing neis collective,Sales,Marketing,0.8254482138714778,Director,Director,0.9943782349893936
+387,master data demand manager supply chain management kalorimeta gmbh,Other,Information Technology,0.17106544344740307,Professional,Senior,0.9290815124503128
+388,software entwickler morgenrot gmbh co kg,Information Technology,Information Technology,0.43868339848963483,Professional,Lead,0.3583594167063927
+389,verkaufsleitung gaugler lutz gmbh co kg,Sales,Project Management,0.1962228586588646,Lead,Lead,0.5206415491893691
+390,platform support direct drive siemens gamesa,Customer Support,Customer Support,0.7068253864833456,Professional,Lead,0.5045554261594246
+391,vedouci ucetni kristina salamon,Other,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+392,recruitment manager erganet,Human Resources,Consulting,0.337198111732139,Professional,Senior,0.9790729777683628
+393,vice president national sales manager schwab retirement plan services,Sales,Sales,0.8250306548747904,Management,Management,0.597751466308762
+394,geschaftsfuhrer spie gft gmbh spie deutschland zentraleuropa,Other,Sales,0.3826981597601216,Management,Management,0.8123518507808205
+395,professor university of tuebingen,Other,Sales,0.22401074164860565,Professional,Lead,0.9044435273325812
+396,head of marketing technology teamlead helios kliniken gmbh,Marketing,Marketing,0.7384497779048528,Lead,Lead,0.9548279408888228
+397,automaticien electricien saint gobain isover,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+398,strategic planning peek cloppenburg,Consulting,Project Management,0.271782497469569,Professional,Lead,0.40112263728143155
+399,pasticcere pasticceria magni,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+400,general manager ccl label,Other,Sales,0.25796099310500376,Management,Senior,0.8904762942115029
+401,grafikdesigner freelance marcoloeschdesign,Marketing,Sales,0.1870645091859495,Professional,Lead,0.42424928895209635
+402,account manager talent acquisition lead saiva system a cmmi level iii company,Human Resources,Sales,0.38709239102149157,Lead,Senior,0.8118883787591866
+403,geschaftsfuhrender gesellschafter selbststandig,Other,Sales,0.19220838293750406,Management,Management,0.8260680613206886
+404,maintenance engineering manager domtar,Information Technology,Sales,0.23529559146501053,Professional,Senior,0.9028758066835876
+405,business analyst thb group import export trading joint stock company,Other,Business Development,0.8100434935285485,Professional,Junior,0.7856110757292966
+406,bereichsleiter central service center bank verlag gmbh,Customer Support,Sales,0.28687219085228016,Lead,Lead,0.7092663964158679
+407,researcher ai in complex systems lab cehc ualbany,Other,Project Management,0.23486538924890535,Professional,Lead,0.324766501896706
+408,schornsteinfeger meisterbetrieb wagener,Other,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+409,projektleitung zur entwicklung und implementierung einer neuen gießtechnologie kbc,Project Management,Project Management,0.8135091280235467,Lead,Lead,0.8978660080571198
+410,head of process and erp governance all4labels global packaging group,Information Technology,Information Technology,0.2632820017107297,Lead,Lead,0.711119750220163
+411,senior ux designer europris,Information Technology,Consulting,0.18182597717841456,Senior,Senior,0.8041945655604256
+412,cloud advisory analyst accenture dach,Consulting,Sales,0.2064975060611676,Professional,Junior,0.7708199563074144
+413,leiter managed it cloud services msh medien system haus gmbh co kg,Information Technology,Information Technology,0.6102758498463866,Lead,Lead,0.5918595252157367
+414,客户经理 中信银行信用卡中心,Sales,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+415,senior manager b2b contract implementation management magenta telekom,Project Management,Information Technology,0.19807041843261813,Senior,Senior,0.9925316590451071
+416,research development group manager automotive lighting,Information Technology,Sales,0.22115951947801488,Professional,Senior,0.7640472463836008
+417,head of accounting and tax department pirelli deutschland gmbh,Other,Sales,0.33648851219070636,Lead,Lead,0.853736979104466
+418,teamleiter bestandesentwicklung liegenschaften stadt zurich,Other,Sales,0.33030454201512355,Lead,Lead,0.867672138183061
+419,operador de maquinas pkc group,Other,Marketing,0.289639067609231,Professional,Lead,0.3956974245267181
+420,juristin datenschutz,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+421,projektleiter rudolf klaschka gmbh,Project Management,Project Management,0.7891612833191562,Lead,Lead,0.8468027908871225
+422,head of procurement det danske madhus,Purchasing,Information Technology,0.23104063819016954,Lead,Lead,0.963419772913744
+423,founder and owner scandinavian solutions,Other,Information Technology,0.1915278225118762,Management,Management,0.9390316768779543
+424,machine operator sandler ag,Other,Project Management,0.2607941322009862,Professional,Lead,0.356558667887634
+425,hgf hotel an der philharmonie gmbh,Other,Administrative,0.21543304877472735,Professional,Lead,0.5244414327062356
+426,managing director cto validatis,Information Technology,Sales,0.2047070951090351,Management,Director,0.9840043312901556
+427,professor university of hannover,Other,Sales,0.22401074164860565,Professional,Lead,0.9044435273325812
+428,senior manager robert bosch gmbh,Other,Sales,0.21931543157449818,Senior,Senior,0.9968779986325966
+429,hr specialist human resources international hri,Human Resources,Human Resources,0.9986350301143008,Professional,Senior,0.36016332059646605
+430,geschaftsfuhrer hans conrad fruchthandelsgesellschaft mbh,Other,Sales,0.2862906362490686,Management,Management,0.9984099749604972
+431,cyber security analyst senior tyto athene llc,Information Technology,Sales,0.16539612236344478,Senior,Junior,0.43099728614924043
+432,metal fabricator safco products,Other,Sales,0.23247241144271083,Professional,Lead,0.47364127613538576
+433,purchasing senior manager trw,Purchasing,Purchasing,0.7657362030547595,Senior,Senior,0.9945041250704715
+434,partner arcadia,Business Development,Project Management,0.1712293145768787,Management,Management,0.3133758322936609
+435,managing director infocom gmbh,Other,Sales,0.26861655077907054,Management,Director,0.9956310507503664
+436,vorstandsassistent cmo constant ag,Marketing,Project Management,0.22397701895845953,Management,Management,0.7678214086860745
+437,co founder and ceo elevate advertising,Other,Information Technology,0.19223500509096417,Management,Management,0.9886418670082718
+438,sub manager coordination planning airbus helicopters,Project Management,Sales,0.24684688514010522,Lead,Senior,0.906009024765982
+439,geschaftsfuhrer ceo blaser group,Other,Sales,0.20507372873113616,Management,Management,0.9911379465432735
+440,vakbekwaam hovenier van dijk tuinen,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+441,verkaufsmanager rms radio marketing service gmbh co kg,Sales,Marketing,0.7330250250086168,Professional,Lead,0.3971967111496382
+442,professor leopold franzens universitat innsbruck,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+443,professor of french and francophone studies kennesaw state university norman j radow college of humanities and social sciences,Other,Marketing,0.23699789458958248,Professional,Lead,0.5266921429462428
+444,hr specialist personnel development db deutsche bahn ag,Human Resources,Human Resources,0.8642377113724108,Professional,Senior,0.3147468299785703
+445,directeur inno and co,Other,Marketing,0.20823427869080363,Director,Management,0.45026911759864724
+446,senior executive in l d department wow momo,Human Resources,Project Management,0.24166742040747005,Senior,Senior,0.8834961775014544
+447,finance and hr vacon srl,Other,Human Resources,0.7836861697781274,Professional,Lead,0.3445393967143292
+448,geschaftsfuhrer berater designer fzey gmbh frohe zukunft ey,Other,Consulting,0.47114062971269166,Management,Management,0.8045069692661465
+449,phd student johann wolfgang goethe universitat frankfurt am main,Other,Project Management,0.18716332232709082,Junior,Lead,0.45291641924967024
+450,dozent zurcher hochschule der kunste,Other,Administrative,0.5378666832802338,Professional,Lead,0.6665853552120716
+451,avp dental quality clinical oversight metlife,Other,Sales,0.18286308172343135,Professional,Lead,0.4027318355709514
+452,vorstandsvorsitzender der kick media ag kick media ag,Other,Project Management,0.22504516468632893,Management,Lead,0.4303141562789265
+453,assistant anciens combattants et victimes de guerre,Administrative,Marketing,0.37409701755986835,Junior,Senior,0.9036610861047223
+454,gesamtleiterin personal mitglied der geschaftsleitung neue pressegesellschaft,Human Resources,Administrative,0.19338643141030967,Lead,Lead,0.8649350078302472
+455,it cad administrator ofice organisation brotje automation,Information Technology,Information Technology,0.8861144557799577,Professional,Lead,0.5045485179989693
+456,partner the strategy group,Business Development,Project Management,0.1734912645816495,Management,Senior,0.3369384854287873
+457,responsable de salle hotel restaurant l ours de mutzig,Administrative,Marketing,0.35889016479556685,Lead,Senior,0.752749981115367
+458,inhaber stagetech veranstaltungstechnik,Other,Sales,0.18603936998643705,Management,Management,0.563074722207193
+459,special education advocate education consultant svendsen and associates llc,Consulting,Consulting,0.917249924748457,Professional,Senior,0.7671644923013662
+460,elctrician nielseniq,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+461,ceo co founder gemellii drinks gmbh,Other,Information Technology,0.21564302794903414,Management,Management,0.9810144430661721
+462,bauprojektleiter johannes diakonie mosbach,Project Management,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+463,head of strategic purchasing motorex ag langenthal,Purchasing,Purchasing,0.469039134788686,Lead,Lead,0.8152387221405221
+464,inspecteur general de l education du sport et de la recherche education nationale,Other,Marketing,0.317821094854786,Professional,Senior,0.4398264691441812
+465,owner stefan wulff ab,Other,Sales,0.19449229827742714,Management,Management,0.9780226474848879
+466,systemischer berater fur organisationsentwicklung und coach ingo wolters,Consulting,Consulting,0.8432877304730336,Professional,Lead,0.37938056883435695
+467,general manager vice president of planning cosmetix west,Other,Sales,0.2789913686327105,Management,Management,0.7339615748920224
+468,senior diversity inclusion partner novartis p o switzerland,Human Resources,Project Management,0.18903739678613046,Senior,Senior,0.8868494154777696
+469,managing director weber management solutions,Other,Sales,0.19374982538680247,Management,Director,0.9814158966031253
+470,key account project manager werimo group,Other,Project Management,0.789392775121591,Lead,Senior,0.9651866108547409
+471,offentlicher angestellter gemeinde unterfohring,Administrative,Sales,0.20569067753766745,Professional,Lead,0.43310793587396607
+472,owner grubers beckett,Other,Sales,0.19449229827742714,Management,Management,0.9780226474848879
+473,senior commercial manager klarna,Sales,Information Technology,0.21904612807555165,Senior,Senior,0.993227627405853
+474,im un ruhestand mit network ag,Other,Project Management,0.22162335065310876,Professional,Management,0.3448794453923546
+475,executive vice president connected software systems services iav,Information Technology,Project Management,0.19556703084581653,Management,Management,0.877289688163378
+476,abteilungsleiter vertrieb dipl bankbetriebswirt management adg hausbank munchen eg,Sales,Sales,0.6116122041978904,Lead,Lead,0.44596589711557705
+477,hr it consultant continental,Consulting,Consulting,0.6978406821021587,Professional,Senior,0.7190161233161683
+478,ceo sinosteel tech,Other,Sales,0.17514346428014158,Management,Management,0.8557016328960301
+479,bestuursassistent gemeente arnhem,Administrative,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+480,owner fair trade gmbh,Other,Sales,0.21625805855319713,Management,Management,0.7163408437487926
+481,senior data analyst instagrid,Information Technology,Information Technology,0.19729056988970708,Senior,Senior,0.5390735854328295
+482,scheduler bon secours health system,Administrative,Information Technology,0.2455002754265566,Professional,Lead,0.37876369025234125
+483,tekniklektor jonkoping university ilo,Information Technology,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+484,trainee solicitor irwin mitchell,Other,Sales,0.19602926424180903,Junior,Lead,0.3899286285046418
+485,unternehmensinhaber rein edv gmbh medisol,Other,Project Management,0.17586771689769706,Management,Lead,0.5022508479020579
+486,managing director reinvigorate group,Other,Sales,0.221194887760617,Management,Director,0.9967573877855361
+487,electronic banking spezialist salzlandsparkasse,Other,Information Technology,0.19159615787778728,Professional,Lead,0.44789979939263075
+488,edi berater hermes edv beratung,Consulting,Consulting,0.41358972286572127,Professional,Lead,0.48590512050793594
+489,chief operating officer verna,Other,Marketing,0.18834678170027913,Management,Management,0.921333079073704
+490,geschaftsfuhrer bergauer pharmalogistik e k,Other,Sales,0.2862906362490686,Management,Management,0.9984099749604972
+491,senior technology architect infosys,Information Technology,Information Technology,0.2860041283331702,Senior,Senior,0.7870087257734911
+492,chief executive officer db projektbau gmbh,Other,Marketing,0.17752048700606463,Management,Management,0.8484793709351137
+493,director of food and beverage intercontinental hotels group ihg,Other,Sales,0.21173277245409883,Director,Director,0.9849317871322191
+494,managing sr underwriting director john hancock,Other,Sales,0.24721378928563734,Senior,Director,0.9963007272991218
+495,head of business unit finance executive vice president msg global solutions,Other,Business Development,0.7011794233223896,Lead,Management,0.7161972507270333
+496,facility coordinator cbre gws gmbh cbre gws gmbh,Administrative,Sales,0.23073647477794526,Lead,Lead,0.3546383733168563
+497,director cca corporate counsel advisors,Other,Marketing,0.31616748701169706,Director,Director,0.9997207688448443
+498,associate brunswick group,Other,Information Technology,0.22265727110784325,Junior,Junior,0.7709381576279881
+499,buyer action sales food service equipment supplies,Purchasing,Sales,0.6276207675288018,Professional,Lead,0.4404011666846256
+500,radiologe selbststandig,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+501,warranty service specialist leatherman tool group,Customer Support,Marketing,0.22058408504236435,Professional,Senior,0.41514396850154683
+502,hr talent manager cognizant,Human Resources,Human Resources,0.9193929635210119,Professional,Senior,0.9061837587580163
+503,senior director of sales sdr germany vialytics,Sales,Sales,0.876048488489182,Director,Director,0.9884416844662238
+504,investment associate grosvenor capital management,Other,Project Management,0.19749290916970744,Junior,Senior,0.5434789563512337
+505,addetto alla logistica gls,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+506,ceo xsenses gmbh,Other,Sales,0.20589740816997767,Management,Management,0.9453656552120318
+507,senior director chunghwa telecom co ltd,Other,Information Technology,0.18661873599995948,Director,Director,0.9873532219340798
+508,assistant clinical research associate ppd,Other,Project Management,0.20595295624047852,Junior,Junior,0.6562750362037121
+509,office administrator eccoform production gmbh,Administrative,Information Technology,0.2346183923130149,Professional,Lead,0.37498150765821747
+510,regionaler vertriebsleiter dewesoft deutschland gmbh,Sales,Sales,0.6400868076817622,Lead,Lead,0.7584134997731722
+511,portfolio manager deutsche gesellschaft fur internationale zusammenarbeit giz gmbh,Other,Sales,0.22445759911452898,Professional,Senior,0.7744130008092389
+512,inhaber innocard loyalty ag,Other,Project Management,0.2686348818704846,Management,Management,0.4451489526636049
+513,technical development manager interconnect tti inc europe,Information Technology,Sales,0.2708998942894128,Professional,Senior,0.979860042829542
+514,partner und vrp walchli und partner ag,Business Development,Project Management,0.26697713529983724,Management,Management,0.33269847496649185
+515,vice president winning blw group,Other,Project Management,0.19511898136927547,Management,Management,0.994322991318448
+516,cfo icore,Other,Sales,0.18854638607078095,Management,Lead,0.37482814472059023
+517,chief executive officer quest equity,Other,Marketing,0.19271355705410148,Management,Management,0.8571919649158127
+518,programmierer einzelunternehmen,Information Technology,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+519,global mobility consultant krones,Consulting,Consulting,0.9163523792120499,Professional,Senior,0.816645176517112
+520,facharzt fur orthopadie und unfallchirurgie chirurgie chirotherapie naturheilverfahren privatpraxis fur orthopadie und naturheilverfahren,Other,Project Management,0.2904952853729838,Professional,Lead,0.42350765722572215
+521,qualitatsmanager smurfit westrock,Project Management,Sales,0.18854638607078095,Lead,Lead,0.43310793587396607
+522,ceo mimetics llc,Other,Information Technology,0.18011184994832774,Management,Management,0.9910130793046281
+523,senior manager aldi nord,Other,Sales,0.22635391859128864,Senior,Senior,0.9951020772753654
+524,daytrader selbststandig,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+525,vp purchasing supplier quality webasto china webasto group,Purchasing,Purchasing,0.7152473798118593,Management,Management,0.8648300792054376
+526,sap berater freiberuflich,Consulting,Consulting,0.4564072584011538,Professional,Senior,0.3788534692952994
+527,deloitte digital deloitte digital,Consulting,Information Technology,0.5410533738872325,Professional,Lead,0.3963512867155215
+528,equipment project manager clark national accounts,Project Management,Project Management,0.739922955024582,Professional,Senior,0.8817403798599683
+529,lian da information technology co ltd kunshan lian da information technology co ltd,Other,Sales,0.18798458855349573,Professional,Management,0.4292550881580017
+530,business owner washington s best guides llc,Other,Business Development,0.990152838480431,Management,Management,0.9564790279225501
+531,geschaftsfuhrer ceo crowdfox gmbh,Other,Sales,0.2545451733466253,Management,Management,0.9897456503252677
+532,evp strategic partnerships 10x health system,Business Development,Project Management,0.19029923173864963,Professional,Lead,0.3587687228996662
+533,senior hvac technician service experts heating air conditioning,Other,Sales,0.1946483587085917,Senior,Senior,0.8198125117566274
+534,non executive director member of the supervisory board akzonobel,Other,Sales,0.20382542541746365,Management,Director,0.84008176800335
+535,bauverwaltung gemeinde langgons,Administrative,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+536,rechtsanwalt mit schwerpunkt gen biotechnik und arzneimittelrecht freiberuflich,Other,Project Management,0.24888030673474856,Professional,Lead,0.41278496409963467
+537,sports columnist the seattle times,Other,Sales,0.1973851283676889,Professional,Senior,0.35644104402693344
+538,managing consultant business transformation ibm switzerland ltd,Consulting,Consulting,0.4276666117705915,Professional,Senior,0.7042500263794776
+539,fahrer keine angabe,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+540,leiter personal und recht dfmg deutsche funkturm gmbh,Human Resources,Sales,0.2624176369775465,Lead,Lead,0.9297034682596097
+541,ceo bachmann group,Other,Information Technology,0.21804071086711993,Management,Management,0.9574711668325652
+542,vorsitzender der aufsichtsrate mecklenburgische versicherungen mecklenburgische versicherungsgruppe,Other,Administrative,0.5378666832802338,Management,Management,0.5274390552025602
+543,junior referent landesforderinstitute kfw,Other,Project Management,0.28642412062499656,Junior,Junior,0.999955618100704
+544,retraite sfhm,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+545,geschaftsfuhrer gerustbau jahn gbr,Other,Sales,0.2862906362490686,Management,Management,0.9984099749604972
+546,founder carlo chincarini coaching,Other,Sales,0.1927898335433439,Management,Management,0.9637414713063455
+547,head of sales partnerships booklogic,Sales,Sales,0.937286374888044,Lead,Lead,0.9478648790235344
+548,public health consultant gfa consulting group gmbh,Consulting,Consulting,0.672373326939854,Professional,Senior,0.6381773079594258
+549,vertriebsleiter yve decoration gmbh,Sales,Sales,0.8490904844073168,Lead,Lead,0.9119857029607736
+550,devsecops coe lead nokia,Information Technology,Information Technology,0.21534812756314728,Lead,Senior,0.3005333539387177
+551,executive vice president digital customer solutions rational ag,Marketing,Information Technology,0.34466126234883365,Management,Management,0.819089141753324
+552,senior financial crimes investigator nasa federal credit union,Other,Project Management,0.18527322261732426,Senior,Senior,0.8670884280782117
+553,projektmanager therapieberufe georg thieme verlag kg,Project Management,Project Management,0.9628842755934908,Professional,Lead,0.40710244649740573
+554,leiter zerstorungsfreie prufungen mqp kernkraftwerk gosgen daniken ag,Other,Project Management,0.2511495022544804,Lead,Lead,0.9282569329003381
+555,referent digitale schiene db engineering consulting,Marketing,Information Technology,0.3289237106150805,Professional,Junior,0.718173332519008
+556,director projects orange lion hospitality consulting sagl,Project Management,Project Management,0.5661434516178694,Director,Director,0.9869760098761373
+557,geschaftsfuhrer general manager laser components,Other,Sales,0.29859442024651356,Management,Senior,0.5944166345746703
+558,managing partner engel volkers hotel consulting gmbh,Business Development,Sales,0.22502009605650616,Management,Senior,0.4393915448286703
+559,retired general mgr retired,Other,Sales,0.22457031682779888,Professional,Senior,0.3354332579843645
+560,vertriebsspezialist awb gmbh,Sales,Sales,0.250601179373275,Professional,Lead,0.3594780295646011
+561,diatary aide greenwood health and living,Other,Marketing,0.19641243815272547,Professional,Lead,0.3411272850871749
+562,geschaftsfuhrer selbststandig,Other,Sales,0.2862906362490686,Management,Management,0.9984099749604972
+563,consultant freelance,Consulting,Consulting,0.9999007338031449,Professional,Senior,0.811283956724373
+564,research analyst zeb consulting,Other,Project Management,0.18863001071373767,Professional,Junior,0.8907089954294848
+565,senior consultant data center siemens ag,Consulting,Consulting,0.8762210588251552,Senior,Senior,0.9539695031234229
+566,head of riv academy blockchain riv technologies,Information Technology,Sales,0.2276366187703689,Lead,Lead,0.9565592974656427
+567,software architect proxora compliance management next level,Information Technology,Information Technology,0.30207382920744374,Senior,Senior,0.6827806380228716
+568,product and service manager qualitymanagement solution architect bosch,Other,Information Technology,0.30991828489043843,Professional,Senior,0.6354085312823716
+569,geschaftsfuhrender inhaber baumanu gmbh co kg,Other,Sales,0.21164687176264396,Management,Management,0.6392729669120227
+570,team bereichsleiter b s gmbh logistik und dienstleistungen,Other,Sales,0.21963418263102116,Lead,Lead,0.7800522530238155
+571,elektrotechniker mit erweitertem aufgabenbereich b s sicherheits und elektrotechnik gmbh,Other,Project Management,0.24220286563573096,Professional,Lead,0.4010516693730461
+572,gedelegeerd business owner belastingdienst,Other,Business Development,0.990152838480431,Management,Management,0.9564790279225501
+573,regional sales manager central european region msa the safety company,Sales,Sales,0.749015830235228,Professional,Senior,0.8334570260148657
+574,mitglied der geschaftsleitung ash adolf schlunder handelsagentur gmbh co kg,Other,Administrative,0.176138964122225,Management,Lead,0.7414254143492489
+575,chief transformation officer contact software,Other,Information Technology,0.3203762269899578,Management,Management,0.8870362584003365
+576,general manager in c h robinson worldwide gmbh,Other,Sales,0.23875801077150915,Management,Senior,0.775142103781874
+577,business development agent dorg,Business Development,Business Development,0.9733668214045713,Professional,Senior,0.3130357865420142
+578,professeur de mathematique particulier independant,Other,Marketing,0.33134468425736074,Professional,Lead,0.5249814006086996
+579,business development leader teledyne dalsa,Business Development,Business Development,0.9944568165213354,Lead,Lead,0.2803856551535191
+580,professor cardiff university prifysgol caerdydd,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+581,mitgrunderin kulturliebekoeln,Other,Sales,0.18854638607078095,Management,Lead,0.43310793587396607
+582,eigenaar hrodberaht film,Other,Sales,0.18854638607078095,Management,Lead,0.43310793587396607
+583,teamleiter pwo hightech metal components co ltd,Other,Sales,0.2519869380336215,Lead,Lead,0.7080645756290429
+584,automotive sales manager thyssenkrupp steel europe ag,Sales,Sales,0.8759966556646185,Professional,Senior,0.9460455869415997
+585,personal trainer movati athletic,Other,Sales,0.17548140774583632,Professional,Lead,0.44704336029044917
+586,geschaftsfuhrer ederit com,Other,Sales,0.2600662873002622,Management,Management,0.960302856970681
+587,principal t gazda consulting,Other,Sales,0.196897898171571,Senior,Lead,0.41878521194540536
+588,abteilungsleiter controlling abrechnung und edv klinikum sudstadt rostock,Other,Sales,0.20730937067989091,Lead,Lead,0.9089317895288084
+589,cultivation holistic industries,Other,Sales,0.18430811562936159,Professional,Lead,0.4433588138863572
+590,pensionar kein,Other,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+591,supply chain manager flevorubber extrusion b v,Other,Sales,0.22261477904380647,Professional,Senior,0.8660931128063387
+592,member board of directors vereinigte fullkorper fabriken gmbh co kg,Other,Sales,0.219709690019292,Management,Director,0.44001061523513885
+593,leiter geschaftsbuchhaltung a d stadtwerke dusseldorf ag,Other,Project Management,0.2511495022544804,Lead,Lead,0.9282569329003381
+594,vice president human resources health security subscription services h3s north americas international sos,Human Resources,Human Resources,0.729991179834357,Management,Management,0.7988314354078461
+595,transport manager pembrokeshire county council,Other,Sales,0.274865246724202,Professional,Senior,0.948495890772936
+596,president ccrg hauts de france habita,Other,Marketing,0.2720848964690903,Management,Management,0.516551153250572
+597,key account director europe middle east africa vertiv co,Sales,Sales,0.3424731313245886,Director,Director,0.600536718804988
+598,softwareentwickler cooee gmbh,Information Technology,Sales,0.250601179373275,Professional,Lead,0.3594780295646011
+599,senior design engineer trutest ltd,Information Technology,Project Management,0.23760009203781013,Senior,Senior,0.9745191480112053
+600,radio engineering tdi huawei sran mobile network testing deutsche telekom,Information Technology,Sales,0.23434577561901315,Professional,Lead,0.4105362374128573
+601,angestellter bosch bt ap,Other,Sales,0.20569067753766745,Professional,Lead,0.43310793587396607
+602,advanced purchasing commercial vehicles and services continental,Purchasing,Purchasing,0.6664012254274798,Senior,Lead,0.3295353583124179
+603,owner cso lumiere group a s,Sales,Sales,0.20337358095845312,Management,Management,0.9717075583610233
+604,site manager voi technology,Project Management,Sales,0.22525591437441161,Professional,Senior,0.9840213508039106
+605,sap consultant geschaftsfuhrer gesellschafter stelacon gmbh,Consulting,Consulting,0.7055666487483699,Management,Management,0.659948024482933
+606,buying porecurement allocation bonprix,Purchasing,Sales,0.18854638607078095,Professional,Lead,0.43310793587396607
+607,kanzler der deutschen assoziation malteserorden,Other,Administrative,0.5378666832802338,Management,Lead,0.6665853552120716
+608,auszubildender zum kaufmann fur dialogmarketing musikhaus thomann,Marketing,Marketing,0.2318773527779802,Junior,Lead,0.3544319939703524

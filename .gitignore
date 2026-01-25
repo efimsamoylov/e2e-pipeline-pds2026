@@ -1,0 +1,13 @@
+# System files
+.DS_Store
+.idea/
+.venv/
+__pycache__/
+
+# Ignore heavy models (anywhere in the project)
+**/models/**/*.safetensors
+**/models/**/*.pt
+**/models/**/*.pth
+**/models/**/*.bin
+**/models/checkpoints/
+**/models/checkpoint-*/
