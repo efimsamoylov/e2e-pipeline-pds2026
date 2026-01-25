@@ -1,0 +1,391 @@
+profile_id,input_text,position,organization,department_pred,department_conf,department_source,seniority_pred,seniority_conf,seniority_source
+0,bookkeeper,Bookkeeper,"Keeping The Books, Bookkeeping",Other,0.356,Fallback,Senior,0.9988,ML
+1,strategy investments,Strategy & Investments,Erste Bank und Sparkasse,Other,0.5832,Fallback,Senior,0.4011,Fallback
+2,corporate auditor,Corporate Auditor,Guido Meyer,Other,0.4648,Fallback,Junior,0.9923,ML
+3,consultant,Consultant,Advicing,Consulting,0.9997,ML,Senior,0.9999,ML
+4,marketing manager,Marketing Manager,Tradeware AG,Marketing,1.0,Rule,Lead,1.0,Rule
+5,professor,Professor,Monash University,Other,1.0,Rule,Junior,0.9954,ML
+6,program purchasing leader program acquisition buyer,Program Purchasing Leader / Program / Acquisition Buyer,Faurecia Innenraum Systeme GmbH,Purchasing,0.9985,ML,Lead,1.0,Rule
+7,juiz de direito,Juiz de Direito,Poder judiciário de Santa Catarina,Other,0.2779,Fallback,Management,0.8594,ML
+8,business analyst,Business Analyst,ALSO Deutschland GmbH,Business Development,0.9971,ML,Junior,1.0,Rule
+9,geschaftsfuhrer,Geschäftsführer,DU MUSST KÄMPFEN gGmbH,Other,1.0,Rule,Management,1.0,Rule
+10,managementberater it und governance,Managementberater IT- und Governance,Brandtner IT,Information Technology,1.0,Rule,Senior,0.9999,ML
+11,founder ceo,Founder & CEO,DGC FILM WORKS,Other,1.0,Rule,Management,1.0,Rule
+12,geschaftsfuhrer,Geschäftsführer,auris Steuerberatung OG,Other,1.0,Rule,Management,1.0,Rule
+13,senior publicist,Senior Publicist,20th Century Fox,Other,0.3289,Fallback,Senior,1.0,Rule
+14,manager,Manager,Daimler AG,Other,0.3285,Fallback,Lead,1.0,Rule
+15,verkaufer,Verkäufer,papperts GmbH,Sales,1.0,Rule,Management,0.9995,ML
+16,koordinerende sagsbehandler,Koordinerende sagsbehandler,Gladsaxe Kommune,Other,0.2023,Fallback,Senior,0.4491,Fallback
+17,head of supply chain,Head of Supply Chain,Aglukon Spezialdünger GmbH & Co. KG,Other,0.4445,Fallback,Director,1.0,Rule
+18,director of finance china,Director of Finance (China),delta pronatura GmbH,Information Technology,1.0,Rule,Director,1.0,Rule
+19,inhaber,Inhaber,Bettina Kern,Other,0.2605,Fallback,Management,0.9996,ML
+20,vorstand,Vorstand,cash.life AG,Other,1.0,Rule,Management,0.9971,ML
+21,mitglied der geschaftsleitung,Mitglied der Geschäftsleitung,r2b energy consulting GmbH,Other,0.4043,Fallback,Lead,0.9999,ML
+22,global marketing director nonwovens,"Global Marketing Director, Nonwovens",Owens Corning,Information Technology,1.0,Rule,Director,1.0,Rule
+23,social researcher,Social Researcher,"Gesellschaft für Wirtschaft, Arbeit und Kultur",Other,1.0,Rule,Junior,0.9995,ML
+24,cfo,CFO,M+R Spedag Group,Other,1.0,Rule,Management,1.0,Rule
+25,berater,Berater,Personalberatung JG,Consulting,0.9993,ML,Lead,0.8943,ML
+26,center management,Center Management,ASTERION Germany GmbH,Other,0.2875,Fallback,Senior,0.9999,ML
+27,senior project manager,Senior Project Manager,Selbstständig,Project Management,0.9996,ML,Lead,1.0,Rule
+28,federal account manager,Federal Account Manager,FCN Inc.,Sales,1.0,Rule,Lead,1.0,Rule
+29,responsable logistique,Responsable logistique,EGELHOF SAS,Other,0.2934,Fallback,Senior,0.9999,ML
+30,unternehmensinhaber,Unternehmensinhaber,Musicdreams,Other,0.3957,Fallback,Management,0.9364,ML
+31,brand strategist,Brand Strategist,Studio Mondu,Marketing,1.0,Rule,Senior,0.9999,ML
+32,senior category manager,Senior Category Manager,Novo Nordisk,Other,0.3859,Fallback,Lead,1.0,Rule
+33,general manager,General Manager,Selbstständig,Other,0.2417,Fallback,Management,1.0,Rule
+34,hiring manager,Hiring Manager,NA,Other,0.3768,Fallback,Lead,1.0,Rule
+35,owner and executive director,Owner and Executive Director,Luxury Custom Yachts GmbH,Information Technology,1.0,Rule,Director,1.0,Rule
+36,founder managing director,Founder & Managing Director,eye4improve,Information Technology,1.0,Rule,Director,1.0,Rule
+37,orthodontie assistent,Orthodontie assistent,Orthocenter,Administrative,0.9847,ML,Junior,0.9996,ML
+38,manager risk advisory,Manager Risk Advisory,Deloitte,Other,0.2315,Fallback,Lead,1.0,Rule
+39,systemadministrator clientservices,Systemadministrator Clientservices,IT-Services der Sozialversicherung GmbH,Information Technology,1.0,Rule,Senior,0.9997,ML
+40,it program manager information security,IT Program Manager – Information Security,Montgomery County,Information Technology,1.0,Rule,Lead,1.0,Rule
+41,pionier der stromungsoptimierung und wasserstofftechnologien fur effiziente energielosungen,Pionier der Strömungsoptimierung und Wasserstofftechnologien für effiziente Energielösungen,Sventronik.com,Project Management,0.7714,ML,Lead,0.9956,ML
+42,human resources director,Human Resources Director,Merck,Information Technology,1.0,Rule,Director,1.0,Rule
+43,ceo,CEO,eightbit experts GmbH,Other,1.0,Rule,Management,1.0,Rule
+44,head of payment it solutions,Head of Payment IT Solutions,Lufthansa Group,Information Technology,1.0,Rule,Director,1.0,Rule
+45,banking prudential supervision analyst,Banking Prudential Supervision Analyst,Banco de Portugal,Other,0.3693,Fallback,Junior,1.0,Rule
+46,geschaftsfuhrer,Geschäftsführer,Steinbeis Papier GmbH,Other,1.0,Rule,Management,1.0,Rule
+47,investor,Investor,Phoenix HIIT Fitness KG,Other,0.3877,Fallback,Management,0.9667,ML
+48,svp people culture management and services ceo metro campus services gmbh,SVP People & Culture Management and Services; CEO METRO Campus Services GmbH,METRO AG,Other,1.0,Rule,Director,1.0,Rule
+49,kraftfahrer,kraftfahrer,Fischer,Other,0.3198,Fallback,Management,0.9992,ML
+50,managing director,Managing Director,Daniel Software GmbH,Information Technology,1.0,Rule,Director,1.0,Rule
+51,building consultant,Building Consultant,Building Inspectors SA Pty Ltd,Consulting,0.9996,ML,Senior,0.9999,ML
+52,managing director,Managing Director,HOCHTIEF ViCon,Information Technology,1.0,Rule,Director,1.0,Rule
+53,kaufmannischer leiter,Kaufmännischer Leiter,AURA GmbH & Co. KG,Other,0.2856,Fallback,Lead,0.9999,ML
+54,senior director,Senior Director,"SEC Co., Ltd",Information Technology,1.0,Rule,Director,1.0,Rule
+55,commercial director on trade,Commercial Director On Trade,gdp Global Drinks Partnership GmbH,Information Technology,1.0,Rule,Director,1.0,Rule
+56,ceo,CEO,SF Veranstaltungstechnik,Other,1.0,Rule,Management,1.0,Rule
+57,senior manager,Senior Manager,Detecon International,Other,0.3159,Fallback,Lead,1.0,Rule
+58,graduate engineer,Graduate Engineer,John Holland,Information Technology,1.0,Rule,Senior,0.9999,ML
+59,senior architect,Senior Architect,Saakar Creations Pvt Ltd,Information Technology,1.0,Rule,Senior,1.0,Rule
+60,dozent dhbw stuttgart,Dozent DHBW Stuttgart,DHBW Stuttgart,Information Technology,0.9991,ML,Senior,0.4725,Fallback
+61,mitbegrunder und geschaftsfuhrer,Mitbegründer und Geschäftsführer,ROiOS,Other,1.0,Rule,Management,1.0,Rule
+62,medical service corps officer,Medical Service Corps Officer,Bundeswehr (German Federal Armed Forces),Human Resources,0.6436,ML,Management,0.9995,ML
+63,data researcher,Data Researcher,Veeva Systems,Other,1.0,Rule,Junior,0.9995,ML
+64,md phd mba mmsc,MD PhD MBA MMSc,Harvard,Other,0.4354,Fallback,Senior,0.5549,Fallback
+65,process improvement specialist,Process Improvement Specialist,The Coca-Cola Company,Other,0.4381,Fallback,Lead,1.0,Rule
+66,system administrator,System Administrator,"HM Elektronikai, Logisztikai és Vagyonkezelő Zrt.",Information Technology,1.0,Rule,Senior,0.9999,ML
+67,intern,Intern,Celicourt Communications,Other,0.4463,Fallback,Junior,1.0,Rule
+68,co fundador lead developer,Co-Fundador & Lead Developer,Trackeen,Information Technology,1.0,Rule,Lead,1.0,Rule
+69,business manager dach,Business Manager DACH,Eggplant,Business Development,0.9968,ML,Lead,1.0,Rule
+70,sales manager,Sales Manager,Rail Construction Equipment Co.,Sales,1.0,Rule,Lead,1.0,Rule
+71,director digital services business,"Director, Digital Services Business",Kalmar,Information Technology,1.0,Rule,Director,1.0,Rule
+72,unternehmensinhaber,Unternehmensinhaber,Der-Astrid-Hartmann-Prozess,Other,0.3957,Fallback,Management,0.9364,ML
+73,docent lichamelijke opvoeding,Docent lichamelijke opvoeding,Calandlyceum Amsterdam,Other,0.3698,Fallback,Lead,0.9837,ML
+74,marketing engineer,Marketing Engineer,ams OSRAM,Information Technology,1.0,Rule,Senior,0.9999,ML
+75,technischer leiter,Technischer Leiter,Brandt Schokoladen GmbH + Co. KG,Other,0.3471,Fallback,Lead,0.9998,ML
+76,senior advisor to the cs pension fund in switzerland,Senior Advisor to the CS Pension Fund in Switzerland,Credit Suisse,Other,0.302,Fallback,Senior,1.0,Rule
+77,gruppenleiter hr kpi reporting,Gruppenleiter HR KPI & Reporting,DR. JOHANNES HEIDENHAIN GmbH,Human Resources,0.9636,ML,Lead,0.9999,ML
+78,chief legal officer,Chief Legal Officer,secjur GmbH,Other,0.2099,Fallback,Management,1.0,Rule
+79,ceo,CEO,thyssenkrupp Materials Schweiz AG,Other,1.0,Rule,Management,1.0,Rule
+80,responsable developpement projets,Responsable développement projets,L'éléfàn,Project Management,0.9989,ML,Senior,0.9999,ML
+81,transformation partner,Transformation Partner,TDC NET,Information Technology,0.843,ML,Management,0.9703,ML
+82,executive partner senior software engineer,"Executive Partner, Senior Software Engineer",Mirai Solutions GmbH,Information Technology,1.0,Rule,Senior,1.0,Rule
+83,secretary general ceo welthungerhilfe,Secretary General/CEO Welthungerhilfe,Welthungerhilfe,Other,1.0,Rule,Management,1.0,Rule
+84,fachreferent matwerk materials engineering specialist,Fachreferent MatWerk - Materials Engineering Specialist,German Society for Materials Science - Deutsche Gesellschaft für Materialkunde e.V. (DGM),Information Technology,1.0,Rule,Lead,1.0,Rule
+85,gesellschafter,Gesellschafter,FREEMATCH,Other,0.3887,Fallback,Management,0.9996,ML
+86,statistiker,Statistiker,Deutsche Bundesbank,Other,0.3382,Fallback,Junior,0.9963,ML
+87,chief operating officer,Chief Operating Officer,Bee4GIS,Information Technology,0.9972,ML,Management,1.0,Rule
+88,adjunct researcher,Adjunct Researcher,Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI),Other,1.0,Rule,Junior,0.9995,ML
+89,self employed,Self-Employed,TSAR-Tech,Administrative,0.6468,ML,Senior,0.9998,ML
+90,founding partner,Founding Partner,SPM Label BV,Other,0.3783,Fallback,Management,0.9998,ML
+91,partner,Partner,edge Performance Limited,Other,0.3975,Fallback,Senior,0.4987,Fallback
+92,własciciel,Właściciel,Zinzino,Other,0.3443,Fallback,Lead,0.9985,ML
+93,director marketing communications,"Director, Marketing Communications",Verint Systems,Information Technology,1.0,Rule,Director,1.0,Rule
+94,chief information officer,Chief Information Officer,360 Media Direct,Other,0.2625,Fallback,Management,1.0,Rule
+95,visiting lecturer,Visiting Lecturer,HHL Leipzig Graduate School of Management,Other,0.3804,Fallback,Junior,0.9985,ML
+96,prasidentin technische universitat berlin,Präsidentin Technische Universität Berlin,Technische Universität Berlin,Information Technology,0.6408,ML,Junior,0.9945,ML
+97,sr customer support spec,Sr. Customer Support spec.,Billtrust,Customer Support,0.9932,ML,Senior,1.0,Rule
+98,personalreferent,Personalreferent,Misereor,Other,0.3243,Fallback,Senior,0.5107,Fallback
+99,pflegefachkraft,Pflegefachkraft,St. Josef Hospital Dortmund,Other,0.4402,Fallback,Senior,0.5964,Fallback
+100,freischaffender kunstler,freischaffender Künstler,Selbständig,Information Technology,0.9709,ML,Director,0.9228,ML
+101,subcommittee member,Subcommittee Member,New York State Developmental Disabilities Advisory Employment and Meaningful Activities Subcommittee,Other,0.2758,Fallback,Junior,0.9992,ML
+102,deputy chief,Deputy Chief,Superstition Fire & Medical District,Other,0.4783,Fallback,Management,1.0,Rule
+103,product manager,Product Manager,TRATON GROUP,Other,0.4779,Fallback,Lead,1.0,Rule
+104,om customer success manager,OM/Customer Success Manager,Papirfly,Other,0.4736,Fallback,Lead,1.0,Rule
+105,geschaftsfuhrer,Geschäftsführer,MAFRA Maile GmbH,Other,1.0,Rule,Management,1.0,Rule
+106,senior director product management,Senior Director Product Management,Dynatrace,Information Technology,1.0,Rule,Director,1.0,Rule
+107,matelot,Matelot,Canal marée,Other,0.5345,Fallback,Junior,0.9928,ML
+108,gebietsleiter lbs nordwest,Gebietsleiter LBS NordWest,LBS Landesbausparkasse NordWest,Other,0.232,Fallback,Lead,0.9999,ML
+109,chief financial officer treasurer and secretary,"Chief Financial Officer, Treasurer and Secretary",Roadrunner,Other,1.0,Rule,Management,1.0,Rule
+110,country lead country clinical operations,"Country Lead, Country Clinical Operations",Roche,Other,0.9987,ML,Lead,1.0,Rule
+111,director,Director,Vic Water,Information Technology,1.0,Rule,Director,1.0,Rule
+112,sales manager,Sales Manager,Photron Deutschland GmbH,Sales,1.0,Rule,Lead,1.0,Rule
+113,undergraduate research assistant,Undergraduate Research Assistant,Baylor University Point-of-Need Innovations Center,Other,0.3545,Fallback,Senior,0.9999,ML
+114,technical specialist,Technical Specialist,Financial Conduct Authority,Information Technology,1.0,Rule,Lead,1.0,Rule
+115,team lead global supply management,Team Lead Global Supply Management,Tesla,Other,0.3269,Fallback,Lead,1.0,Rule
+116,bauleitender elektroinstallateur,Bauleitender Elektroinstallateur,Bouygues Energies & Services,Information Technology,0.966,ML,Senior,0.488,Fallback
+117,prozessmanager,Prozessmanager,Bosch,Other,0.4023,Fallback,Lead,1.0,Rule
+118,leiter projektmanagement projektleiter,Leiter Projektmanagement / Projektleiter,Kanton Luzern,Project Management,0.9998,ML,Lead,0.9999,ML
+119,unternehmensinhaber,Unternehmensinhaber,One Point,Other,0.3957,Fallback,Management,0.9364,ML
+120,lehrgangsleiter hr assistent in referent sb personalwesen,Lehrgangsleiter HR-Assistent*in & Referent SB Personalwesen,BFB Bildung Formation Biel-Bienne,Other,0.5224,Fallback,Lead,0.9999,ML
+121,corporate recruiter,Corporate recruiter,Hecht,Other,0.239,Fallback,Junior,0.9995,ML
+122,unternehmensinhaber,Unternehmensinhaber,3F Kommunikation,Other,0.3957,Fallback,Management,0.9364,ML
+123,avionics sensor systems and electronic warfare systems,Avionics Sensor Systems and Electronic Warfare Systems,148th FW,Information Technology,1.0,Rule,Senior,0.777,ML
+124,owner,Owner,Xaretos,Other,1.0,Rule,Management,1.0,Rule
+125,global category manager technology payment solutions,Global Category Manager - Technology & Payment Solutions,bp,Information Technology,1.0,Rule,Lead,1.0,Rule
+126,program manager,Program Manager,SHELL INFORMATION TECHNOLOGY INTERNATIONAL BV,Other,0.2896,Fallback,Lead,1.0,Rule
+127,chief growth officer,Chief Growth Officer,Paradise Tomato Kitchens - Signature Sauce. Signature Service,Marketing,1.0,Rule,Management,1.0,Rule
+128,senior software developer,Senior Software Developer,JetBrains,Information Technology,1.0,Rule,Senior,1.0,Rule
+129,geschaftsfuhrer ceo coo,Geschäftsführer / CEO&COO,PLAZAMEDIA GmbH,Other,1.0,Rule,Management,1.0,Rule
+130,customer executive member of management northern europe,Customer Executive & Member of Management Northern Europe,DNV,Project Management,0.6157,ML,Senior,0.9999,ML
+131,senior software engineer at liz smart office gmbh,Senior Software Engineer at LIZ Smart Office GmbH,LIZ Smart Office GmbH,Information Technology,1.0,Rule,Senior,1.0,Rule
+132,industry segment manager glass,"Industry Segment Manager, Glass",Dürr,Information Technology,0.9395,ML,Lead,1.0,Rule
+133,projektmanager m a,Projektmanager M&A,BayWa AG,Project Management,0.9992,ML,Lead,1.0,Rule
+134,recruitment consultant,Recruitment Consultant,Progressive Recruitment,Consulting,0.9997,ML,Senior,0.9999,ML
+135,ceo,CEO,Merz Reisen GmbH,Other,1.0,Rule,Management,1.0,Rule
+136,corporate communications marketing services senior manager,Corporate Communications & Marketing Services Senior Manager,Canon Austria GmbH,Marketing,1.0,Rule,Lead,1.0,Rule
+137,international clinical project manager,International Clinical Project Manager,Scope International AG,Project Management,0.9994,ML,Lead,1.0,Rule
+138,leiter inhouse logistik,Leiter Inhouse Logistik,Volkswagen AG,Other,0.2794,Fallback,Lead,0.9998,ML
+139,technology lead germany global partner solutions,Technology Lead Germany - Global Partner Solutions,Microsoft,Information Technology,1.0,Rule,Lead,1.0,Rule
+140,director of sales and marketing,Director of Sales and Marketing,Bustec,Information Technology,1.0,Rule,Director,1.0,Rule
+141,customer success manager,Customer Success Manager,KnowBe4,Other,0.4821,Fallback,Lead,1.0,Rule
+142,trade marketing manager,Trade Marketing Manager,Luxottica Group,Marketing,1.0,Rule,Lead,1.0,Rule
+143,head currency solutions,Head Currency Solutions,UBS,Information Technology,0.7044,ML,Lead,0.9997,ML
+144,svp sales accounts,SVP Sales & Accounts,Artemis ITS,Sales,1.0,Rule,Director,1.0,Rule
+145,managing director,Managing Director,Copenhagen Color,Information Technology,1.0,Rule,Director,1.0,Rule
+146,construction site leader,Construction site leader,Koop Bronbemaling B.V.,Project Management,0.998,ML,Lead,1.0,Rule
+147,data manager,Data Manager,"Center for Earth System Research and Sustainability, University of Hamburg",Other,0.2836,Fallback,Lead,1.0,Rule
+148,vice president supplier enablement coe,Vice President - Supplier Enablement CoE,American Express,Information Technology,0.7529,ML,Director,1.0,Rule
+149,heimleiterin,Heimleiterin,Stiftung Liebenau,Other,0.3545,Fallback,Lead,0.9998,ML
+150,chief executive officer,Chief Executive Officer,Level 20,Other,0.4015,Fallback,Management,1.0,Rule
+151,inhaber und geschaftsfuhrer,Inhaber und Geschäftsführer,A4 Agentur AG,Other,1.0,Rule,Management,1.0,Rule
+152,senior manager,Senior Manager,MHP – A Porsche Company,Other,0.3159,Fallback,Lead,1.0,Rule
+153,director of education,Director of Education,Independence Seaport Museum,Information Technology,1.0,Rule,Director,1.0,Rule
+154,gerente comercial,Gerente Comercial,Baeza Jakob Hermanos Ltda,Other,0.3425,Fallback,Senior,0.9999,ML
+155,operations director munchen,Operations Director München,Boston Consulting Group (BCG),Information Technology,1.0,Rule,Director,1.0,Rule
+156,designer,Designer,Global Arts,Other,0.4326,Fallback,Senior,0.9998,ML
+157,gerente de rr hh mexico,Gerente de RR.HH Mexico,"Apex Tool Group, LLC",Information Technology,0.6066,ML,Senior,0.9999,ML
+158,business development key account manager,Business Development & Key Account Manager,RB&W Manufacturing,Sales,1.0,Rule,Lead,1.0,Rule
+159,lehrerin,Lehrerin,Land SH,Administrative,0.6744,ML,Senior,0.4561,Fallback
+160,ceo,CEO,CGI MAGIC MOVIE CORPORATION,Other,1.0,Rule,Management,1.0,Rule
+161,quality coordinator,Quality Coordinator,Digital Realty,Other,0.4062,Fallback,Management,1.0,Rule
+162,betriebsratsvorsitzender,Betriebsratsvorsitzender,ALDRA,Other,0.3011,Fallback,Management,0.9997,ML
+163,pensionskundechef account executive global employee benefits corporate pension,"Pensionskundechef / Account Executive - Global Employee Benefits, Corporate Pension",Söderberg & Partners Danmark,Sales,1.0,Rule,Senior,0.9999,ML
+164,principal advisor,Principal Advisor,European Investment Bank (EIB),Other,0.3628,Fallback,Lead,1.0,Rule
+165,senior manager,Senior Manager,PwC,Other,0.3159,Fallback,Lead,1.0,Rule
+166,geschaftsfuhrender gesellschafter,Geschäftsführender Gesellschafter,South West Vision GmbH,Other,0.2953,Fallback,Management,0.9998,ML
+167,sales director emea,Sales Director EMEA,Delrin,Information Technology,1.0,Rule,Director,1.0,Rule
+168,geschaftsfuhrender gesellschafter,Geschäftsführender Gesellschafter,ALTTURBO GmbH,Other,0.2953,Fallback,Management,0.9998,ML
+169,verkaufsleiter,Verkaufsleiter,argon lighting GmbH,Sales,1.0,Rule,Lead,0.9998,ML
+170,chief executive officer,Chief Executive Officer,Lufthansa Technik Services India Pvt Ltd,Other,0.4015,Fallback,Management,1.0,Rule
+171,senior program manager,Senior Program Manager,RINA North America (formerly Patrick),Other,0.5913,Fallback,Lead,1.0,Rule
+172,independent advisor to founders and funds,Independent Advisor to Founders and Funds,andwin Ltd.,Other,1.0,Rule,Management,1.0,Rule
+173,coordinador integral servicios generales,Coordinador integral servicios generales,aseocolba,Information Technology,1.0,Rule,Management,1.0,Rule
+174,cst,CST,PAE Technical Services GmbH,Information Technology,0.9404,ML,Management,0.9997,ML
+175,r d group manager,R&D group manager,Fraunhofer IPMS,Other,0.3617,Fallback,Lead,1.0,Rule
+176,klinischer psychologe,Klinischer Psychologe,Psychologie.8,Other,0.3312,Fallback,Senior,0.9998,ML
+177,salgskonsulent,Salgskonsulent,Forsikring Danmark A/S,Sales,0.9995,ML,Senior,0.9999,ML
+178,software developer,Software Developer,SSingularity Technologies,Information Technology,1.0,Rule,Senior,0.9998,ML
+179,coo geschaftsfuhrende gesellschafterin,COO (Geschäftsführende Gesellschafterin),LegalTegrity,Other,0.283,Fallback,Management,1.0,Rule
+180,geschaftsfuhrender gesellschafter,Geschäftsführender Gesellschafter,ikonda GmbH,Other,0.2953,Fallback,Management,0.9998,ML
+181,geschaftsfuhrer,Geschäftsführer,Klinik Bavaria GmbH & Co. KG Rehabilitationsklinik Bad Kissingen,Other,1.0,Rule,Management,1.0,Rule
+182,expat jumbo operator,Expat Jumbo Operator,Face Mining Services,Information Technology,0.9989,ML,Management,0.999,ML
+183,geschaftsfuhrer,Geschäftsführer,Agentur für Kunstvermittlung GmbH,Other,1.0,Rule,Management,1.0,Rule
+184,retired,Retired,;-),Other,0.3156,Fallback,Senior,0.9999,ML
+185,application specialist,Application Specialist,BMG LABTECH,Information Technology,0.9068,ML,Lead,1.0,Rule
+186,porject manager,porject manager,Olíudreifing,Other,0.4034,Fallback,Lead,1.0,Rule
+187,head public and governmental affairs pricing and reimbursement,"Head Public and Governmental Affairs, Pricing and Reimbursement","Alcon Laboratories, Inc.",Marketing,1.0,Rule,Lead,0.9999,ML
+188,executive director head of un advocacy,Executive Director / Head of UN Advocacy,International Campaign for Tibet,Information Technology,1.0,Rule,Director,1.0,Rule
+189,project v v manager,Project V&V Manager,Alstom,Project Management,0.9996,ML,Lead,1.0,Rule
+190,rechtsanwalt counsel,Rechtsanwalt | Counsel,Hausfeld,Consulting,0.9886,ML,Senior,0.9997,ML
+191,indigenous counsellor case manager niiwin wendaanimak,Indigenous Counsellor & Case Manager - Niiwin Wendaanimak,Parkdale Queen West Community Health Centre,Consulting,0.9933,ML,Lead,1.0,Rule
+192,bauleiter,Bauleiter,Köster GmbH,Other,0.3409,Fallback,Lead,0.9997,ML
+193,amministrazione,Amministrazione,Centro diagnostico Pasteur,Information Technology,0.9987,ML,Management,0.7098,ML
+194,head of customer sales service sales controlling,Head of Customer Sales Service & Sales Controlling,Graphic Packaging International - Europe,Sales,1.0,Rule,Director,1.0,Rule
+195,gerant,gerant,rst,Other,0.4125,Fallback,Junior,0.8029,ML
+196,engineering manager,Engineering Manager,ERCO,Information Technology,1.0,Rule,Lead,1.0,Rule
+197,referatsleiter,Referatsleiter,Nds. Ministerium für Wissenschaft und Kultur,Other,0.3529,Fallback,Lead,0.9998,ML
+198,retired but still active and interested in optics development and metrology,Retired but still active and interested in Optics Development and Metrology,No Company,Other,0.5058,Fallback,Senior,0.9999,ML
+199,sales consultant business application,Sales Consultant - Business Application,Microsoft,Sales,1.0,Rule,Senior,0.9999,ML
+200,senior technical consultant,Senior Technical Consultant,Medtronic,Information Technology,1.0,Rule,Senior,1.0,Rule
+201,nurse practitioner,Nurse Practitioner,Cleveland Clinic Connected Care,Administrative,0.7545,ML,Senior,0.9999,ML
+202,packhouse managing consultant,Packhouse Managing consultant,Kamps Sperziebonen,Consulting,0.9997,ML,Lead,1.0,Rule
+203,verwaltungsrat,Verwaltungsrat,21iLAB,Other,0.2394,Fallback,Management,0.9902,ML
+204,development manager,Development Manager,GOLDBECK,Project Management,0.8612,ML,Lead,1.0,Rule
+205,vertriebsspezialist,Vertriebsspezialist,Sto SE & Co. KGaA,Sales,1.0,Rule,Lead,0.9549,ML
+206,rechtsanwalt,Rechtsanwalt,Freiberuflich,Other,0.3551,Fallback,Senior,0.5709,Fallback
+207,business owner,Business Owner,"Bruck, Inc",Other,1.0,Rule,Management,1.0,Rule
+208,hw developer bu motion,HW-Developer BU Motion,B&R Industrial Automation,Information Technology,1.0,Rule,Senior,0.9579,ML
+209,head of organization projects and facility operations,Head of Organization Projects and Facility Operations,Atlas Copco Holding GmbH,Other,0.9902,ML,Director,1.0,Rule
+210,landwirtschaftsmeister,Landwirtschaftsmeister,Selbständig,Other,0.3886,Fallback,Management,0.9711,ML
+211,head of global life products,Head of Global Life Products,ERGO Group AG,Human Resources,0.684,ML,Director,1.0,Rule
+212,investor,Investor,Benno Therapeutics,Other,0.3877,Fallback,Management,0.9667,ML
+213,geschaftsfuhrer,Geschäftsführer,Muldental Elektronik GmbH,Other,1.0,Rule,Management,1.0,Rule
+214,executive assistant to the president,Executive Assistant to the President,HICO CANADA INC.,Human Resources,0.6897,ML,Senior,0.9999,ML
+215,professor,Professor,Hochschule für angewandte Wissenschaft und Kunst,Other,1.0,Rule,Junior,0.9954,ML
+216,partner,Partner,Freshfields Bruckhaus Deringer,Other,0.3975,Fallback,Senior,0.4987,Fallback
+217,webentwickler,Webentwickler,Nolis GmbH,Information Technology,0.9994,ML,Lead,0.9995,ML
+218,director construction engineering,Director Construction & Engineering,GreenGaraGe GmbH,Information Technology,1.0,Rule,Director,1.0,Rule
+219,chief operating officer consumer bank head of strategic planning and corporate development,Chief Operating Officer - Consumer Bank | Head of Strategic Planning and Corporate Development,WSFS Bank,Project Management,0.98,ML,Director,1.0,Rule
+220,dekanatsratin,Dekanatsrätin,Westsächsische Hochschule Zwickau,Other,0.2597,Fallback,Management,0.9997,ML
+221,mitarbeiter produktmanagement,Mitarbeiter Produktmanagement,KIX Service Software GmbH,Other,0.4842,Fallback,Junior,0.9996,ML
+222,manager prokurist strategie und managementberatung financial services,Manager | Prokurist | Strategie- und Managementberatung Financial Services,KPMG Deutschland,Other,1.0,Rule,Lead,1.0,Rule
+223,head of development,Head of Development,Fish Corb Films,Project Management,0.9087,ML,Director,1.0,Rule
+224,manager,Manager,OBSS,Other,0.3285,Fallback,Lead,1.0,Rule
+225,chairman of the board,Chairman of the Board,Alteams Oy,Other,0.4384,Fallback,Lead,0.9982,ML
+226,stammdatenmanager r d engineering r d,Stammdatenmanager R&D ENGINEERING / R&D,AL-KO Vehicle Technology Group,Information Technology,1.0,Rule,Lead,1.0,Rule
+227,aktiver gesellschafter,aktiver Gesellschafter,Binder Gruppe,Other,0.2273,Fallback,Management,0.8898,ML
+228,leiter produktion mitinhaber,Leiter Produktion / Mitinhaber,"Erich Keller AG - Innenausbau, Design + Technik",Project Management,0.9359,ML,Lead,0.9999,ML
+229,senior manager,Senior Manager,Seller Ventures,Other,0.3159,Fallback,Lead,1.0,Rule
+230,mediation clinic,Mediation Clinic,New York Law School,Marketing,1.0,Rule,Senior,0.4219,Fallback
+231,head of information technology,Head of Information Technology,NYSE,Information Technology,1.0,Rule,Director,1.0,Rule
+232,president,President,Benchmark Foam Inc,Human Resources,0.7319,ML,Management,0.9987,ML
+233,senior brand manager,Senior Brand Manager,Rust-Oleum Canada,Marketing,1.0,Rule,Lead,1.0,Rule
+234,weinbautechniker,Weinbautechniker,Winzer,Other,0.3597,Fallback,Senior,0.9998,ML
+235,leiter instandhaltung,Leiter Instandhaltung,Lipoid GmbH,Other,0.3239,Fallback,Lead,0.9998,ML
+236,salesman,Salesman,Saottini Auto,Sales,1.0,Rule,Senior,0.6831,ML
+237,senior human resources manager,Senior Human Resources Manager,SS&C Technologies,Human Resources,0.9945,ML,Lead,1.0,Rule
+238,geschaftsfuhrer,Geschäftsführer,MMS-Werbeagentur,Other,1.0,Rule,Management,1.0,Rule
+239,direktor,Direktor,Sparkasse Schaumburg,Other,0.3131,Fallback,Director,0.9315,ML
+240,influencer marketing executive,Influencer Marketing Executive,KatKin,Marketing,1.0,Rule,Senior,0.9999,ML
+241,unternehmensinhaber,Unternehmensinhaber,Orthosteo Praxis,Other,0.3957,Fallback,Management,0.9364,ML
+242,vizeprasident junior,Vizepräsident Junior,Woody-Display,Other,0.3636,Fallback,Junior,1.0,Rule
+243,prokurist direktor touristik,Prokurist / Direktor Touristik,DERTOUR Austria GmbH,Other,1.0,Rule,Director,0.9917,ML
+244,kipper spedition,Kipper -Spedition,Gärtner Transporte,Other,0.2458,Fallback,Management,0.9997,ML
+245,pedagoga,Pedagoga,Escola de Educação Infantil João e Maria,Other,0.3762,Fallback,Junior,0.9977,ML
+246,behavioral health clinician,Behavioral Health Clinician,Butte County Behavioral Health,Other,0.3697,Fallback,Senior,0.9998,ML
+247,owner,Owner,Media Solutions,Other,1.0,Rule,Management,1.0,Rule
+248,web developer,Web Developer,Superweb LLP,Information Technology,1.0,Rule,Senior,0.9998,ML
+249,manager custom solutions,Manager Custom Solutions,Hansgrohe Group,Other,0.5577,Fallback,Lead,1.0,Rule
+250,responsable developpement automotive,Responsable Développement Automotive,Tempo one,Other,0.5732,Fallback,Senior,0.9999,ML
+251,projektmanager strat bk e e infrastruktur,Projektmanager strat. BK E/E Infrastruktur,BMW Group,Project Management,0.9997,ML,Lead,1.0,Rule
+252,responsable de projet marketing et communications,Responsable de projet marketing et communications,ILODECO,Marketing,1.0,Rule,Senior,0.9999,ML
+253,leiter fachbereich it security engineering,Leiter Fachbereich IT Security & Engineering,SWICA Krankenversicherung AG,Information Technology,1.0,Rule,Lead,0.9999,ML
+254,vermittlung und verrentung von immobilien,Vermittlung und Verrentung von Immobilien,BVFI - Bundesverband für die Immobilienwirtschaft,Other,0.4888,Fallback,Management,0.9971,ML
+255,approvisionneuse bilingue,Approvisionneuse Bilingue,MANUFACTURE FRANCAISE DU CYCLE,Administrative,0.9142,ML,Lead,0.6827,ML
+256,digital product owner,Digital Product Owner,Doka,Other,1.0,Rule,Management,1.0,Rule
+257,head of legal,Head of Legal,Stellantis Germany GmbH,Other,0.4098,Fallback,Director,1.0,Rule
+258,receptionist,Receptionist,Van Cleef & Arpels,Administrative,0.7419,ML,Senior,0.9999,ML
+259,retail director dach,Retail Director DACH,S.OLIVER GROUP,Information Technology,1.0,Rule,Director,1.0,Rule
+260,call agent,Call Agent,Sitel,Marketing,0.9992,ML,Senior,0.9998,ML
+261,chief executive officer,Chief Executive Officer,Varme og Kulde AS,Other,0.4015,Fallback,Management,1.0,Rule
+262,general manager,General Manager,F. Bosch Medizintechnik Germany,Other,0.2417,Fallback,Management,1.0,Rule
+263,storage king usa,Storage King USA,Storage King USA,Information Technology,0.9989,ML,Management,0.9448,ML
+264,purser,Purser,Lufthansa,Purchasing,0.9703,ML,Senior,0.9509,ML
+265,vorstandsvorsitzender,Vorstandsvorsitzender,LAG Inklusionsfirmen Hessen e. V.,Other,1.0,Rule,Management,0.9997,ML
+266,associate m a,Associate | M&A,PwC Deutschland,Other,0.4624,Fallback,Junior,1.0,Rule
+267,vp talent acquisition people culture hr,VP - Talent Acquisition & People & Culture(HR),HighRadius,Human Resources,0.988,ML,Director,1.0,Rule
+268,partner,Partner,Andersch,Other,0.3975,Fallback,Senior,0.4987,Fallback
+269,senior vice president r d,Senior Vice President R&D,WashTec AG,Other,0.3026,Fallback,Director,1.0,Rule
+270,hotelier gastronom,Hotelier/Gastronom,Hotel-Gaststätte Mutter Buermann,Other,0.206,Fallback,Senior,0.992,ML
+271,mechanical engineering specialist,Mechanical Engineering Specialist,pt karya makmur ckmt,Information Technology,1.0,Rule,Lead,1.0,Rule
+272,industriereiniger,Industriereiniger,Lobbe,Other,0.2831,Fallback,Management,0.98,ML
+273,it consultant solution architekt,IT-Consultant & Solution Architekt,ERWEKA GmbH,Information Technology,1.0,Rule,Senior,0.9999,ML
+274,qualified person,Qualified Person,Oncotec Pharma Produktion GmbH,Other,0.4715,Fallback,Senior,0.9862,ML
+275,senior vice president global supplier management,Senior Vice President Global Supplier Management,PALFINGER Group,Information Technology,0.6898,ML,Director,1.0,Rule
+276,sr international agent,Sr. International Agent,FedEx,Human Resources,0.9595,ML,Senior,1.0,Rule
+277,manager hr ops talent acquisition,Manager- Hr Ops & Talent Acquisition,Parangat Technologies,Human Resources,0.9801,ML,Lead,1.0,Rule
+278,ceo,CEO,PaxAn®,Other,1.0,Rule,Management,1.0,Rule
+279,assistant electrician,Assistant Electrician,Freelancer constructor,Information Technology,0.9894,ML,Senior,0.9999,ML
+280,production engineer,Production Engineer,VERWO AG,Information Technology,1.0,Rule,Senior,0.9999,ML
+281,quality engineering manager,Quality Engineering Manager,Fluke Corporation,Information Technology,1.0,Rule,Lead,1.0,Rule
+282,service manager,Service Manager,All for One Steeb AG,Other,0.2723,Fallback,Lead,1.0,Rule
+283,vertriebsleiter,Vertriebsleiter,OÖNachrichten,Sales,1.0,Rule,Lead,0.9998,ML
+284,produktmanager,Produktmanager,Erwin Renz Metallwarenfabrik GmbH & Co KG,Other,0.2863,Fallback,Lead,1.0,Rule
+285,partner und inhaber,Partner und Inhaber,cr Werbeagentur AG,Other,0.4112,Fallback,Management,0.9988,ML
+286,senior advisor,Senior Advisor,"US Trade Consult, LLC.",Other,0.3923,Fallback,Senior,1.0,Rule
+287,hockey coach,Hockey Coach,HK Spartak Dubnica nad Vahom,Other,0.2654,Fallback,Senior,0.9997,ML
+288,quality assurance manager quality contract managment gmp auditor,Quality Assurance Manager / Quality Contract Managment / GMP Auditor,Siegfried Hameln,Other,0.3528,Fallback,Lead,1.0,Rule
+289,svp transformation strategy,SVP Transformation & Strategy,Drooms,Project Management,0.6295,ML,Director,1.0,Rule
+290,stagiaire chaine logistique,Stagiaire chaîne logistique,Laforge holcim,Other,0.312,Fallback,Junior,0.997,ML
+291,director sales unit benelux,"Director, Sales Unit Benelux",Uponor GmbH,Information Technology,1.0,Rule,Director,1.0,Rule
+292,strategischer einkaufer,Strategischer Einkäufer,Deutsches Zentrum für Luft-und Raumfahrt e.V.,Purchasing,0.9986,ML,Management,0.9994,ML
+293,vp market intelligence business development sales,VP Market Intelligence - Business Development - Sales,Atlas Copco,Sales,1.0,Rule,Director,1.0,Rule
+294,director project implementation manager,Director / Project implementation Manager,Outotec,Information Technology,1.0,Rule,Director,1.0,Rule
+295,aktionar,Aktionär,Swiss-Canna Group AG,Other,0.2879,Fallback,Management,0.9996,ML
+296,werkstudent facheinkauf interieur,Werkstudent Facheinkauf Interieur,BMW Group,Project Management,0.8801,ML,Junior,1.0,Rule
+297,account director,Account Director,GKN Driveline,Information Technology,1.0,Rule,Director,1.0,Rule
+298,head teacher in art,Head teacher in art,Sigtuna folkhögskola,Other,0.3816,Fallback,Senior,0.9575,ML
+299,chef,Chef,Verlag Reinhard Wagner,Other,0.4252,Fallback,Lead,0.9995,ML
+300,geschaftsfuhrer,Geschäftsführer,WISAG Passage Service Düsseldorf GmbH & Co. KG,Other,1.0,Rule,Management,1.0,Rule
+301,general manager,General Manager,BOTTERO GmbH,Other,0.2417,Fallback,Management,1.0,Rule
+302,spa concierge,Spa Concierge,Woodhouse,Information Technology,0.9968,ML,Senior,0.9993,ML
+303,data engineer,Data Engineer,Macroconsult,Information Technology,1.0,Rule,Senior,0.9999,ML
+304,vice president technology film,Vice President Technology Film,TDK,Information Technology,1.0,Rule,Director,1.0,Rule
+305,geschaftsfuhrender gesellschafter,Geschäftsführender Gesellschafter,neusta marketing GmbH,Other,0.2953,Fallback,Management,0.9998,ML
+306,account manager,Account-Manager,Nestler Wellpappe GmbH,Sales,1.0,Rule,Lead,1.0,Rule
+307,head of digital radio design,Head of Digital Radio Design,Ericsson,Information Technology,0.9992,ML,Director,1.0,Rule
+308,assistent,Assistent,Amaris Zorggroep,Administrative,0.9806,ML,Junior,0.9996,ML
+309,polizistin,Polizistin,Polizei Oberes Fricktal,Other,0.28,Fallback,Management,0.9479,ML
+310,managing partner,Managing Partner,FINVIA,Other,0.287,Fallback,Lead,1.0,Rule
+311,global product marketing manager,Global Product Marketing Manager,Dotdigital,Marketing,1.0,Rule,Lead,1.0,Rule
+312,leiter kundendienst,Leiter Kundendienst,MARAG Garagen AG,Other,0.3664,Fallback,Lead,0.9998,ML
+313,rentner,Rentner,Orientierung: M,Other,0.3642,Fallback,Junior,0.6273,ML
+314,geschaftsfuhrer,Geschäftsführer,orfix International GmbH,Other,1.0,Rule,Management,1.0,Rule
+315,produktingenieur,Produktingenieur,Spherea GmbH,Information Technology,1.0,Rule,Senior,0.9999,ML
+316,geschaftsleiter,Geschäftsleiter,BIGA Energie GmbH & Co. KG,Other,0.3311,Fallback,Lead,0.9998,ML
+317,marketing,Marketing,Matica Technologies AG,Marketing,1.0,Rule,Lead,0.9858,ML
+318,investment operations manager,Investment Operations Manager,Fisher Funds,Other,1.0,Rule,Lead,1.0,Rule
+319,regional manager dach strategic account manager,"regional manager DACH, strategic account manager",Sylvamo,Sales,1.0,Rule,Lead,1.0,Rule
+320,vorstand ceo bei eberhard ag,Vorstand / CEO bei Eberhard AG,Eberhard AG,Other,1.0,Rule,Management,1.0,Rule
+321,projektingenieur,Projektingenieur,Muhsau Kindl Ingenieurgesellschaft mbH,Information Technology,1.0,Rule,Senior,0.9999,ML
+322,chairman,Chairman,EA-RS Group Ltd,Other,0.3632,Fallback,Senior,0.7518,ML
+323,geschaftsfuhrender gesellschafter,Geschäftsführender Gesellschafter,GfA-DICHTUNGEN GMBH,Other,0.2953,Fallback,Management,0.9998,ML
+324,svp 3ds solutions cenit group,SVP 3DS-Solutions CENIT Group,KEONYS,Information Technology,1.0,Rule,Director,1.0,Rule
+325,senior vice president apac,Senior Vice President APAC,Venus Concept,Information Technology,0.9709,ML,Director,1.0,Rule
+326,service assistant customer experience and review management,"Service Assistant, Customer Experience and Review Management",Hotel & Restaurant Hessischer Hof,Other,0.3997,Fallback,Senior,0.9999,ML
+327,ceo co owner,CEO Co-owner,Planet-A-Mor,Other,1.0,Rule,Management,1.0,Rule
+328,business strategy consultant,Business Strategy Consultant,Accenture,Business Development,0.9967,ML,Senior,0.9999,ML
+329,managing director,Managing Director,UTILITY PARTNERS Operations,Information Technology,1.0,Rule,Director,1.0,Rule
+330,recreation manager,Recreation Manager,Tahoe Donner Association,Other,0.3401,Fallback,Lead,1.0,Rule
+331,stiftungsrat,Stiftungsrat,Fair Recycling Foundation,Other,0.3621,Fallback,Management,0.9997,ML
+332,leiter kalkulation,Leiter Kalkulation,Eiffage Infra-Ost GmbH,Other,0.3472,Fallback,Lead,0.9998,ML
+333,psikolog,Psikolog,Sirkadiyen Sağlıklı Yaşam Merkezi,Other,0.3323,Fallback,Senior,0.9996,ML
+334,projektplaner,Projektplaner,Sto SE & Co. KGaA,Project Management,0.999,ML,Lead,0.9985,ML
+335,senior manager,Senior Manager,MorganFranklin Consulting,Other,0.3159,Fallback,Lead,1.0,Rule
+336,information technology specialist itcs,Information Technology Specialist -ITCS,Hyatt Hotels Corporation,Information Technology,1.0,Rule,Lead,1.0,Rule
+337,business intelligence intern,Business Intelligence Intern,Amazon,Business Development,0.997,ML,Junior,1.0,Rule
+338,geschaftsfuhrender inhaber,Geschäftsführender Inhaber,auxilion AG,Other,0.2848,Fallback,Management,0.9998,ML
+339,gebietsverkaufsleiterin implantologie prothetik,Gebietsverkaufsleiterin Implantologie & Prothetik,ZERAMEX,Sales,1.0,Rule,Lead,0.9999,ML
+340,human resources consultant,Human Resources Consultant,Green Hydrogen Systems,Consulting,0.9996,ML,Senior,0.9999,ML
+341,director of marketing,Director of Marketing,Business consultants various,Information Technology,1.0,Rule,Director,1.0,Rule
+342,vice president,Vice President,Toshiba Memory Europe GmbH (TME),Other,0.3324,Fallback,Director,1.0,Rule
+343,senior vice president,Senior Vice President,SFC Energy AG,Other,0.2768,Fallback,Director,1.0,Rule
+344,platin,Platin,WorldStyle Media,Information Technology,0.9852,ML,Management,0.9996,ML
+345,insan kaynakları,Insan kaynakları,Trend,Human Resources,0.9907,ML,Junior,0.8536,ML
+346,geschaftsfuhrer,Geschäftsführer,Soundart,Other,1.0,Rule,Management,1.0,Rule
+347,executive partner development manager,Executive Partner Development Manager,Huawei,Project Management,0.9451,ML,Lead,1.0,Rule
+348,departementssekretar leiter amt fur militar und bevolkerungsschutz,Departementssekretär / Leiter Amt für Militär und Bevölkerungsschutz,"Justiz-, Polizei- und Militärdepartement Kanton Appenzell I.Rh",Other,0.3139,Fallback,Lead,0.9999,ML
+349,geschaftsfuhrer,Geschäftsführer,PDO Europe GmbH,Other,1.0,Rule,Management,1.0,Rule
+350,ceo,CEO,Batterman Consulting,Other,1.0,Rule,Management,1.0,Rule
+351,partner,Partner,Bridgged,Other,0.3975,Fallback,Senior,0.4987,Fallback
+352,chief executive officer,Chief Executive Officer,ManageCasa Inc.,Other,0.4015,Fallback,Management,1.0,Rule
+353,arbeitssuche,Arbeitssuche,Bewerbungsphase,Project Management,0.6016,ML,Junior,0.9945,ML
+354,selbststandig,Selbstständig,Selbstständig,Other,0.3458,Fallback,Lead,0.6927,ML
+355,managing director,Managing Director,SPOCS sports consultants GmbH,Information Technology,1.0,Rule,Director,1.0,Rule
+356,head of global competence center mo bo acc business analysis,Head of Global Competence Center MO/BO/Acc Business Analysis,UniCredit Business Integrated Solutions,Business Development,0.9963,ML,Director,1.0,Rule
+357,full stack asp net angular developer,Full Stack (ASP.Net + Angular) Developer,KLDiscovery EMEA,Information Technology,1.0,Rule,Lead,0.9991,ML
+358,alleiniger vorstand,Alleiniger Vorstand,EJF gemeinnützige AG,Other,1.0,Rule,Management,0.994,ML
+359,senior software engineer,Senior Software Engineer,Math2Market GmbH,Information Technology,1.0,Rule,Senior,1.0,Rule
+360,seminar staff,Seminar Staff,"CrossFit, Inc.",Marketing,1.0,Rule,Senior,0.9997,ML
+361,projektleiter,Projektleiter,Aurubis,Project Management,0.9988,ML,Lead,0.9997,ML
+362,leiter program management radar,Leiter Program Management RADAR,Continental,Information Technology,0.8433,ML,Senior,0.9999,ML
+363,geschaftsfuhrer,Geschäftsführer,capital-S-Immobilien,Other,1.0,Rule,Management,1.0,Rule
+364,pharmacy sales representative,Pharmacy Sales Representative,Bayer,Sales,1.0,Rule,Senior,0.9995,ML
+365,bereichsleiter rechnungswesen und finanzen,Bereichsleiter Rechnungswesen und Finanzen,DREWAG Stadtwerke Dresden GmbH,Other,0.2371,Fallback,Lead,0.9999,ML
+366,warehouse specialist,Warehouse Specialist,Royal Design Group Holding AB,Information Technology,0.942,ML,Lead,1.0,Rule
+367,geschaftsleitung prokurist,"Geschäftsleitung, Prokurist",Leop. Siegle GmbH & Co. KG,Other,1.0,Rule,Lead,0.9999,ML
+368,sales manager,Sales Manager,Guild Mortgage,Sales,1.0,Rule,Lead,1.0,Rule
+369,industrial engineer,Industrial Engineer,PI (Physik Instrumente) Group,Information Technology,1.0,Rule,Senior,0.9999,ML
+370,pflegedienstleitung,Pflegedienstleitung,Pflege & Seniorenwohnen Ammertal,Other,0.4975,Fallback,Lead,0.9998,ML
+371,principal consultant,Principal Consultant,Lindner Corporation,Consulting,0.9997,ML,Lead,1.0,Rule
+372,projektexperte sicherheit geschaftsleitung,"Projektexperte Sicherheit, Geschäftsleitung",EPRO SECURE,Information Technology,1.0,Rule,Lead,0.9999,ML
+373,owner,Owner,Silt Sock Erosion Control Products,Other,1.0,Rule,Management,1.0,Rule
+374,solution designer,Solution Designer,K-Businesscom AG,Project Management,0.676,ML,Senior,0.9999,ML
+375,founder owner,Founder -Owner,TransatlantiX,Other,1.0,Rule,Management,1.0,Rule
+376,human resources manager,Human Resources Manager,TaxNetworkUSA,Human Resources,0.9947,ML,Lead,1.0,Rule
+377,einkaufer werkleistungen diestleistugen,Einkäufer Werkleistungen/Diestleistugen,Bilfinger Maintenance GmbH,Purchasing,0.9981,ML,Junior,0.6137,ML
+378,selbststandig,Selbstständig,Selbstständig Gesund,Other,0.3458,Fallback,Lead,0.6927,ML
+379,regional manager,Regional Manager,R.A. Snyder Properties,Other,0.2994,Fallback,Lead,1.0,Rule
+380,head of hybrid cloud solution sales germany,Head of Hybrid Cloud Solution Sales Germany,Hewlett Packard Enterprise,Information Technology,1.0,Rule,Director,1.0,Rule
+381,director global banking,Director - Global Banking,BNP Paribas CIB,Information Technology,1.0,Rule,Director,1.0,Rule
+382,doctoral student,Doctoral Student,ETH Zürich,Information Technology,1.0,Rule,Management,1.0,Rule
+383,project manager entwicklung lebensmittel,Project Manager Entwicklung /Lebensmittel,Nestle,Project Management,0.9998,ML,Lead,1.0,Rule
+384,consultant,Consultant,Freiberuflich,Consulting,0.9997,ML,Senior,0.9999,ML
+385,general counsel leiter rechtsabteilung,General Counsel / Leiter Rechtsabteilung,Random House,Consulting,0.9856,ML,Lead,0.9999,ML
+386,team lead business services,Team Lead Business Services,Heel,Business Development,0.997,ML,Lead,1.0,Rule
+387,ceo co founder,CEO & Co-founder,SitePlan GmbH,Other,1.0,Rule,Management,1.0,Rule
+388,juristischer berater,Juristischer Berater,Euler Hermes Deutschland,Consulting,0.9994,ML,Senior,0.5816,Fallback
+389,leitung personal finanzen einkauf it folkwang universitat der kunste,"Leitung Personal, Finanzen, Einkauf, IT | Folkwang Universität der Künste",Folkwang Universität der Künste,Information Technology,1.0,Rule,Lead,0.9999,ML

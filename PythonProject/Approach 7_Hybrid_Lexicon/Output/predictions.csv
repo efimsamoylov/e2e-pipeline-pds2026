@@ -1,0 +1,391 @@
+id,position,organization,department_pred,department_conf,department_source,seniority_pred,seniority_conf,seniority_source
+0,Bookkeeper,"Keeping The Books, Bookkeeping",Other,0.36,Fallback,Senior,1.0,ML
+1,Strategy & Investments,Erste Bank und Sparkasse,Other,0.51,Fallback,Director,1.0,Rule (Lexicon)
+2,Corporate Auditor,Guido Meyer,Other,0.46,Fallback,Junior,0.99,ML
+3,Consultant,Advicing,Consulting,1.0,ML,Senior,1.0,Rule (Lexicon)
+4,Marketing Manager,Tradeware AG,Marketing,1.0,ML,Senior,1.0,Rule (Lexicon)
+5,Professor,Monash University,Other,0.73,Fallback,Junior,1.0,ML
+6,Program Purchasing Leader / Program / Acquisition Buyer,Faurecia Innenraum Systeme GmbH,Purchasing,1.0,Rule (Lexicon),Management,1.0,ML
+7,Juiz de Direito,Poder judiciário de Santa Catarina,Other,0.28,Fallback,Senior,0.86,Fallback
+8,Business Analyst,ALSO Deutschland GmbH,Business Development,1.0,ML,Junior,1.0,Rule (Lexicon)
+9,Geschäftsführer,DU MUSST KÄMPFEN gGmbH,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+10,Managementberater IT- und Governance,Brandtner IT,Information Technology,1.0,ML,Senior,1.0,ML
+11,Founder & CEO,DGC FILM WORKS,Other,0.53,Fallback,Management,1.0,Rule (Lexicon)
+12,Geschäftsführer,auris Steuerberatung OG,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+13,Senior Publicist,20th Century Fox,Other,0.33,Fallback,Senior,1.0,Rule (Lexicon)
+14,Manager,Daimler AG,Other,0.33,Fallback,Senior,1.0,Rule (Lexicon)
+15,Verkäufer,papperts GmbH,Sales,1.0,ML,Management,1.0,ML
+16,Koordinerende sagsbehandler,Gladsaxe Kommune,Other,0.2,Fallback,Senior,0.45,Fallback
+17,Head of Supply Chain,Aglukon Spezialdünger GmbH & Co. KG,Consulting,1.0,Rule (Lexicon),Lead,1.0,Rule (Lexicon)
+18,Director of Finance (China),delta pronatura GmbH,Other,0.56,Fallback,Director,1.0,Rule (Lexicon)
+19,Inhaber,Bettina Kern,Other,0.26,Fallback,Management,1.0,Rule (Lexicon)
+20,Geschäftsführer CFO,Policen Direkt-Gruppe,Other,0.83,Fallback,Management,1.0,Rule (Lexicon)
+21,Mitglied der Geschäftsleitung,r2b energy consulting GmbH,Other,0.37,Fallback,Lead,1.0,Rule (Lexicon)
+22,"Global Marketing Director, Nonwovens",Owens Corning,Marketing,1.0,Rule (Lexicon),Director,1.0,Rule (Lexicon)
+23,Social Researcher,"Gesellschaft für Wirtschaft, Arbeit und Kultur",Other,0.61,Fallback,Junior,1.0,ML
+24,CFO,M+R Spedag Group,Other,0.37,Fallback,Management,1.0,ML
+25,Berater,Personalberatung JG,Consulting,1.0,ML,Senior,0.89,Fallback
+26,Center Management,ASTERION Germany GmbH,Other,0.29,Fallback,Senior,1.0,Rule (Lexicon)
+27,Senior Project Manager,Selbstständig,Project Management,1.0,ML,Senior,1.0,Rule (Lexicon)
+28,Federal Account Manager,FCN Inc.,Sales,1.0,ML,Senior,1.0,Rule (Lexicon)
+29,Responsable logistique,EGELHOF SAS,Other,0.29,Fallback,Senior,1.0,Rule (Lexicon)
+30,Unternehmensinhaber,Musicdreams,Other,0.4,Fallback,Senior,0.94,Fallback
+31,Brand Strategist,Studio Mondu,Other,0.3,Fallback,Senior,1.0,ML
+32,Senior Category Manager,Novo Nordisk,Other,0.39,Fallback,Senior,1.0,Rule (Lexicon)
+33,General Manager,Selbstständig,Other,0.24,Fallback,Senior,1.0,Rule (Lexicon)
+34,Hiring Manager,NA,Other,0.38,Fallback,Senior,1.0,Rule (Lexicon)
+35,Owner and Executive Director,Luxury Custom Yachts GmbH,Other,0.31,Fallback,Director,1.0,Rule (Lexicon)
+36,Founder & Managing Director,eye4improve,Other,0.31,Fallback,Director,1.0,Rule (Lexicon)
+37,Orthodontie assistent,Orthocenter,Other,0.98,Fallback,Junior,1.0,Rule (Lexicon)
+38,Manager Risk Advisory,Deloitte,Other,0.23,Fallback,Senior,1.0,Rule (Lexicon)
+39,Systemadministrator Clientservices,IT-Services der Sozialversicherung GmbH,Other,0.32,Fallback,Senior,1.0,ML
+40,IT Program Manager – Information Security,Montgomery County,Information Technology,1.0,ML,Senior,1.0,Rule (Lexicon)
+41,Pionier der Strömungsoptimierung und Wasserstofftechnologien für effiziente Energielösungen,Sventronik.com,Other,0.97,Fallback,Junior,1.0,Rule (Lexicon)
+42,Human Resources Director,Merck,Human Resources,1.0,Rule (Lexicon),Director,1.0,Rule (Lexicon)
+43,CEO,eightbit experts GmbH,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+44,Head of Payment IT Solutions,Lufthansa Group,Customer Support,1.0,Rule (Lexicon),Lead,1.0,Rule (Lexicon)
+45,Banking Prudential Supervision Analyst,Banco de Portugal,Other,0.37,Fallback,Junior,1.0,Rule (Lexicon)
+46,Geschäftsführer,Steinbeis Papier GmbH,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+47,CEO,eyebase DAM,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+48,SVP People & Culture Management and Services; CEO METRO Campus Services GmbH,METRO AG,Other,0.89,Fallback,Management,1.0,Rule (Lexicon)
+49,kraftfahrer,Fischer,Other,0.32,Fallback,Management,1.0,ML
+50,Managing Director,Daniel Software GmbH,Other,0.36,Fallback,Director,1.0,Rule (Lexicon)
+51,Building Consultant,Building Inspectors SA Pty Ltd,Consulting,1.0,ML,Senior,1.0,Rule (Lexicon)
+52,Managing Director,HOCHTIEF ViCon,Other,0.36,Fallback,Director,1.0,Rule (Lexicon)
+53,Kaufmännischer Leiter,AURA GmbH & Co. KG,Other,0.29,Fallback,Lead,1.0,Rule (Lexicon)
+54,Senior Director,"SEC Co., Ltd",Other,0.31,Fallback,Director,1.0,Rule (Lexicon)
+55,Commercial Director On Trade,gdp Global Drinks Partnership GmbH,Other,0.51,Fallback,Director,1.0,Rule (Lexicon)
+56,CEO,SF Veranstaltungstechnik,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+57,Senior Manager,Detecon International,Other,0.32,Fallback,Senior,1.0,Rule (Lexicon)
+58,Graduate Engineer,John Holland,Other,0.31,Fallback,Senior,1.0,Rule (Lexicon)
+59,Senior Architect,Saakar Creations Pvt Ltd,Other,0.64,Fallback,Senior,1.0,Rule (Lexicon)
+60,Dozent DHBW Stuttgart,DHBW Stuttgart,Information Technology,1.0,ML,Senior,0.47,Fallback
+61,Mitbegründer und Geschäftsführer,ROiOS,Other,0.34,Fallback,Management,1.0,Rule (Lexicon)
+62,Medical Service Corps Officer,Bundeswehr (German Federal Armed Forces),Other,0.64,Fallback,Management,1.0,Rule (Lexicon)
+63,Data Researcher,Veeva Systems,Other,0.35,Fallback,Junior,1.0,ML
+64,MD PhD MBA MMSc,Harvard,Other,0.44,Fallback,Senior,0.55,Fallback
+65,Process Improvement Specialist,The Coca-Cola Company,Business Development,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+66,System Administrator,"HM Elektronikai, Logisztikai és Vagyonkezelő Zrt.",Business Development,1.0,Rule (Lexicon),Senior,1.0,ML
+67,Intern,Celicourt Communications,Other,0.45,Fallback,Senior,0.56,Fallback
+68,Co-Fundador & Lead Developer,Trackeen,Other,0.77,Fallback,Senior,1.0,Rule (Lexicon)
+69,Business Manager DACH,Eggplant,Business Development,1.0,ML,Senior,1.0,Rule (Lexicon)
+70,Sales Manager,Rail Construction Equipment Co.,Sales,1.0,ML,Senior,1.0,Rule (Lexicon)
+71,"Director, Digital Services Business",Kalmar,Information Technology,1.0,Rule (Lexicon),Director,1.0,Rule (Lexicon)
+72,Unternehmensinhaber,Der-Astrid-Hartmann-Prozess,Other,0.4,Fallback,Senior,0.94,Fallback
+73,Docent lichamelijke opvoeding,Calandlyceum Amsterdam,Other,0.37,Fallback,Lead,0.98,ML
+74,Marketing Engineer,ams OSRAM,Marketing,1.0,ML,Senior,1.0,Rule (Lexicon)
+75,Technischer Leiter,Brandt Schokoladen GmbH + Co. KG,Other,0.35,Fallback,Lead,1.0,Rule (Lexicon)
+76,Senior Advisor to the CS Pension Fund in Switzerland,Credit Suisse,Other,0.3,Fallback,Senior,1.0,Rule (Lexicon)
+77,Gruppenleiter HR KPI & Reporting,DR. JOHANNES HEIDENHAIN GmbH,Other,0.96,Fallback,Lead,1.0,Rule (Lexicon)
+78,Chief Legal Officer,secjur GmbH,Other,0.21,Fallback,Management,1.0,Rule (Lexicon)
+79,CEO,thyssenkrupp Materials Schweiz AG,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+80,Responsable développement projets,L'éléfàn,Project Management,1.0,ML,Senior,1.0,Rule (Lexicon)
+81,Transformation Partner,TDC NET,Other,0.84,Fallback,Management,0.97,ML
+82,"Executive Partner, Senior Software Engineer",Mirai Solutions GmbH,Other,0.35,Fallback,Senior,1.0,Rule (Lexicon)
+83,Secretary General/CEO Welthungerhilfe,Welthungerhilfe,Other,0.81,Fallback,Management,1.0,Rule (Lexicon)
+84,Fachreferent MatWerk - Materials Engineering Specialist,German Society for Materials Science - Deutsche Gesellschaft für Materialkunde e.V. (DGM),Other,0.63,Fallback,Senior,1.0,ML
+85,CEO,Immoheld,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+86,Statistiker,Deutsche Bundesbank,Other,0.34,Fallback,Junior,1.0,ML
+87,Chief Operating Officer,Bee4GIS,Information Technology,1.0,ML,Management,1.0,Rule (Lexicon)
+88,Geschäftsführender Gesellschafter,mmb Institut - Gesellschaft für Medien- und Kompetenzforschung mbH,Other,0.32,Fallback,Management,1.0,Rule (Lexicon)
+89,Self-Employed,TSAR-Tech,Other,0.59,Fallback,Senior,1.0,ML
+90,Managing Partner,Sade Ofset Printing&Packaging,Other,0.29,Fallback,Director,1.0,Rule (Lexicon)
+91,Partner,edge Performance Limited,Other,0.4,Fallback,Senior,0.5,Fallback
+92,Właściciel,Zinzino,Other,0.46,Fallback,Management,1.0,ML
+93,"Director, Marketing Communications",Verint Systems,Marketing,1.0,Rule (Lexicon),Director,1.0,Rule (Lexicon)
+94,Chief Information Officer,360 Media Direct,Other,0.26,Fallback,Management,1.0,Rule (Lexicon)
+95,Visiting Lecturer,HHL Leipzig Graduate School of Management,Other,0.38,Fallback,Junior,1.0,ML
+96,Präsidentin Technische Universität Berlin,Technische Universität Berlin,Other,0.34,Fallback,Management,1.0,ML
+97,Sr. Customer Support spec.,Billtrust,Customer Support,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+98,Personalreferent,Misereor,Other,0.32,Fallback,Senior,0.51,Fallback
+99,Pflegefachkraft,St. Josef Hospital Dortmund,Other,0.44,Fallback,Senior,0.6,Fallback
+100,freischaffender Künstler,Selbständig,Information Technology,0.99,ML,Senior,0.76,Fallback
+101,Subcommittee Member,New York State Developmental Disabilities Advisory Employment and Meaningful Activities Subcommittee,Other,0.28,Fallback,Junior,1.0,ML
+102,Deputy Chief,Superstition Fire & Medical District,Other,0.48,Fallback,Management,1.0,Rule (Lexicon)
+103,Product Manager,TRATON GROUP,Other,0.48,Fallback,Senior,1.0,Rule (Lexicon)
+104,OM/Customer Success Manager,Papirfly,Consulting,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+105,Geschäftsführer,MAFRA Maile GmbH,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+106,Senior Director Product Management,Dynatrace,Other,0.5,Fallback,Director,1.0,Rule (Lexicon)
+107,Matelot,Canal marée,Other,0.53,Fallback,Junior,0.99,ML
+108,Gebietsleiter LBS NordWest,LBS Landesbausparkasse NordWest,Other,0.23,Fallback,Lead,1.0,ML
+109,"Chief Financial Officer, Treasurer and Secretary",Roadrunner,Other,0.18,Fallback,Management,1.0,Rule (Lexicon)
+110,"Country Lead, Country Clinical Operations",Roche,Other,1.0,ML,Director,1.0,Rule (Lexicon)
+111,Director,Vic Water,Other,0.34,Fallback,Director,1.0,Rule (Lexicon)
+112,Sales Manager,Photron Deutschland GmbH,Sales,1.0,ML,Senior,1.0,Rule (Lexicon)
+113,Undergraduate Research Assistant,Baylor University Point-of-Need Innovations Center,Other,0.35,Fallback,Senior,1.0,Rule (Lexicon)
+114,Technical Specialist,Financial Conduct Authority,Other,0.32,Fallback,Lead,0.97,ML
+115,Team Lead Global Supply Management,Tesla,Other,0.33,Fallback,Director,1.0,Rule (Lexicon)
+116,Bauleitender Elektroinstallateur,Bouygues Energies & Services,Other,0.97,Fallback,Senior,0.49,Fallback
+117,Prozessmanager,Bosch,Other,0.4,Fallback,Senior,1.0,ML
+118,Leiter Projektmanagement / Projektleiter,Kanton Luzern,Project Management,1.0,Rule (Lexicon),Lead,1.0,Rule (Lexicon)
+119,Unternehmensinhaber,One Point,Other,0.4,Fallback,Senior,0.94,Fallback
+120,HR Business Partner,Neopac,Business Development,1.0,ML,Senior,0.58,Fallback
+121,Corporate recruiter,Hecht,Other,0.24,Fallback,Junior,1.0,ML
+122,Unternehmensinhaber,3F Kommunikation,Other,0.4,Fallback,Senior,0.94,Fallback
+123,Sr. Drafting & Design Technologist .,Cenovus Energy,Other,0.82,Fallback,Senior,0.98,ML
+124,Owner,Xaretos,Other,0.84,Fallback,Management,1.0,Rule (Lexicon)
+125,Global Category Manager - Technology & Payment Solutions,bp,Administrative,1.0,Rule (Lexicon),Director,1.0,Rule (Lexicon)
+126,Program Manager,SHELL INFORMATION TECHNOLOGY INTERNATIONAL BV,Other,0.29,Fallback,Senior,1.0,Rule (Lexicon)
+127,Chief Growth Officer,Paradise Tomato Kitchens - Signature Sauce. Signature Service,Other,0.94,Fallback,Management,1.0,Rule (Lexicon)
+128,Senior Software Developer,JetBrains,Other,0.87,Fallback,Senior,1.0,Rule (Lexicon)
+129,Geschäftsführer / CEO&COO,PLAZAMEDIA GmbH,Other,0.59,Fallback,Management,1.0,Rule (Lexicon)
+130,Customer Executive & Member of Management Northern Europe,DNV,Other,0.51,Fallback,Senior,1.0,Rule (Lexicon)
+131,Senior Software Engineer at LIZ Smart Office GmbH,LIZ Smart Office GmbH,Information Technology,0.99,ML,Senior,1.0,Rule (Lexicon)
+132,"Industry Segment Manager, Glass",Dürr,Other,0.89,Fallback,Senior,1.0,Rule (Lexicon)
+133,Projektmanager M&A,BayWa AG,Project Management,1.0,ML,Senior,1.0,ML
+134,Recruitment Consultant,Progressive Recruitment,Consulting,1.0,ML,Senior,1.0,Rule (Lexicon)
+135,CEO,Merz Reisen GmbH,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+136,Corporate Communications & Marketing Services Senior Manager,Canon Austria GmbH,Marketing,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+137,International Clinical Project Manager,Scope International AG,Project Management,1.0,ML,Director,1.0,Rule (Lexicon)
+138,Leiter Inhouse Logistik,Volkswagen AG,Other,0.28,Fallback,Lead,1.0,Rule (Lexicon)
+139,Technology Lead Germany - Global Partner Solutions,Microsoft,Information Technology,0.99,ML,Director,1.0,Rule (Lexicon)
+140,Director of Sales and Marketing,Bustec,Marketing,1.0,ML,Director,1.0,Rule (Lexicon)
+141,Customer Success Manager,KnowBe4,Consulting,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+142,Trade Marketing Manager,Luxottica Group,Marketing,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+143,Head Currency Solutions,UBS,Other,0.7,Fallback,Lead,1.0,Rule (Lexicon)
+144,SVP Sales & Accounts,Artemis ITS,Sales,1.0,ML,Management,1.0,ML
+145,Managing Director,Copenhagen Color,Other,0.36,Fallback,Director,1.0,Rule (Lexicon)
+146,Construction site leader,Koop Bronbemaling B.V.,Project Management,1.0,ML,Lead,1.0,ML
+147,Data Manager,"Center for Earth System Research and Sustainability, University of Hamburg",Other,0.28,Fallback,Senior,1.0,Rule (Lexicon)
+148,Vice President - Supplier Enablement CoE,American Express,Other,0.24,Fallback,Management,1.0,Rule (Lexicon)
+149,Heimleiterin,Stiftung Liebenau,Other,0.35,Fallback,Lead,1.0,ML
+150,Chief Executive Officer,Level 20,Other,0.4,Fallback,Management,1.0,Rule (Lexicon)
+151,Inhaber und Geschäftsführer,A4 Agentur AG,Other,0.24,Fallback,Management,1.0,Rule (Lexicon)
+152,Senior Manager,MHP – A Porsche Company,Other,0.32,Fallback,Senior,1.0,Rule (Lexicon)
+153,Director of Education,Independence Seaport Museum,Other,0.49,Fallback,Director,1.0,Rule (Lexicon)
+154,Gerente Comercial,Baeza Jakob Hermanos Ltda,Other,0.34,Fallback,Senior,1.0,ML
+155,Operations Director München,Boston Consulting Group (BCG),Other,1.0,ML,Director,1.0,Rule (Lexicon)
+156,Designer,Global Arts,Other,0.43,Fallback,Senior,1.0,ML
+157,Gerente de RR.HH Mexico,"Apex Tool Group, LLC",Other,0.42,Fallback,Senior,1.0,ML
+158,Business Development & Key Account Manager,RB&W Manufacturing,Business Development,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+159,Lehrerin,Land SH,Other,0.67,Fallback,Senior,0.46,Fallback
+160,CEO,CGI MAGIC MOVIE CORPORATION,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+161,Quality Coordinator,Digital Realty,Other,0.41,Fallback,Senior,1.0,ML
+162,Betriebsratsvorsitzender,ALDRA,Other,0.3,Fallback,Management,1.0,ML
+163,"Pensionskundechef / Account Executive - Global Employee Benefits, Corporate Pension",Söderberg & Partners Danmark,Other,0.3,Fallback,Director,1.0,Rule (Lexicon)
+164,Principal Advisor,European Investment Bank (EIB),Other,0.36,Fallback,Junior,0.99,ML
+165,Senior Manager,PwC,Other,0.32,Fallback,Senior,1.0,Rule (Lexicon)
+166,Geschäftsführender Gesellschafter,South West Vision GmbH,Other,0.32,Fallback,Management,1.0,Rule (Lexicon)
+167,Sales Director EMEA,Delrin,Sales,1.0,ML,Director,1.0,Rule (Lexicon)
+168,Geschäftsführender Gesellschafter,ALTTURBO GmbH,Other,0.32,Fallback,Management,1.0,Rule (Lexicon)
+169,Verkaufsleiter,argon lighting GmbH,Other,0.3,Fallback,Lead,1.0,Rule (Lexicon)
+170,Chief Executive Officer,Lufthansa Technik Services India Pvt Ltd,Other,0.4,Fallback,Management,1.0,Rule (Lexicon)
+171,Senior Program Manager,RINA North America (formerly Patrick),Other,0.59,Fallback,Senior,1.0,Rule (Lexicon)
+172,Independent Advisor to Founders and Funds,andwin Ltd.,Other,0.61,Fallback,Management,1.0,ML
+173,Coordinador integral servicios generales,aseocolba,Other,0.37,Fallback,Senior,1.0,ML
+174,CST,PAE Technical Services GmbH,Other,0.94,Fallback,Management,1.0,ML
+175,R&D group manager,Fraunhofer IPMS,Other,0.36,Fallback,Director,1.0,Rule (Lexicon)
+176,Klinischer Psychologe,Psychologie.8,Other,0.33,Fallback,Senior,1.0,ML
+177,Bartender,Vibe Nightclub,Other,0.26,Fallback,Senior,1.0,ML
+178,Software Developer,SSingularity Technologies,Other,0.93,Fallback,Senior,1.0,ML
+179,COO (Geschäftsführende Gesellschafterin),LegalTegrity,Other,0.29,Fallback,Management,1.0,Rule (Lexicon)
+180,Geschäftsführender Gesellschafter,ikonda GmbH,Other,0.32,Fallback,Management,1.0,Rule (Lexicon)
+181,Geschäftsführer,Klinik Bavaria GmbH & Co. KG Rehabilitationsklinik Bad Kissingen,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+182,Expat Jumbo Operator,Face Mining Services,Information Technology,1.0,ML,Management,1.0,ML
+183,Geschäftsführer,Agentur für Kunstvermittlung GmbH,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+184,Retired,;-),Other,0.32,Fallback,Senior,1.0,ML
+185,Application Specialist,BMG LABTECH,Other,0.91,Fallback,Senior,1.0,Rule (Lexicon)
+186,porject manager,Olíudreifing,Other,0.4,Fallback,Senior,1.0,Rule (Lexicon)
+187,"Head Public and Governmental Affairs, Pricing and Reimbursement","Alcon Laboratories, Inc.",Other,0.41,Fallback,Lead,1.0,Rule (Lexicon)
+188,Executive Director / Head of UN Advocacy,International Campaign for Tibet,Other,0.36,Fallback,Director,1.0,Rule (Lexicon)
+189,Project V&V Manager,Alstom,Project Management,1.0,ML,Senior,1.0,Rule (Lexicon)
+190,Rechtsanwalt | Counsel,Hausfeld,Consulting,0.99,ML,Senior,0.99,ML
+191,Indigenous Counsellor & Case Manager - Niiwin Wendaanimak,Parkdale Queen West Community Health Centre,Consulting,0.99,ML,Senior,1.0,Rule (Lexicon)
+192,Bauleiter,Köster GmbH,Other,0.34,Fallback,Lead,1.0,ML
+193,Amministrazione,Centro diagnostico Pasteur,Information Technology,1.0,ML,Senior,0.71,Fallback
+194,Head of Customer Sales Service & Sales Controlling,Graphic Packaging International - Europe,Sales,1.0,Rule (Lexicon),Lead,1.0,Rule (Lexicon)
+195,gerant,rst,Other,0.41,Fallback,Senior,0.8,Fallback
+196,Engineering Manager,ERCO,Other,0.57,Fallback,Senior,1.0,Rule (Lexicon)
+197,Referatsleiter,Nds. Ministerium für Wissenschaft und Kultur,Other,0.35,Fallback,Lead,1.0,ML
+198,Retired but still active and interested in Optics Development and Metrology,No Company,Other,0.51,Fallback,Senior,1.0,ML
+199,Sales Consultant - Business Application,Microsoft,Sales,1.0,ML,Senior,1.0,Rule (Lexicon)
+200,Senior Technical Consultant,Medtronic,Consulting,1.0,ML,Senior,1.0,Rule (Lexicon)
+201,Nurse Practitioner,Cleveland Clinic Connected Care,Other,0.75,Fallback,Senior,1.0,ML
+202,Packhouse Managing consultant,Kamps Sperziebonen,Consulting,1.0,ML,Director,1.0,Rule (Lexicon)
+203,Verwaltungsrat,21iLAB,Other,0.24,Fallback,Management,0.99,ML
+204,Development Manager,GOLDBECK,Other,0.86,Fallback,Senior,1.0,Rule (Lexicon)
+205,Vertriebsspezialist,Sto SE & Co. KGaA,Sales,1.0,ML,Lead,0.95,ML
+206,Rechtsanwalt,Freiberuflich,Other,0.36,Fallback,Senior,0.57,Fallback
+207,Business Owner,"Bruck, Inc",Business Development,1.0,ML,Management,1.0,Rule (Lexicon)
+208,HW-Developer BU Motion,B&R Industrial Automation,Information Technology,1.0,ML,Lead,1.0,ML
+209,Head of Organization Projects and Facility Operations,Atlas Copco Holding GmbH,Other,0.99,ML,Director,1.0,Rule (Lexicon)
+210,Landwirtschaftsmeister,Selbständig,Other,0.39,Fallback,Management,0.97,ML
+211,Head of Global Life Products,ERGO Group AG,Other,0.68,Fallback,Director,1.0,Rule (Lexicon)
+212,Investor,Benno Therapeutics,Other,0.39,Fallback,Management,0.97,ML
+213,Geschäftsführer,Muldental Elektronik GmbH,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+214,Executive Assistant to the President,HICO CANADA INC.,Other,0.69,Fallback,Management,1.0,Rule (Lexicon)
+215,Professor,Hochschule für angewandte Wissenschaft und Kunst,Other,0.73,Fallback,Junior,1.0,ML
+216,Partner,Freshfields Bruckhaus Deringer,Other,0.4,Fallback,Senior,0.5,Fallback
+217,Webentwickler,Nolis GmbH,Information Technology,1.0,ML,Lead,1.0,ML
+218,Director Construction & Engineering,GreenGaraGe GmbH,Project Management,1.0,ML,Director,1.0,Rule (Lexicon)
+219,Chief Operating Officer - Consumer Bank | Head of Strategic Planning and Corporate Development,WSFS Bank,Other,0.97,Fallback,Director,1.0,Rule (Lexicon)
+220,Dekanatsrätin,Westsächsische Hochschule Zwickau,Other,0.32,Fallback,Management,1.0,ML
+221,Mitarbeiter Produktmanagement,KIX Service Software GmbH,Other,0.48,Fallback,Lead,1.0,Rule (Lexicon)
+222,Manager | Prokurist | Strategie- und Managementberatung Financial Services,KPMG Deutschland,Other,0.3,Fallback,Lead,1.0,Rule (Lexicon)
+223,Head of Development,Fish Corb Films,Other,0.91,Fallback,Lead,1.0,Rule (Lexicon)
+224,Manager,OBSS,Other,0.33,Fallback,Senior,1.0,Rule (Lexicon)
+225,Chairman of the Board,Alteams Oy,Other,0.44,Fallback,Lead,1.0,ML
+226,Stammdatenmanager R&D ENGINEERING / R&D,AL-KO Vehicle Technology Group,Other,0.31,Fallback,Senior,1.0,ML
+227,aktiver Gesellschafter,Binder Gruppe,Other,0.23,Fallback,Management,1.0,Rule (Lexicon)
+228,Leiter Produktion / Mitinhaber,"Erich Keller AG - Innenausbau, Design + Technik",Other,0.95,Fallback,Lead,1.0,Rule (Lexicon)
+229,Senior Manager,Seller Ventures,Other,0.32,Fallback,Senior,1.0,Rule (Lexicon)
+230,Mediation Clinic,New York Law School,Other,0.39,Fallback,Senior,0.42,Fallback
+231,Head of Information Technology,NYSE,Other,0.99,Fallback,Lead,1.0,Rule (Lexicon)
+232,President,Benchmark Foam Inc,Other,0.73,Fallback,Management,1.0,Rule (Lexicon)
+233,Senior Brand Manager,Rust-Oleum Canada,Other,0.44,Fallback,Senior,1.0,Rule (Lexicon)
+234,Weinbautechniker,Winzer,Other,0.36,Fallback,Senior,1.0,ML
+235,Leiter Instandhaltung,Lipoid GmbH,Other,0.32,Fallback,Lead,1.0,Rule (Lexicon)
+236,Salesman,Saottini Auto,Sales,1.0,ML,Senior,0.68,Fallback
+237,Senior Human Resources Manager,SS&C Technologies,Human Resources,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+238,Geschäftsführer,MMS-Werbeagentur,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+239,Bankkaufmann,Sparkasse Schaumburg,Other,0.31,Fallback,Senior,0.36,Fallback
+240,Influencer Marketing Executive,KatKin,Marketing,1.0,ML,Senior,1.0,Rule (Lexicon)
+241,Unternehmensinhaber,Orthosteo Praxis,Other,0.4,Fallback,Senior,0.94,Fallback
+242,Vizepräsident Junior,Woody-Display,Other,0.26,Fallback,Junior,1.0,Rule (Lexicon)
+243,Prokurist / Direktor Touristik,DERTOUR Austria GmbH,Other,0.37,Fallback,Lead,1.0,Rule (Lexicon)
+244,Kipper -Spedition,Gärtner Transporte,Other,0.37,Fallback,Management,1.0,ML
+245,Pedagoga,Escola de Educação Infantil João e Maria,Other,0.38,Fallback,Junior,1.0,ML
+246,Behavioral Health Clinician,Butte County Behavioral Health,Other,0.37,Fallback,Senior,1.0,ML
+247,Owner,Media Solutions,Other,0.84,Fallback,Management,1.0,Rule (Lexicon)
+248,Web Developer,Superweb LLP,Other,0.95,Fallback,Senior,1.0,ML
+249,Manager Custom Solutions,Hansgrohe Group,Other,0.56,Fallback,Senior,1.0,Rule (Lexicon)
+250,Responsable Développement Automotive,Tempo one,Other,0.99,Fallback,Senior,1.0,Rule (Lexicon)
+251,Projektmanager strat. BK E/E Infrastruktur,BMW Group,Project Management,1.0,ML,Senior,1.0,ML
+252,Responsable de projet marketing et communications,ILODECO,Marketing,1.0,Rule (Lexicon),Lead,1.0,Rule (Lexicon)
+253,Leiter Fachbereich IT Security & Engineering,SWICA Krankenversicherung AG,Information Technology,1.0,ML,Lead,1.0,Rule (Lexicon)
+254,Geschäftsführung,W+V Schweizer Immobilienvermittlungs GmbH,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+255,Approvisionneuse Bilingue,MANUFACTURE FRANCAISE DU CYCLE,Other,0.91,Fallback,Senior,0.68,Fallback
+256,Digital Product Owner,Doka,Information Technology,1.0,ML,Management,1.0,Rule (Lexicon)
+257,Head of Legal,Stellantis Germany GmbH,Other,0.41,Fallback,Lead,1.0,Rule (Lexicon)
+258,Receptionist,Van Cleef & Arpels,Other,0.74,Fallback,Senior,1.0,ML
+259,Retail Director DACH,S.OLIVER GROUP,Other,0.94,Fallback,Director,1.0,Rule (Lexicon)
+260,Call Agent,Sitel,Marketing,1.0,ML,Senior,1.0,ML
+261,Chief Executive Officer,Varme og Kulde AS,Other,0.4,Fallback,Management,1.0,Rule (Lexicon)
+262,General Manager,F. Bosch Medizintechnik Germany,Other,0.24,Fallback,Senior,1.0,Rule (Lexicon)
+263,Storage King USA,Storage King USA,Information Technology,1.0,ML,Senior,0.94,Fallback
+264,Purser,Lufthansa,Other,0.97,Fallback,Senior,0.95,ML
+265,Vorstandsvorsitzender,LAG Inklusionsfirmen Hessen e. V.,Other,0.44,Fallback,Management,1.0,ML
+266,Associate | M&A,PwC Deutschland,Other,0.58,Fallback,Junior,1.0,ML
+267,VP - Talent Acquisition & People & Culture(HR),HighRadius,Other,0.89,Fallback,Management,1.0,ML
+268,Partner,Andersch,Other,0.4,Fallback,Senior,0.5,Fallback
+269,Senior Vice President R&D,WashTec AG,Other,0.32,Fallback,Management,1.0,Rule (Lexicon)
+270,Hotelier/Gastronom,Hotel-Gaststätte Mutter Buermann,Other,0.29,Fallback,Senior,0.49,Fallback
+271,Mechanical Engineering Specialist,pt karya makmur ckmt,Other,0.85,Fallback,Senior,1.0,ML
+272,Industriereiniger,Lobbe,Other,0.28,Fallback,Management,0.98,ML
+273,CEO,Garden of Concepts GmbH,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+274,Qualified Person,Oncotec Pharma Produktion GmbH,Other,0.47,Fallback,Senior,0.99,ML
+275,Senior Vice President Global Supplier Management,PALFINGER Group,Other,0.69,Fallback,Director,1.0,Rule (Lexicon)
+276,Sr. International Agent,FedEx,Other,0.96,Fallback,Director,1.0,Rule (Lexicon)
+277,Manager- Hr Ops & Talent Acquisition,Parangat Technologies,Other,0.98,Fallback,Senior,1.0,Rule (Lexicon)
+278,CEO,PaxAn®,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+279,Assistant Electrician,Freelancer constructor,Other,0.99,Fallback,Senior,1.0,Rule (Lexicon)
+280,Production Engineer,VERWO AG,Other,0.94,Fallback,Senior,1.0,Rule (Lexicon)
+281,Quality Engineering Manager,Fluke Corporation,Other,0.87,Fallback,Senior,1.0,Rule (Lexicon)
+282,Service Manager,All for One Steeb AG,Other,0.27,Fallback,Senior,1.0,Rule (Lexicon)
+283,Vertriebsleiter,OÖNachrichten,Sales,1.0,ML,Lead,1.0,Rule (Lexicon)
+284,Produktmanager,Erwin Renz Metallwarenfabrik GmbH & Co KG,Other,0.29,Fallback,Senior,1.0,ML
+285,Partner und Inhaber,cr Werbeagentur AG,Other,0.41,Fallback,Management,1.0,Rule (Lexicon)
+286,Senior Advisor,"US Trade Consult, LLC.",Other,0.39,Fallback,Senior,1.0,Rule (Lexicon)
+287,Hockey Coach,HK Spartak Dubnica nad Vahom,Other,0.27,Fallback,Senior,1.0,ML
+288,Quality Assurance Manager / Quality Contract Managment / GMP Auditor,Siegfried Hameln,Other,0.55,Fallback,Senior,1.0,Rule (Lexicon)
+289,SVP Transformation & Strategy,Drooms,Other,0.64,Fallback,Director,1.0,Rule (Lexicon)
+290,Stagiaire chaîne logistique,Laforge holcim,Other,0.28,Fallback,Junior,1.0,ML
+291,"Director, Sales Unit Benelux",Uponor GmbH,Sales,1.0,ML,Director,1.0,Rule (Lexicon)
+292,Strategischer Einkäufer,Deutsches Zentrum für Luft-und Raumfahrt e.V.,Purchasing,1.0,Rule (Lexicon),Management,1.0,ML
+293,VP Market Intelligence - Business Development - Sales,Atlas Copco,Sales,1.0,ML,Management,1.0,ML
+294,Director / Project implementation Manager,Outotec,Project Management,1.0,ML,Director,1.0,Rule (Lexicon)
+295,Aktionär,Swiss-Canna Group AG,Other,0.28,Fallback,Management,1.0,ML
+296,Werkstudent Facheinkauf Interieur,BMW Group,Other,0.88,Fallback,Junior,1.0,ML
+297,Account Director,GKN Driveline,Other,0.36,Fallback,Director,1.0,Rule (Lexicon)
+298,Head teacher in art,Sigtuna folkhögskola,Other,0.38,Fallback,Lead,1.0,Rule (Lexicon)
+299,Chef,Verlag Reinhard Wagner,Other,0.43,Fallback,Lead,1.0,Rule (Lexicon)
+300,Geschäftsführer,WISAG Passage Service Düsseldorf GmbH & Co. KG,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+301,General Manager,BOTTERO GmbH,Other,0.24,Fallback,Senior,1.0,Rule (Lexicon)
+302,Spa Concierge,Woodhouse,Information Technology,1.0,ML,Senior,1.0,ML
+303,Data Engineer,Macroconsult,Other,0.8,Fallback,Senior,1.0,Rule (Lexicon)
+304,Vice President Technology Film,TDK,Other,0.92,Fallback,Management,1.0,Rule (Lexicon)
+305,Geschäftsführender Gesellschafter,neusta marketing GmbH,Other,0.32,Fallback,Management,1.0,Rule (Lexicon)
+306,Account-Manager,Nestler Wellpappe GmbH,Sales,1.0,ML,Senior,1.0,Rule (Lexicon)
+307,Head of Digital Radio Design,Ericsson,Information Technology,1.0,ML,Lead,1.0,Rule (Lexicon)
+308,Assistent,Amaris Zorggroep,Other,0.98,Fallback,Junior,1.0,Rule (Lexicon)
+309,Polizistin,Polizei Oberes Fricktal,Other,0.28,Fallback,Senior,0.95,Fallback
+310,Managing Partner,FINVIA,Other,0.29,Fallback,Director,1.0,Rule (Lexicon)
+311,Global Product Marketing Manager,Dotdigital,Marketing,1.0,Rule (Lexicon),Director,1.0,Rule (Lexicon)
+312,Leiter Kundendienst,MARAG Garagen AG,Other,0.37,Fallback,Lead,1.0,Rule (Lexicon)
+313,Rentner,Orientierung: M,Other,0.36,Fallback,Senior,0.63,Fallback
+314,Geschäftsführer,orfix International GmbH,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+315,Produktingenieur,Spherea GmbH,Other,0.29,Fallback,Senior,1.0,ML
+316,Geschäftsleiter,BIGA Energie GmbH & Co. KG,Other,0.88,Fallback,Lead,1.0,ML
+317,Marketing,Matica Technologies AG,Marketing,1.0,ML,Lead,0.99,ML
+318,Investment Operations Manager,Fisher Funds,Other,1.0,ML,Director,1.0,Rule (Lexicon)
+319,"regional manager DACH, strategic account manager",Sylvamo,Sales,1.0,ML,Director,1.0,Rule (Lexicon)
+320,Vorstand / CEO bei Eberhard AG,Eberhard AG,Other,0.28,Fallback,Management,1.0,Rule (Lexicon)
+321,Projektingenieur,Muhsau Kindl Ingenieurgesellschaft mbH,Project Management,1.0,ML,Senior,1.0,ML
+322,Managing Partner,MDW Capital Partners LLP,Other,0.29,Fallback,Director,1.0,Rule (Lexicon)
+323,Geschäftsführender Gesellschafter,GfA-DICHTUNGEN GMBH,Other,0.32,Fallback,Management,1.0,Rule (Lexicon)
+324,SVP 3DS-Solutions CENIT Group,KEONYS,Other,0.86,Fallback,Director,1.0,Rule (Lexicon)
+325,Senior Vice President APAC,Venus Concept,Other,0.97,Fallback,Management,1.0,Rule (Lexicon)
+326,"Service Assistant, Customer Experience and Review Management",Hotel & Restaurant Hessischer Hof,Other,0.3,Fallback,Senior,1.0,Rule (Lexicon)
+327,CEO Co-owner,Planet-A-Mor,Other,0.25,Fallback,Management,1.0,Rule (Lexicon)
+328,Business Strategy Consultant,Accenture,Business Development,1.0,ML,Director,1.0,Rule (Lexicon)
+329,Managing Director,UTILITY PARTNERS Operations,Other,0.36,Fallback,Director,1.0,Rule (Lexicon)
+330,Recreation Manager,Tahoe Donner Association,Other,0.34,Fallback,Senior,1.0,Rule (Lexicon)
+331,Stiftungsrat,Fair Recycling Foundation,Other,0.36,Fallback,Management,1.0,ML
+332,Leiter Kalkulation,Eiffage Infra-Ost GmbH,Other,0.35,Fallback,Lead,1.0,Rule (Lexicon)
+333,Psikolog,Sirkadiyen Sağlıklı Yaşam Merkezi,Other,0.33,Fallback,Senior,1.0,ML
+334,Projektplaner,Sto SE & Co. KGaA,Project Management,1.0,ML,Lead,1.0,ML
+335,Senior Manager,MorganFranklin Consulting,Other,0.32,Fallback,Senior,1.0,Rule (Lexicon)
+336,Information Technology Specialist -ITCS,Hyatt Hotels Corporation,Information Technology,1.0,ML,Senior,0.47,Fallback
+337,Business Intelligence Intern,Amazon,Business Development,1.0,Rule (Lexicon),Senior,0.78,Fallback
+338,Geschäftsführender Inhaber,auxilion AG,Other,0.38,Fallback,Management,1.0,Rule (Lexicon)
+339,Gebietsverkaufsleiterin Implantologie & Prothetik,ZERAMEX,Information Technology,1.0,ML,Lead,1.0,ML
+340,Human Resources Consultant,Green Hydrogen Systems,Human Resources,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+341,Director of Marketing,Business consultants various,Marketing,1.0,ML,Director,1.0,Rule (Lexicon)
+342,Vice President,Toshiba Memory Europe GmbH (TME),Other,0.33,Fallback,Management,1.0,Rule (Lexicon)
+343,Senior Vice President,SFC Energy AG,Other,0.28,Fallback,Management,1.0,Rule (Lexicon)
+344,Platin,WorldStyle Media,Other,0.99,Fallback,Management,1.0,ML
+345,Insan kaynakları,Trend,Human Resources,0.99,ML,Senior,0.85,Fallback
+346,Geschäftsführer,Soundart,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+347,Executive Partner Development Manager,Huawei,Other,0.95,Fallback,Senior,1.0,Rule (Lexicon)
+348,Departementssekretär / Leiter Amt für Militär und Bevölkerungsschutz,"Justiz-, Polizei- und Militärdepartement Kanton Appenzell I.Rh",Other,0.32,Fallback,Lead,1.0,Rule (Lexicon)
+349,Geschäftsführer,PDO Europe GmbH,Other,0.85,Fallback,Management,1.0,Rule (Lexicon)
+350,CEO,Batterman Consulting,Other,0.42,Fallback,Management,1.0,Rule (Lexicon)
+351,Partner,Bridgged,Other,0.4,Fallback,Senior,0.5,Fallback
+352,Chief Executive Officer,ManageCasa Inc.,Other,0.4,Fallback,Management,1.0,Rule (Lexicon)
+353,Arbeitssuche,Bewerbungsphase,Other,0.6,Fallback,Junior,0.99,ML
+354,Selbstständig,Selbstständig,Other,0.3,Fallback,Senior,0.65,Fallback
+355,Owner,SPOCS GmbH www.spocs.eu,Other,0.84,Fallback,Management,1.0,Rule (Lexicon)
+356,Head of Global Competence Center MO/BO/Acc Business Analysis,UniCredit Business Integrated Solutions,Business Development,1.0,Rule (Lexicon),Director,1.0,Rule (Lexicon)
+357,Full Stack (ASP.Net + Angular) Developer,KLDiscovery EMEA,Information Technology,1.0,ML,Lead,0.99,ML
+358,Alleiniger Vorstand,EJF gemeinnützige AG,Other,0.3,Fallback,Management,1.0,Rule (Lexicon)
+359,Senior Software Engineer,Math2Market GmbH,Other,0.61,Fallback,Senior,1.0,Rule (Lexicon)
+360,Owner - Executive Director,Chikara Fitness 株式会社,Other,0.47,Fallback,Director,1.0,Rule (Lexicon)
+361,Projektleiter,Aurubis,Project Management,1.0,ML,Lead,1.0,Rule (Lexicon)
+362,Leiter Program Management RADAR,Continental,Other,0.84,Fallback,Lead,1.0,Rule (Lexicon)
+363,Immobilien-und Finanzmakler,capital-S- Immobilien,Other,0.98,Fallback,Senior,0.98,ML
+364,Pharmacy Sales Representative,Bayer,Sales,1.0,Rule (Lexicon),Senior,1.0,ML
+365,Bereichsleiter Finanzen und Rechnungswesen,SachsenEnergie AG,Other,0.24,Fallback,Lead,1.0,Rule (Lexicon)
+366,Warehouse Specialist,Royal Design Group Holding AB,Other,0.94,Fallback,Senior,0.94,Fallback
+367,"Geschäftsleitung, Prokurist",Leop. Siegle GmbH & Co. KG,Other,0.35,Fallback,Lead,1.0,Rule (Lexicon)
+368,Sales Manager,Guild Mortgage,Sales,1.0,ML,Senior,1.0,Rule (Lexicon)
+369,Industrial Engineer,PI (Physik Instrumente) Group,Other,0.74,Fallback,Senior,1.0,Rule (Lexicon)
+370,Pflegedienstleitung,Pflege & Seniorenwohnen Ammertal,Other,0.5,Fallback,Lead,1.0,ML
+371,Principal Consultant,Lindner Corporation,Consulting,1.0,ML,Senior,1.0,Rule (Lexicon)
+372,"Projektexperte Sicherheit, Geschäftsleitung",EPRO SECURE,Project Management,1.0,ML,Lead,1.0,Rule (Lexicon)
+373,Owner,Silt Sock Erosion Control Products,Other,0.84,Fallback,Management,1.0,Rule (Lexicon)
+374,Solution Designer,K-Businesscom AG,Other,0.68,Fallback,Senior,1.0,ML
+375,Founder -Owner,TransatlantiX,Other,0.82,Fallback,Management,1.0,Rule (Lexicon)
+376,Human Resources Manager,TaxNetworkUSA,Human Resources,1.0,Rule (Lexicon),Senior,1.0,Rule (Lexicon)
+377,Einkauf,Bilfinger Maintenance GmbH,Purchasing,1.0,ML,Senior,0.93,Fallback
+378,Selbstständig,Selbstständig Gesund,Other,0.3,Fallback,Senior,0.65,Fallback
+379,Regional Manager,R.A. Snyder Properties,Other,0.3,Fallback,Senior,1.0,Rule (Lexicon)
+380,Head of Hybrid Cloud Solution Sales Germany,Hewlett Packard Enterprise,Sales,1.0,Rule (Lexicon),Director,1.0,Rule (Lexicon)
+381,Director - Global Banking,BNP Paribas CIB,Other,0.65,Fallback,Director,1.0,Rule (Lexicon)
+382,Doctoral Student,ETH Zürich,Other,0.39,Fallback,Junior,1.0,ML
+383,Project Manager,Nestlé,Project Management,1.0,ML,Senior,1.0,Rule (Lexicon)
+384,Consultant,Freiberuflich,Consulting,1.0,ML,Senior,1.0,Rule (Lexicon)
+385,Justitiar,Verlagsgruppe Random House,Other,0.3,Fallback,Senior,0.7,Fallback
+386,Team Lead Business Services,Heel,Business Development,1.0,ML,Senior,1.0,Rule (Lexicon)
+387,CEO & Co-founder,SitePlan GmbH,Other,0.44,Fallback,Management,1.0,Rule (Lexicon)
+388,Juristischer Berater,Euler Hermes Deutschland,Consulting,1.0,ML,Senior,0.58,Fallback
+389,"Leitung Personal, Finanzen, Einkauf, IT | Folkwang Universität der Künste",Folkwang Universität der Künste,Purchasing,1.0,ML,Lead,1.0,Rule (Lexicon)
