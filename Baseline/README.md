@@ -1,43 +1,42 @@
-Этот скрипт () реализует **простой алгоритм классификации на основе правил (ключевых слов)**. Это так называемый "Baseline" — базовое решение, с которым сравнивают более сложные ML-модели. `Baseline-rule-based.py`
-Вот пошаговое объяснение того, что происходит в коде:
-### 1. Подготовка "Словарей" (Matchers)
-Функция `build_matcher(csv_path)` создает базу знаний из CSV-файлов ( и ). `department-v2.csv``seniority-v2.csv`
-- **Вход:** Таблица, где есть текст (например, "Software Engineer") и метка (например, "Engineering").
-- **Логика:**
-    1. Нормализует текст (приводит к нижнему регистру, убирает спецсимволы).
-    2. Создает словарь для **точных совпадений** (быстрый поиск). `exact`
-    3. Создает список для **поиска подстроки**. Список сортируется по длине (от длинных к коротким), чтобы сначала находить более специфичные фразы (например, чтобы "Project Manager" нашелся раньше, чем просто "Manager"). `patterns`
+This script implements a rule-based baseline algorithm for classifying job titles. It serves as a benchmark (lower bound) to evaluate the performance of more complex models.
 
-### 2. Выбор актуальной работы
-Функция анализирует список мест работы человека. `choose_current_job`
-- Она ищет только те позиции, где статус `ACTIVE`.
-- Сортирует их по дате начала (`startDate`) и берет самую свежую. Это нужно, чтобы классифицировать текущую должность человека, а не его прошлый опыт.
+#### **Algorithm Logic**
 
-### 3. Предсказание (Inference)
-Функция определяет категорию по названию должности. Алгоритм очень простой: `predict_from_title`
-1. **Нормализация:** Превращает заголовок "Sr. Java Developer!" в "sr java developer".
-2. **Точное совпадение:** Проверяет, есть ли эта фраза целиком в словаре. Если да — возвращает метку.
-3. **Поиск подстроки:** Если точного совпадения нет, пробегается по списку паттернов. Если паттерн (например, "developer") найден внутри названия, возвращает соответствующую метку.
-4. **Default:** Если ничего не найдено, возвращает "Other" (для департамента) или "Professional" (для сеньорности).
+1.  **Strict Matching :**
+    *   The algorithm attempts to predict the **Department** and **Seniority** of a person based on their job title.
+    *   It uses pre-defined lookup tables (dictionaries) created from CSV files.
+    *   A prediction is considered valid **only if** there is an exact match (after normalization) between the profile's job title and an entry in the dictionary.
+    *   If no match is found, the algorithm returns `None` (it does not guess or use a default "Other" value). This ensures that the accuracy metric reflects pure dictionary coverage rather than random chance.
 
-### 4. Оценка качества (Evaluation)
-Основной цикл скрипта:
-1. Загружает размеченные данные из (где мы точно знаем правильные ответы). `linkedin-cvs-annotated.json`
-2. Для каждого профиля:
-    - Берет текущую должность.
-    - Предсказывает Департамент и Сеньорность с помощью своих словарей.
-    - Сравнивает предсказание с истиной (, ). `true_department``true_seniority`
+2.  **Text Normalization:**
+    *   To improve matching, all text (both in the dictionary and in the profiles) undergoes a normalization process:
+        *   Converted to lowercase.
+        *   Non-alphanumeric characters (punctuation, symbols) are removed.
+        *   Multiple spaces are collapsed into a single space.
+    *   Example: `"Sr. Manager, Sales"` becomes `"sr manager sales"`.
 
-3. Собирает результаты в `pandas DataFrame`.
+3.  **Smart Job Selection:**
+    *   A user profile may contain multiple job entries. The algorithm intelligently selects the most relevant one:
+        *   It filters for positions with `status: "ACTIVE"`.
+        *   It sorts these active positions by `startDate` in descending order.
+        *   It selects the **most recent** active job for classification.
 
-### 5. Вывод статистики
-В конце скрипт печатает отчет:
-- Общая точность (какой процент угадан верно). В вашем запуске:
-    - Департаменты: **62.3%**
-    - Сеньорность: **54.8%**
+#### **Code Flow**
 
-**Accuracy:**
-- **Top confusions:** Самые частые ошибки (например, путает "Engineering" с "Other").
-- Примеры конкретных должностей, на которых алгоритм ошибся, чтобы вы могли улучшить словари. **Sample failures:**
+1.  **Data Loading:**
+    *   Loads Department and Seniority mappings from CSV files (`department-v2.csv`, `seniority-v2.csv`).
+    *   Loads the ground truth dataset (`linkedin-cvs-annotated.json`) containing user profiles with known labels.
 
-**Итог:** Это система "поиска по ключевым словам". Она работает быстро и прозрачно, но ошибается, если должность написана нестандартно или ключевого слова нет в ваших CSV-файлах.
+2.  **Dictionary Construction:**
+    *   Builds two lookup dictionaries (one for Department, one for Seniority) where keys are normalized job titles and values are the corresponding labels.
+
+3.  **Main Loop (Evaluation):**
+    *   Iterates through each profile in the dataset.
+    *   Extracts the current job title using the selection logic described above.
+    *   Normalizes the job title.
+    *   Queries the lookup dictionaries.
+    *   Compares the prediction with the ground truth label.
+
+4.  **Reporting:**
+    *   Calculates and prints the Accuracy for both Department and Seniority.
+    *   Accuracy is defined as: `(Number of Correct Exact Matches) / (Total Number of Profiles)`.
