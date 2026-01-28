@@ -4,7 +4,7 @@ The model weights are stored on Google Drive due to their size.
 
 👉 **[Download Model Checkpoint (Google Drive)](https://drive.google.com/drive/folders/1hxRcc6ispLhaqtyVhdRws1gtHEBO2DHO?usp=share_link)**
 
-### Installation / Установка
+### Installation
 1. Download the archive from the link above.
 2. Extract it to `e2e_pipline/`.
 3. Run the pipeline.
