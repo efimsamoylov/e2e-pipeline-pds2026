@@ -1,10 +1,9 @@
-"""
-Evaluation with improved model and strategies:
-1. Better TfidfVectorizer
-2. SMOTE for balancing
-3. Confidence-based fallback to "Other"
-4. Hierarchical classification (rule-based + ML)
-"""
+
+#Evaluation with improved model and strategies:
+#1. Better TfidfVectorizer
+#2. SMOTE for balancing
+#3. Confidence-based fallback to "Other"
+#4. Hierarchical classification (rule-based + ML)
 import json
 import re
 import pandas as pd
@@ -48,7 +47,6 @@ def rule_based_department(position_text: str) -> str:
     """
     text = position_text.lower()
 
-    # ========== SPECIFIC DEPARTMENTS FIRST (before "Other") ==========
 
     # Information Technology
     it_keywords = [
@@ -114,7 +112,6 @@ def rule_based_department(position_text: str) -> str:
     if any(kw in text for kw in pm_keywords):
         return "Project Management"
 
-    # ========== "OTHER" CATEGORY (executive, academic, etc.) ==========
 
     # Executive roles → Other
     executive_keywords = ['ceo', 'cfo', 'cto', 'coo', 'founder', 'owner', 'geschaftsfuhrer',
@@ -160,31 +157,22 @@ def rule_based_seniority(position_text: str) -> str:
     """
     text = position_text.lower()
 
-    # IMPORTANT: Check Director BEFORE Management
-    # Director → Director (but not "assistant director" alone)
+
     if 'director' in text and 'associate' not in text:
-        # If also has management words, check if it's a director-level role
         if any(kw in text for kw in ['director of', 'executive director', 'managing director',
                                        'sales director', 'finance director', 'global director',
                                        'strategic director', 'vertriebsdirektor', 'directeur']):
             return "Director"
-        # Simple "director" or "director" + other words
         if text.strip() == 'director' or (text.startswith('director') or text.endswith('director')):
             return "Director"
-        # Default director → Director
         return "Director"
 
-    # Head of / VP → Director
     if any(kw in text for kw in ['head of', 'vice president', 'vp ', 'vp,', 'v.p.']):
         return "Director"
 
-    # C-level / Founder → Management (after Director check!)
     if any(kw in text for kw in ['ceo', 'cfo', 'cto', 'coo', 'founder', 'owner', 'chief']):
         return "Management"
 
-    # ========== CRITICAL FIX: Manager roles ==========
-    # Most "Manager" roles should be LEAD, not Management!
-    # Only high-level managers are Management.
 
     if 'manager' in text or 'managing' in text:
         # High-level management → Management
