@@ -1,6 +1,5 @@
-"""
-Improved model with better handling of imbalanced classes and 'Other' category.
-"""
+#Improved model with better handling of imbalanced classes and 'Other' category.
+
 from typing import Tuple
 
 import numpy as np
@@ -20,12 +19,7 @@ def train_tfidf_logreg_improved(
     use_smote: bool = True,
     confidence_threshold: float = 0.3
 ) -> Tuple[TfidfVectorizer, LogisticRegression, float]:
-    """
-    Improved training with:
-    1. SMOTE for balancing classes
-    2. Better TfidfVectorizer parameters
-    3. Confidence threshold calibration
-    """
+
     if "text" not in df.columns or "label" not in df.columns:
         raise ValueError(
             f"[{task_name}] DataFrame must contain columns ['text','label']. "
