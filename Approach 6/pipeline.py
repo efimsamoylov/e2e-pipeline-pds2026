@@ -18,7 +18,7 @@ def prepare_train_df(csv_path: str) -> pd.DataFrame:
 
 
 def main():
-    # 1) Train on CSVs (formal evaluation ONLY on CSV split)
+    # 1) Train on CSVs
     dept_df = prepare_train_df(DEPT_CSV_PATH)
     sen_df = prepare_train_df(SEN_CSV_PATH)
 
@@ -29,7 +29,7 @@ def main():
         sen_df, task_name="Seniority", random_state=RANDOM_STATE, test_size=TEST_SIZE
     )
 
-    # 2) Inference on not-annotated JSON (no ground truth)
+    # 2) Inference on not-annotated JSON 
     print("\n===== Inference on not-annotated JSON (no ground truth) =====")
     profiles = load_not_annotated_profiles(JSON_NOT_ANNOTATED_PATH)
     pred_df = predict_on_not_annotated(
