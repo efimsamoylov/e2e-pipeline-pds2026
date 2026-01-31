@@ -21,22 +21,14 @@ def predict_hybrid_smart(
         ml_threshold: float,
         fallback_label: str
 ):
-    """
-    1. Check Rules (Dictionary based).
-    2. If Rules fail -> Check ML (SetFit).
-    3. If ML low confidence -> Fallback.
-    """
 
-    # --- 1. Rule Engine ---
     rule_pred, rule_score = rule_func(text, lexicon, default_label=None)
 
     if rule_pred:
         return rule_pred, 1.0, "Rule (Lexicon)"
 
-    # --- 2. ML Engine ---
     probs = model.predict_proba([text])[0]
 
-    # Convert tensor to numpy if needed
     if hasattr(probs, "cpu"):
         probs = probs.cpu().detach().numpy()
     elif hasattr(probs, "numpy"):
@@ -45,13 +37,11 @@ def predict_hybrid_smart(
     max_conf = float(np.max(probs))
     pred_idx = np.argmax(probs)
 
-    # Get label string
     if hasattr(model, 'labels') and model.labels:
         ml_pred = model.labels[pred_idx]
     else:
-        ml_pred = str(pred_idx)  # Should not happen with SetFit
+        ml_pred = str(pred_idx)  
 
-    # --- 3. Decision ---
     if max_conf >= ml_threshold:
         return ml_pred, max_conf, "ML"
 
@@ -61,7 +51,6 @@ def predict_hybrid_smart(
 def run():
     print("=== APPROACH 7: HYBRID (Lexicon Rules + SetFit AI) ===")
 
-    # 1. Load Resources
     print("\n[1] Loading Lexicons...")
     dept_lexicon = load_lexicon(DEPT_LEXICON_PATH)
     sen_lexicon = load_lexicon(SEN_LEXICON_PATH)
@@ -71,7 +60,6 @@ def run():
     dept_model_path = str(CHECKPOINTS_DIR / "department_model")
     sen_model_path = str(CHECKPOINTS_DIR / "seniority_model")
 
-    # Suppress warnings
     import warnings
     warnings.filterwarnings("ignore")
 
@@ -79,12 +67,10 @@ def run():
     sen_model = SetFitModel.from_pretrained(sen_model_path)
     print("    Models loaded successfully.")
 
-    # 2. Load Data
     print("\n[3] Loading Profiles...")
     profiles = load_profiles(NOT_ANNOTATED_JSON_PATH)
     print(f"    Loaded {len(profiles)} profiles.")
 
-    # 3. Process
     print("\n[4] Running Inference...")
     results = []
 
@@ -105,7 +91,6 @@ def run():
             })
             continue
 
-        # --- PREDICT DEPARTMENT ---
         d_pred, d_conf, d_src = predict_hybrid_smart(
             text,
             predict_department_rule,
@@ -137,7 +122,6 @@ def run():
             "seniority_source": s_src
         })
 
-    # 4. Save
     os.makedirs(os.path.dirname(PREDICTIONS_PATH), exist_ok=True)
     df = pd.DataFrame(results)
     df.to_csv(PREDICTIONS_PATH, index=False)
