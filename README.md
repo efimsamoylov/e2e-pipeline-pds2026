@@ -11,7 +11,7 @@ The model weights are stored on Google Drive due to their size.
 
 ### Disclaimer 
 Please be aware that folders `Approach 6` , `Approach 6_updated` and `Approach 7` may not work since they are kind of legacy code.
-Some paths maybe hardcoded and broken. All you need to see the final results of our work are in `e2e_pipeline` and `Baseline`.
+Some paths maybe hardcoded and broken. All you need to see the final results of our work is in `e2e_pipeline` and `Baseline`.
 
 # **Baseline**
 
