@@ -16,10 +16,10 @@ SENIORITY_HIERARCHY = ["C-Level", "Director", "Management", "Lead", "Senior", "J
 def predict_department_rule(
         text: str,
         lexicon: Dict[str, List[str]],
-        bigram_weight: float = 3.0,  # Увеличим вес фраз
+        bigram_weight: float = 3.0,  
         unigram_weight: float = 1.0,
-        min_score: float = 2.0,  # Минимальный счет, чтобы правило сработало
-        default_label: str = None  # Возвращаем None, если не уверены (чтобы сработал ML)
+        min_score: float = 2.0,  
+        default_label: str = None  
 ) -> Tuple[str, float]:
     t = normalize_text(text)
     scores: Dict[str, float] = {}
@@ -30,11 +30,10 @@ def predict_department_rule(
             term_n = term.strip().lower()
             if not term_n: continue
 
-            if " " in term_n:  # bigram (фраза)
+            if " " in term_n:  
                 if term_n in t:
                     score += bigram_weight
-            else:  # unigram (слово)
-                # Word boundary match (чтобы "it" не находилось внутри "audit")
+            else:  
                 if re.search(rf"(?<!\w){re.escape(term_n)}(?!\w)", t):
                     score += unigram_weight
 
@@ -60,16 +59,15 @@ def predict_seniority_rule(
 ) -> Tuple[str, float]:
     t = normalize_text(text)
 
-    # Ищем по иерархии: если нашли Director, то это важнее, чем Senior
+   
     for label in SENIORITY_HIERARCHY:
         terms = lexicon.get(label, [])
         for term in terms:
             pattern = rf"\b{re.escape(term.lower())}\b"
             if re.search(pattern, t):
-                # Нашли совпадение в высоком приоритете
-                return label, 10.0  # High confidence score
+               
+                return label, 10.0  
 
-    # Если ничего из иерархии не нашли, ищем в остальных ключах (например Professional)
     for label, terms in lexicon.items():
         if label in SENIORITY_HIERARCHY: continue
         for term in terms:
