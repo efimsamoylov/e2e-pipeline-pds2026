@@ -8,10 +8,8 @@ import pandas as pd
 from department_rule_based import load_department_lexicon, predict_department_rule
 from seniority_rule_based import predict_seniority_rule
 
-# переиспользуем твою логику выбора current job, чтобы не дублировать правила
 from run_rule_based_baseline import select_current_job
 
-# Resolve paths relative to the project root (works even if script is run from Rule-Based/)
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -41,7 +39,6 @@ def dept_confidence_from_debug(dept_dbg: Dict[str, Any]) -> Dict[str, float]:
     second_best = float(vals[1]) if len(vals) > 1 else 0.0
     margin = best_score - second_best
 
-    # простая нормализация: чем больше score, тем ближе к 1
     conf = min(1.0, max(0.0, best_score / (best_score + 2.0)))
 
     return {
