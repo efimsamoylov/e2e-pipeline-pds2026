@@ -6,7 +6,6 @@ from tqdm import tqdm
 from sklearn.metrics import classification_report, accuracy_score
 from setfit import SetFitModel
 
-# Импорт конфигурации и функций (убедитесь, что пути в config.py правильные для валидации)
 from config import (
     CHECKPOINTS_DIR, DATA_DIR,
     DEPT_LEXICON_PATH, SEN_LEXICON_PATH,
@@ -15,7 +14,6 @@ from config import (
 from text_processing import select_current_job, normalize_text
 from rule_engine import load_lexicon, predict_department_rule, predict_seniority_rule
 
-# Путь к аннотированному файлу (переопределяем или берем из config)
 ANNOTATED_JSON_PATH = DATA_DIR / "linkedin-cvs-annotated.json"
 
 
@@ -34,12 +32,10 @@ def predict_hybrid_smart(
     3. If ML confidence < threshold -> Fallback.
     """
 
-    # 1. Rules
     rule_pred, rule_score = rule_func(text, lexicon, default_label=None)
     if rule_pred:
         return rule_pred, 1.0, "Rule (Lexicon)"
 
-    # 2. ML (SetFit)
     probs = model.predict_proba([text])[0]
 
     if hasattr(probs, "cpu"):
@@ -55,7 +51,6 @@ def predict_hybrid_smart(
     else:
         ml_pred = str(pred_idx)
 
-    # 3. Decision
     if max_conf >= ml_threshold:
         return ml_pred, max_conf, "ML"
 
