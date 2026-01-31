@@ -23,7 +23,6 @@ def _is_active(exp: Dict[str, Any]) -> bool:
     st = (exp.get("status") or "").strip().upper()
     if st == "ACTIVE":
         return True
-    # Heuristic: no endDate often means current
     return exp.get("endDate") in (None, "", "null")
 
 
