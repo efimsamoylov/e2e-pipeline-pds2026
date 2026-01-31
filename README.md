@@ -9,6 +9,10 @@ The model weights are stored on Google Drive due to their size.
 2. Extract it to `e2e_pipline/`.
 3. Run the pipeline.
 
+### Disclaimer 
+Please be aware that folders `Approach 6` , `Approach 6_updated` and `Approach 7` may not work since they are kind of legacy code.
+Some paths maybe hardcoded and broken. All you need to see the final results of our work are in `e2e_pipeline` and `Baseline`.
+
 # **Baseline**
 
 This script implements a strict, rule-based baseline algorithm for classifying job titles. It serves as a benchmark (lower bound) to evaluate the performance of more complex models.
