@@ -18,19 +18,16 @@ def run_inference():
     # 1. Load Pre-trained Models
     print("\n[1/3] Loading Pre-trained Models...")
 
-    # --- ЗАГРУЗКА СОХРАНЕННЫХ МОДЕЛЕЙ ---
-    # Мы не тренируем их заново, а берем из папки checkpoints
 
     print("  - Loading Saved Department Model...")
     dept_vec = SetFitModel.from_pretrained("../e2e_pipline/models/checkpoints/department_model")
-    dept_clf = None  # Для SetFit классификатор встроен внутри
-    dept_thresh = 0.6  # Снизили порог, чтобы уменьшить Fallback (было 0.999)
+    dept_clf = None  
+    dept_thresh = 0.6 
 
     print("  - Loading Saved Seniority Model...")
     sen_vec = SetFitModel.from_pretrained("../e2e_pipline/models/checkpoints/seniority_model")
     sen_clf = None
-    sen_thresh = 0.6  # Снизили порог (было 0.996)
-    # -------------------------------------------
+    sen_thresh = 0.6  
 
     # 2. Load Unlabeled Data
     print("\n[2/3] Loading Unlabeled Profiles...")
