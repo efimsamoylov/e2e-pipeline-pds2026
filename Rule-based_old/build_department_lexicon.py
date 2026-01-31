@@ -7,7 +7,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 CSV_PATH = "/Users/efim/Desktop/department-v2.csv"
 OUT_PATH = "/Users/efim/Desktop/Results/department_lexicon.json"
 
-# Мини-стоплист для мультиязычных "мусорных" слов (расширишь по ходу)
 STOP = {
     "und", "oder", "der", "die", "das", "im", "in", "am", "an", "auf", "für", "mit", "von", "zu",
     "de", "la", "le", "les", "du", "des", "et", "en", "au", "aux",
@@ -17,7 +16,6 @@ STOP = {
     "or", "is", "are", "was", "were", "be", "been", "being"
 }
 
-# Generic seniority / job-level words that are not department-specific
 GENERIC_JOB_WORDS = {
     # English
     "manager", "management", "senior", "junior", "director", "head", "lead", "officer",
@@ -34,13 +32,11 @@ GENERIC_JOB_WORDS = {
     "chef", "responsable", "directeur", "directrice", "administrateur", "administratrice"
 }
 
-# Company legal forms / boilerplate tokens that should not drive department prediction
 LEGAL_FORM_WORDS = {
     "gmbh", "ag", "kg", "kgaa", "gbr", "ohg", "eg", "ev", "e.v", "bv", "nv",
     "inc", "ltd", "llc", "sarl", "s.a", "sa", "plc", "co"
 }
 
-# Frequent brand/region noise that should not drive department prediction
 BRAND_REGION_NOISE = {
     "volkswagen", "keysight", "jaguar", "rover", "land rover", "jaguar land", "swiss",
     "dach", "emea", "eemea", "europe", "west europe", "south west", "dach central",
@@ -51,7 +47,6 @@ BRAND_REGION_NOISE = {
     "healthcare it"
 }
 
-# Generic non-department tokens that are too broad and harm rule-based department scoring
 GENERIC_NON_DEPT_NOISE = {
     "service", "services", "tool", "tools", "event", "events", "market", "markets",
     "international", "global", "regional", "region", "country",
@@ -114,7 +109,6 @@ texts = df["text"].tolist()
 labels = df["label"].tolist()
 classes = sorted(df["label"].unique())
 
-# TF-IDF, включая биграммы; token_pattern оставляет слова/дефисы/плюсы/точки
 vec = TfidfVectorizer(
     lowercase=True,
     ngram_range=(1, 2),
@@ -125,8 +119,6 @@ vec = TfidfVectorizer(
 X = vec.fit_transform(texts)
 terms = np.array(vec.get_feature_names_out())
 
-# Считаем, насколько термин специфичен для класса:
-# score = mean_tfidf_in_class - mean_tfidf_outside_class
 lexicon = {}
 for c in classes:
     in_mask = (df["label"].values == c)
@@ -204,7 +196,6 @@ for c, items in lexicon.items():
 
 lexicon = final_lexicon
 
-# Сохраняем
 import os
 os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 with open(OUT_PATH, "w", encoding="utf-8") as f:
